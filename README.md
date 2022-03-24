@@ -1,4 +1,4 @@
-<h1 align="center">🇩🇪 German translation for <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2375603520">NIMBY Rails</></h1>
+<h1 align="center">🇩🇪 (WIP) German translation for <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2375603520">NIMBY Rails</></h1>
 
 <p align="center">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2375603520">
