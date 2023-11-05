@@ -284,27 +284,27 @@ msgstr "Ascender vía a andén"
 #v1.9.17
 msgctxt "stop_picker_adv"
 msgid "Advanced mode"
-msgstr "Modo avanzado"
+msgstr "Erweiterter Modus"
 
 #v1.9.17
 msgctxt "stop_picker_basic"
 msgid "Basic mode"
-msgstr "Modo básico"
+msgstr "Einfacher Modus"
 
 #v1.9.17
 msgctxt "trackmode_point"
 msgid "Point mode"
-msgstr "Modo punto"
+msgstr "Punkt Modus"
 
 #v1.9.17
 msgctxt "trackmode_tangent"
 msgid "Tangent mode"
-msgstr "Modo tangente"
+msgstr "Tangenten Modus"
 
 #v1.9.17
 msgctxt "warn_straight"
 msgid "Requires exactly 2 tracks"
-msgstr "Requiere exactamente 2 vías"
+msgstr "Benötigt genau 2 Knoten"
 
 
 
@@ -314,7 +314,7 @@ msgstr "Requiere exactamente 2 vías"
 #v1.9.17
 msgctxt "error_too_old_save"
 msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
-msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.5 o más recientes."
+msgstr "Die Version der Spiels die diesen Speicherstand erstellt hat ist zu alt, deswegen kann der Speicherstand nicht geladen werden. Versuch v1.5 oder neuere legacy Versionen in Steam"
 
 
 
@@ -354,12 +354,12 @@ msgstr "60 Minuten"
 #v1.3.13
 msgctxt "acc_export_desc"
 msgid "Accounting data has been exported to {}"
-msgstr "Se ha exportado la contabilidad a {}"
+msgstr "Buchhaltungsdaten wurden nach {} exportiert"
 
 #v1.3.13
 msgctxt "acc_export_title"
 msgid "Exported accounting data"
-msgstr "Contabilidad exportada"
+msgstr "Buchhaltungsdaten wurden exportiert"
 
 #v1.1.31
 msgctxt "accounting"
@@ -379,7 +379,7 @@ msgstr "Konstruktion"
 #v1.4.15
 msgctxt "accounting_construction_buildings"
 msgid "Buildings"
-msgstr "Edificios"
+msgstr "Gebäude"
 
 #v1.1.31
 msgctxt "accounting_construction_depots"
@@ -404,7 +404,7 @@ msgstr "Gleise"
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "eventos"
+msgstr "Ereignisse"
 
 #v1.1.31
 msgctxt "accounting_financing"
@@ -439,18 +439,22 @@ msgstr "Kompensiert"
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
+msgstr "Einsteigen fehlgeschlagen: Voller Zug"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "Compen.: intervención"
+msgstr "Komp.: Intervention"
 
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Lost"
 msgstr "Verloren"
+
+#v1.1.72
 msgctxt "accounting_pax_never_serviced"
+msgid "Never serviced"
+msgstr "Nie bedient"
 
 #:
 msgctxt "accounting_pax_post"
@@ -570,17 +574,17 @@ msgstr "Züge"
 #v1.8.24
 msgctxt "accounting_trains_collisions"
 msgid "Collisions"
-msgstr "Colisiones"
+msgstr "Kollisionen"
 
 #v1.7.15
 msgctxt "accounting_trains_departure"
 msgid "Departures"
-msgstr "Salidas"
+msgstr "Abfahrten"
 
 #v1.8.24
 msgctxt "accounting_trains_extra_stop_time"
 msgid "Extra stop"
-msgstr "Parada extra"
+msgstr "Zusätzliche Haltezeit"
 
 #v1.1.31
 msgctxt "accounting_trains_intervention"
@@ -590,12 +594,12 @@ msgstr "Interventionen"
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr "Llegada tardía >10s"
+msgstr "Verspätete Ankunft >10s"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Betriebskosten"
 
 #v1.1.31
 msgctxt "accounting_trains_purchases"
@@ -610,12 +614,12 @@ msgstr "Laufende Kosten"
 #v1.7.15
 msgctxt "accounting_trains_running_distance"
 msgid "Running distance"
-msgstr "Distancia recorrida"
+msgstr "Laufleistung"
 
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Tiempo recorrido"
+msgstr "Laufzeit"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
@@ -625,17 +629,17 @@ msgstr "Zugverkäufe"
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr "Espera en señal"
+msgstr "Signal Wartezeit"
 
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr "Parada programada"
+msgstr "Geplante Haltezeit"
 
 #v1.1.72
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {} UTC0"
-msgstr "Tiempo conta.: {} UTC0"
+msgstr "Buchhaltungszeit: {} UTC0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -685,42 +689,42 @@ msgstr "Fremde ohne Einladung:"
 #v1.3.13
 msgctxt "alert_after"
 msgid "After:"
-msgstr "Pasados:"
+msgstr "Nach:"
 
 #v1.3.13
 msgctxt "alert_on"
 msgid "Alert on:"
-msgstr "Alerta en:"
+msgstr "Warnung wenn:"
 
 #v1.4.15
 msgctxt "alerts_pause_game"
 msgid "Alerts pause game"
-msgstr "Alertas pausan el juego"
+msgstr "Warnungen pausieren das Spiel"
 
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "Incluso en máxima velocidad"
+msgstr "Auch bei höchster Geschwindigkeit"
 
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
-msgstr "Aplicar"
+msgstr "Anwenden"
 
 #v1.1.72
 msgctxt "asset_lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Linien"
 
 #v1.1.72
 msgctxt "asset_stations"
 msgid "Stations"
-msgstr "Estaciones"
+msgstr "Stationen"
 
 #v1.1.72
 msgctxt "asset_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Züge"
 
 #v1.5.41
 msgctxt "auto_clone"
@@ -730,22 +734,22 @@ msgstr "(Auto)"
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Sigue la hora del día automaticamente"
+msgstr "Automatisches Verfolgen und Blättern in der Liste je nach Tageszeit"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Auto exportar conta.:"
+msgstr "Automatisches exportieren der Buchhaltungsdaten:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
 msgid "Enabled"
-msgstr "Activado"
+msgstr "Aktiv"
 
 #v1.3.13
 msgctxt "autoexporting"
 msgid "Autoexporting..."
-msgstr "Auto exportando..."
+msgstr "Automatischer Export..."
 
 #v1.1.31
 msgctxt "autosave_interval"
@@ -770,12 +774,12 @@ msgstr "Zurück"
 #v1.7.15
 msgctxt "back_to_main_menu"
 msgid "Back to main menu"
-msgstr "volver a menú principal"
+msgstr "Zurück zum Hauptmenü"
 
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "Schlechter Winkel"
+msgstr "Falscher Winkel"
 
 #:
 msgctxt "banner_expain_ignore"
@@ -820,7 +824,7 @@ msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Willst
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
 msgid "Load saved game {}?"
-msgstr "Cargar partida {}?"
+msgstr "Gespeichertes Spiel laden {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
@@ -835,7 +839,7 @@ msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Willst
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
 msgid "Quit current game and load saved game {}?"
-msgstr "Salir de la partida para cargar {}?"
+msgstr "Aktuelles Spiel beenden und Spielstand laden {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
@@ -850,7 +854,7 @@ msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Willst
 #v1.4.15
 msgctxt "bill_show_full"
 msgid "Show full billing details"
-msgstr "Mostrar factura completa"
+msgstr "Vollständige Abrechnungsdetails anzeigen"
 
 #v1.1.31
 msgctxt "bill_tab_client"
@@ -870,7 +874,7 @@ msgstr "Auswahl"
 #v1.7.15
 msgctxt "browse_shared_games"
 msgid "Browse shared games"
-msgstr "Ver partidas compartidas"
+msgstr "Geteilte Spiele durchsuchen"
 
 #v1.1.31
 msgctxt "build"
