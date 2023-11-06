@@ -1296,120 +1296,120 @@ msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
 msgstr "Bitte wähle Gleise, Stationen oder Depots aus, um fortzufahren."
 
-msgctxt "constraint_disp"
 #v1.4.22
+msgctxt "constraint_disp"
 msgid "Displace:"
+msgstr "Verrücken:"
 
-msgstr "Desplazar:"
 #v1.2.22
-msgid "Flip"
 msgctxt "constraint_flip"
-msgstr "Rotar"
+msgid "Flip"
+msgstr "Tauschen"
 
-msgctxt "constraint_max_speed"
 #v1.5.31
+msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Velocidad max. manual:"
+msgstr "Benutzerdefinierte maximale Geschwindigkeit:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
+msgstr "Werte über dem Maximalwert des Gleise werden Ignoriert. Auf 0 setzen um die eigenen Geschwindigkeitsbegrenzung zu entfernen."
 
 #v1.4.22
 msgctxt "constraint_offset"
 msgid "Offset:"
-msgstr "Desplazar:"
+msgstr "Versatz:"
 
 #v1.5.31
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Desplazar paralelo:"
+msgstr "Paralleler Vesatz:"
 
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Elegir padre"
+msgstr "Elternknoten auswählen"
 
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "Quitar restricción"
+msgstr "Einschränkung entferen"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Restricción paralela:"
+msgstr "Parallele Einschränkungen:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "Entfernen"
 
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "Selecciona la vía padre"
+msgstr "Wähle das Elterngleis"
 
 #v1.4.15
 msgctxt "constraint_straight"
 msgid "Keep straight"
-msgstr "Mantener recto"
+msgstr "Gerade halten"
 
 #v1.2.22
 msgctxt "constraint_t"
 msgid "Segment t (0 to 1):"
-msgstr "T de segmento (0 to 1):"
+msgstr "Abscnitt t (0 bis 1):"
 
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr "Bloqueo de punto:"
+msgstr "Kontrollpunkt sperren:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr "A punto de control"
+msgstr "Zu einem Kontrollpunkt"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr "A un punto de vía"
+msgstr "Zu einem Gleispunkt"
 
 #v1.5.41
 msgctxt "constraint_xform_grid_snap"
 msgid "Snap:"
-msgstr "Reticular:"
+msgstr "Einrasten:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate"
 msgid "Rotate:"
-msgstr "Rotar:"
+msgstr "Drehen:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr "Rotar fin de vía:"
+msgstr "Gleisende rotieren:"
 
 #v1.5.41
 msgctxt "constraint_xform_translate"
 msgid "Translate:"
-msgstr "Mover:"
+msgstr "Bewegen:"
 
 #v1.5.41
 msgctxt "constraints_bulk_editor"
 msgid "Bulk editor"
-msgstr "Editor en grupo"
+msgstr "Masseneditor"
 
 #v1.4.15
 msgctxt "constraints_editor"
 msgid "Track properties"
-msgstr "Propiedades de vía"
+msgstr "Gleiseigenschaften"
 
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr "No hay planos pendientes de construcción"
+msgstr "Es existieren keine Entfürfe, die gebaut werden könnten"
 
 #:
 msgctxt "construction_conflicts_cash"
@@ -1424,12 +1424,12 @@ msgstr "Konflikte blockieren den Bau"
 #v1.1.37
 msgctxt "continue_game"
 msgid "Continue game"
-msgstr "Continuar partida"
+msgstr "Spiel fortsetzen"
 
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr "Copiado! Pega con Ctrl-V"
+msgstr "Kopiert! Einfügen mit Strg-V"
 
 #v1.1.31
 msgctxt "copy"
@@ -1499,7 +1499,7 @@ msgstr "Vereinfachtes Chinesisch"
 #:
 msgctxt "default_han_font_jpn"
 msgid "Japanese"
-msgstr "japanisch"
+msgstr "Japanisch"
 
 #:
 msgctxt "default_han_font_kor"
@@ -1519,37 +1519,37 @@ msgstr "Zug {}"
 #v1.4.15
 msgctxt "default_user_label"
 msgid "Edit me"
-msgstr "Edítame"
+msgstr "Editier mich"
 
 #v1.4.15
 msgctxt "delete_clip"
 msgid "Delete clip"
-msgstr "Borrar clip"
+msgstr "Clip Löschen"
 
 #v1.4.22
 msgctxt "delete_collection"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Kollektion Löschen"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "Mover la partida guardada a la papelera"
+msgstr "Ausgewählter Speicherstand in den Papierkorb schieben"
 
 #v1.1.58
 msgctxt "delete_line"
 msgid "Delete line"
-msgstr "Borrar línea"
+msgstr "Linie Löschen"
 
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Borrar y vender trenes"
+msgstr "Löschen und Züge verkaufen"
 
 #v1.6.13
 msgctxt "delete_only_bp"
 msgid "Delete only blueprints"
-msgstr "Borrar solo planos"
+msgstr "Lösche nur entwürfe"
 
 #v1.4.15
 msgctxt "delete_tracks"
@@ -1564,7 +1564,7 @@ msgstr "{:.1f} Fahrgäste / s"
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
-msgstr "Profundidad {}"
+msgstr "Tiefe {}"
 
 #v1.1.31
 msgctxt "description"
@@ -1579,7 +1579,7 @@ msgstr "Deaktiviert"
 #:
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr "Anzeige-Modus"
+msgstr "Anzeige-Modus:"
 
 #:
 msgctxt "display_mode_exclusive_fullscreen"
@@ -1614,12 +1614,12 @@ msgstr "Fertig"
 #v1.4.15
 msgctxt "edit_clip_name"
 msgid "Edit clip name"
-msgstr "Editar nombre del clip"
+msgstr "Clip Namen editieren"
 
 #v1.4.22
 msgctxt "edit_collection_name"
 msgid "Edit collection name"
-msgstr "Editar nombre de colección"
+msgstr "Kollektionsnamen editieren"
 
 #v1.2.22
 msgctxt "editor_add"
@@ -1629,72 +1629,72 @@ msgstr "Gleis hinzufügen oder bestehendes fortführen"
 #v1.8.24
 msgctxt "editor_branch_append"
 msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr "Empezar o unir ramas al mover el cursor sobre las vías"
+msgstr "Abzweigungen beginnen oder verbinden, indem du den Mauszeiger über die Gleise bewegst"
 
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
-msgstr "Crear nuevos edificios"
+msgstr "Neues Gebäude erstellen"
 
 #:
 msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
-msgstr "Auswahl | verschieben, löschen und bearbeiten"
+msgstr "Auswahl verschieben, löschen und bearbeiten"
 
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
-msgstr "Crear nuevas señales"
+msgstr "Erstelle neue Signale"
 
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
 msgid "Click a control point to make it the building parent"
-msgstr "Haz click en un nodo de control de vía para mantener el edificio pegado a la misma"
+msgstr "Klicke auf einen Kontrollpunkt um es als Gebäudeelternteil festzulegen"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr "Esc para cancelar elección"
+msgstr "Esc um die Auswahl zu beenden"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Click en punto de control para hacerlo el padre de la restricción"
+msgstr "Klicke auf einen Kontrollpunkt, um ihn zum Elternteil der Beschränkung zu machen"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr "Cinta de edificio"
+msgstr "Gebäudeband"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
 msgid "Parallel track tape"
-msgstr "Cinta paralela"
+msgstr "Parallelgleis-Band"
 
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr "Convertir en andén"
+msgstr "Gleise zu Stationsgleise befördern"
 
 #v1.6.13
 msgctxt "editor_sat_split"
 msgid "Split tracks"
-msgstr "Partir la vía"
+msgstr "Gleise teilen"
 
 #v1.6.13
 msgctxt "editor_sat_track_tape"
 msgid "Track tape"
-msgstr "Cinta de vía"
+msgstr "Gleis-Band"
 
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Selecciona una señal para asignarla como el discriminador de andén"
+msgstr "Klicken, um ein Signal als Alternativhaltesignal auszuwählen"
 
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
-msgstr "Crear nuevas estaciones"
+msgstr "Station Erstellen"
 
 #:
 msgctxt "editor_tip_add_esc"
@@ -1714,7 +1714,7 @@ msgstr "Klicke mit der linken Maustaste auf eine andere Stelle, um ein neues Gle
 #v1.8.24
 msgctxt "editor_tip_add_left3"
 msgid "Left click on length of existing tracks to branch them"
-msgstr "Click izquierdo sobre las vías para crear ramas"
+msgstr "Klicke mit der linken Maustaste auf ein Gleis, um einen Abzweig zu erstellen"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
@@ -1749,7 +1749,7 @@ msgstr "Klicke mit der linken Maustaste, um ein neues Streckensegment zu erstell
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
 msgid "Hold Shift to keep creating more segments."
-msgstr "Presionar shift para crear segmentos en secuencia."
+msgstr "Halte die Umschalttaste (Shift) gedrückt, um mehrere segmente zu erstellen."
 
 #:
 msgctxt "editor_tip_cont_mouse"
@@ -1759,12 +1759,12 @@ msgstr "Bewege den Mauszeiger über ein vorhandenes Ende der Strecke, um zu sehe
 #v1.4.15
 msgctxt "editor_tip_copy"
 msgid "Ctrl-C to copy selected objects into clipboard"
-msgstr "Ctrl-C para copiar la selección al portapapeles"
+msgstr "Strg-C um die ausgewählten Objekte in die Zwischenablage zu kopieren"
 
 #v1.4.15
 msgctxt "editor_tip_create_del"
 msgid "Del to delete selected objects"
-msgstr "Del para borrar los objetos seleccionados"
+msgstr "Entf um die augewählten Objekte zu löschen"
 
 #v1.6.13
 msgctxt "editor_tip_create_del_inline"
