@@ -1769,17 +1769,17 @@ msgstr "Entf um die augewählten Objekte zu löschen"
 #v1.6.13
 msgctxt "editor_tip_create_del_inline"
 msgid "Shift-Del to delete selected inner tracks"
-msgstr "Shift-Del para borrar las vías interiores"
+msgstr "Shift-Entf um innere Knoten zu entfernen"
 
 #v1.4.15
 msgctxt "editor_tip_create_drag"
 msgid "Drag any selected control point to move the selection"
-msgstr "Arrastra cualquiera de los controles de los objetos seleccionados para mover la selección"
+msgstr "Ziehe einen Knoten der ausgewählten Objekte um die ganze Auswahl zu verschieben"
 
 #v1.4.15
 msgctxt "editor_tip_create_drag_alt"
 msgid "Alt and drag any selected control point to rotate the selection"
-msgstr "Alt y arrastra desde cualquier nodo de control para rotar la selección"
+msgstr "Alt und ziehen an einem ausgewählten Knoten, um die Auswahl zu drehen"
 
 #:
 msgctxt "editor_tip_create_esc"
@@ -1804,12 +1804,12 @@ msgstr "Klicke mit der linken Maustaste auf Streckenkontrollpunkte, um die Auswa
 #v1.4.15
 msgctxt "editor_tip_create_prompt_sel"
 msgid "To move or delete objects, you must select their control points"
-msgstr "Para mover o borrar objetos, debes seleccionar sus puntos de control"
+msgstr "Um Objekte zu bewegen, oder zu entfernen, musst du die Objekte an den Knoten auswählen"
 
 #v1.4.15
 msgctxt "editor_tip_create_rebp2"
 msgid "{} to change selected built object(s) into blueprint object(s)"
-msgstr "{} para convertir en planos las objetos seleccionadas"
+msgstr "{} um ausgewählte gebaute Objekte in Entwürfe zu ändern"
 
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
