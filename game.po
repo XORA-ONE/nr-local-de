@@ -1134,7 +1134,7 @@ msgstr "Host: {0} | {1} ms | {2:.2f}% ▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr "Estadísticas de streaming de cliente"
+msgstr "Client-Stream-Statistiken"
 
 #v1.4.15
 msgctxt "clip_auto_name"
@@ -1144,7 +1144,7 @@ msgstr "Clip #{}"
 #v1.3.13
 msgctxt "color"
 msgid "Color:"
-msgstr "Color:"
+msgstr "Farbe:"
 
 #v1.1.31
 msgctxt "company_tab_info"
@@ -1154,12 +1154,12 @@ msgstr "Info"
 #v1.5.31
 msgctxt "company_tab_loans"
 msgid "Loans"
-msgstr "Crédito"
+msgstr "Kredite"
 
 #v1.5.31
 msgctxt "company_tab_options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "Optionen"
 
 #v1.1.31
 msgctxt "confirm_bp"
@@ -1174,42 +1174,42 @@ msgstr "Möchtest du den aktuellen Entwurf für $ {} bauen?"
 #v1.4.15
 msgctxt "confirm_clip_unknown"
 msgid "Clip contains unknown objects or mods"
-msgstr "El clip contiene objetos o mods desconocidos"
+msgstr "Clip enthält unbekannte Objekte oder Modifikationen"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_1"
 msgid "One or more objects in the clip references an unknown object kind:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un tipo de objeto desconocido:\n"
+msgstr "Ein oder mehrere Objekte im Clip verweisen auf eine unbekannte Objektart:\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
+msgstr "Ein oder mehrere Objekte im Clip verweisen auf eine unbekannte Modifikation:\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+msgstr "Kopieren unter Verwendung von Standardobjekten, um unbekannte Objekte durch Objekte des Basisspiels zu ersetzen, ohne dass neue Objekttypen oder Modifikationen hinzugefügt oder aktiviert werden müssen.\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_4"
 msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
+msgstr "Kopieren mit neuen Modifikationen, um die unbekannten Gegenstandstypen zu deinem Spiel hinzuzufügen. Du musst die Modifikationen im Steam Workshop abonnieren, wenn die sie noch nicht abonniert hast."
 
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Kolletion Löschen"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_body"
 msgid "Delete the selected collection?"
-msgstr "Borrar la colección seleccionada?"
+msgstr "Möchtest du die ausgewählte Kollektion löschen?"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_ok"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Kollektion Löschen"
 
 #v1.1.31
 msgctxt "confirm_construction"
@@ -1223,47 +1223,47 @@ msgstr "Löschen bestätigen"
 
 msgctxt "confirm_delete_desc"
 msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Eine oder mehrere ausgewählte Gleise sind bereits erstellt. Wenn du sie löschst, wird das Geld nicht zurückerstattet. Dieser Vorgang kann nicht rückgängig gemacht werden. Bist du dir sicher?"
+msgstr "Eine oder mehrere ausgewählte Gleise sind bereits gebaut. Wenn du sie löschst, wird das Geld nicht zurückerstattet. Dieser Vorgang kann nicht rückgängig gemacht werden. Bist du dir sicher?"
 
 #v1.1.58
 msgctxt "confirm_delete_line"
 msgid "Confirm line deletion"
-msgstr "Borrar la línea?"
+msgstr "Bist du dir sicher, dass du die Linie Löschen möchtest?"
 
 #v1.1.58
 msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
-msgstr "Confirmas que quieres borrar la línea de nombre {}?"
+msgstr "Möchtest du die Linie mit dem Namen {} Löschen?"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Confirmar intervención de línea"
+msgstr "Linienintervention Bestätigen"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
+msgstr "Möchtest du alle Züge, die derzeit auf der Linie {0} verkehren, für einen Preis von ${1} Intervenieren?"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
-msgstr "Confirmar el paso a dinero ilimitado"
+msgstr "Bestätige den wechsel zu unbegrenztem Geld"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "Pasar a dinero ilimitado es definitivo. Estás seguro?"
+msgstr "Der wechsel zu unbegrenztem Geld kann nict rückgängig gemacht werden. Bist du dir sicher?"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
 msgid "Confirm switching to unrestricted coupling"
-msgstr "Confirma el cambio a acople sin restricciones"
+msgstr "Bestätige den wechsel zu unbegrenztem Kuppeln"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers_desc"
 msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr "El cambio a acople sin restricciones no tiene vuelta atrás. Estás seguro?"
+msgstr "Der wechsel zu unbegrenztem Kuppeln kann nicht rückgängig gemacht werden. Bist du dir sicher?"
 
 #v1.1.31
 #v1.4.15
