@@ -4,17 +4,17 @@
 #v1.9.17
 msgctxt "alerts_pause_game_only_0_delay"
 msgid "Only if delay is 0"
-msgstr "Solo si pasados 0 minutos"
+msgstr "Nur wenn Verspätung 0 ist"
 
 #v1.9.17
 msgctxt "assets_live_update"
 msgid "Live updates"
-msgstr "Tiempo real"
+msgstr "Echtzeitupdates"
 
 #v1.9.17
 msgctxt "built_bill"
 msgid "Built objects report"
-msgstr "Objetos construidos"
+msgstr "Bericht über erstellte Objekte"
 
 #v1.9.17
 msgctxt "constraint_offset2_add"
@@ -34,82 +34,82 @@ msgstr "="
 #v1.9.17
 msgctxt "constraint_platforms"
 msgid "Platforms:"
-msgstr "Andenes:"
+msgstr "Gleise:"
 
 #v1.9.17
 msgctxt "constraint_platforms_demote"
 msgid "Demote"
-msgstr "Descender"
+msgstr "Zurückstufen"
 
 #v1.9.17
 msgctxt "constraint_platforms_promote"
 msgid "Promote"
-msgstr "Ascender"
+msgstr "Befördern"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
 msgid "Destination"
-msgstr "Destino"
+msgstr "Ziel"
 
 #v1.9.17
 msgctxt "dep_grp_line"
 msgid "Line"
-msgstr "Línea"
+msgstr "Linie"
 
 #v1.9.17
 msgctxt "dep_grp_next_stop"
 msgid "Next stop"
-msgstr "Siguiente parada"
+msgstr "Nächster Halt"
 
 #v1.9.17
 msgctxt "dep_grp_train"
 msgid "Train"
-msgstr "Tren"
+msgstr "Zug"
 
 #v1.9.17
 msgctxt "dep_late"
 msgid "Max late"
-msgstr "Retraso max"
+msgstr "Maximale verspätung"
 
 #v1.9.17
 msgctxt "dep_sched"
 msgid "Scheduled"
-msgstr "Por horario"
+msgstr "Geplant"
 
 #v1.9.17
 msgctxt "destinations"
 msgid "Destinations"
-msgstr "Destinos"
+msgstr "Ziele"
 
 #v1.9.17
 msgctxt "editor_sel_only_buildings"
 msgid "Keep only buildings in the selection"
-msgstr "Mantener solo los edificios en la selección"
+msgstr "Nur Gebäude in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_sel_only_child_tracks"
 msgid "Keep only parallel child tracks in the selection"
-msgstr "Mantener solo las vías paralelas hijas en la selección"
+msgstr "Nur parallele Kindergleise in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_sel_only_parent_tracks"
 msgid "Keep only parallel parent tracks in the selection"
-msgstr "Mantener solo las vías paralelas padres en la selección"
+msgstr "Nur parallele Elterngleise in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_sel_only_tracks"
 msgid "Keep only tracks in the selection"
-msgstr "Mantener solo las vías en la selección"
+msgstr "Nur Gleise in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_shapemode_full"
 msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
-msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
+msgstr "Vollständige Formen: Gleise werden mit Liniensegmenten, Kreisbögen und Klothoiden geformt"
 
 #v1.9.17
 msgctxt "editor_shapemode_limited"
 msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
-msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
+msgstr "Limitierte Formen: Gleise werden mit Liniensegmenten und Kreisbögen geformt"
 
 #v1.9.17
 msgctxt "editor_tangent_fix"
@@ -124,92 +124,92 @@ msgstr "NOT IN GAME - Interpolate tangent: average previous track and current tr
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_click"
 msgid "Click to cancel"
-msgstr "Click para cancelar"
+msgstr "Zum Abbrechen klicken"
 
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_dbl_click"
 msgid "Double click to cancel"
-msgstr "Doble click para cancelar"
+msgstr "DOppelklick zum Abbrechen"
 
 #v1.9.17
 msgctxt "editor_tip_cont_undo"
 msgid "Ctrl-Z to undo last track node"
-msgstr "Ctrl-Z para borrar el último nodo"
+msgstr "Strg-Z um den letzten Gleisknoten rückgängig zu machen"
 
 #v1.9.17
 msgctxt "editor_tip_tangent_left"
 msgid "Release left button to stop rotating the track tangent"
-msgstr "Soltar el botón izquierdo para parar de rotar la tangente de la vía"
+msgstr "Linke Maustaste los lassen um das drehen der Gleissegmente zu stoppen"
 
 #v1.9.17
 msgctxt "file_picker_corrupted"
 msgid "Corrupted file"
-msgstr "Archivo corrupto"
+msgstr "Beschädigte Datei"
 
 #v1.9.17
 msgctxt "kb_track_sat_platform_tape"
 msgid "Tracks: platform tape"
-msgstr "Vías: cinta de andén"
+msgstr "Gleise: Bahnsteig-Band"
 
 #v1.9.17
 msgctxt "lineeditor_adding_sec_stop_s1"
 msgid "Click on tracks to add a new secondary stop point"
-msgstr "Click sobre vías para añadir una nueva paradada secundaria"
+msgstr "Klicke auf die Gleise um neue Alternativhalte hinzuzufügen"
 
 #v1.9.17
 msgctxt "lineeditor_adding_sec_stop_title"
 msgid "Selecting secondary signal"
-msgstr "seleccionado señal secundaria"
+msgstr "Auswählen des Alternativhaltsignals"
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_basic"
 msgid "Click on station platform arrows to change the stop platform"
-msgstr "Click en las flechas de los andenes para cambiar el andén de parada"
+msgstr "Klicke auf die Pfeile auf den Stationsgleisen um die Platform zu ändern"
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_s1"
 msgid "Click on tracks to change stop point"
-msgstr "Click en las vías para cambiar el punto de parada"
+msgstr "Klicke auf die Gleise um den Haltepunkt zu ändern"
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_title"
 msgid "Changing stop point"
-msgstr "Cambiando el punto de parada"
+msgstr "Haltepunkt ändern"
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_basic"
 msgid "Click on station platform arrows to create new line stops"
-msgstr "Click en las flechas de los andenes para crear nuevas paradas"
+msgstr "Klicke auf die Pfeile auf den Stationsgleisen um neue Halte einer Linie hinzuzufügen"
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_s1"
 msgid "Click on tracks to set the stop point"
-msgstr "Click en las vías para elegir el punto de parada"
+msgstr "Klicke auf die Gleise um den Haltepunkt zu wählen"
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_title"
 msgid "Creating new stop"
-msgstr "Creando nueva parada"
+msgstr "Erstelle neuen Halt"
 
 #v1.9.17
 msgctxt "lineeditor_facing_tip"
 msgid "Move the mouse to select the facing direction of the train, then click to confirm"
-msgstr "Mueve el ratón para seleccionar la dirección de la parada, click para confirmar"
+msgstr "Bewege den Mauszeiger um die Halterichtung des Zuges auszuwählen, dann Klicke zum bestätigen"
 
 #v1.9.17
 msgctxt "lineeditor_new_alt_stop_basic"
 msgid "Click on station platform arrows to create a new secondary platform stop"
-msgstr "Click en las flechas de los andenes para crear nuevas paradas secundarias"
+msgstr "Klicke auf die Pfeile auf den Stationsgleisen um neue Alternativhalte hinzuzufügen"
 
 #v1.9.17
 msgctxt "loader_legacy_rebuild_19"
 msgid "Rebuilding pre-1.9 tracks"
-msgstr "Reconstruyendo vías pre-1.9"
+msgstr "Rekonstruktion von pre-1.9 Gleisen"
 
 #v1.9.17
 msgctxt "node_mode"
 msgid "Node mode:"
-msgstr "Modo de nodo:"
+msgstr "Knotenmodus:"
 
 #v1.9.17
 msgctxt "option_company_pax_train_matching"
@@ -229,57 +229,57 @@ msgstr "NOT IN GAME - Matching train, run, line and stop"
 #v1.9.17
 msgctxt "refresh_built_report"
 msgid "Refresh built objects report"
-msgstr "Actualizar informe de objetos"
+msgstr "Neuladen des Berichtes über bereits gebaute Objekte"
 
 #v1.9.17
 msgctxt "report_no_built"
 msgid "There are no built objects"
-msgstr "No hay objetos construidos"
+msgstr "Es existieren keine gebauten Objekte"
 
 #v1.9.17
 msgctxt "reset_boundary"
 msgid "Reset boundary"
-msgstr "Restablecer límite"
+msgstr "Zurücksetzen der Gleisgrenze"
 
 #v1.9.17
 msgctxt "reset_boundary_radius"
 msgid "Reset for radius:"
-msgstr "Rest. para radio:"
+msgstr "Zurücksetzen des Radius:"
 
 #v1.9.17
 msgctxt "reset_boundary_radius_tip"
 msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
-msgstr "NOTA: el radio del círculo mostrado por el editor es una aproximación y puede tener un error de hasta el 5%"
+msgstr "Beachte: Der Kreisradius der im Gleiseditor angezeigt wird ist nur eine Annäherung und kann bis zu 5% falsch sein"
 
 #v1.9.17
 msgctxt "reset_boundary_tan"
 msgid "Reset boundary to middle point"
-msgstr "Restablecer límite al punto medio"
+msgstr "Gleisgrenze auf MIttelpunkt zurücksetzen"
 
 #v1.9.17
 msgctxt "reset_tangent"
 msgid "Reset tangent"
-msgstr "Restablecer tangente"
+msgstr "Tangente zurücksetzen"
 
 #v1.9.17
 msgctxt "shape_mode"
 msgid "Tangent track shapes:"
-msgstr "Formas de vía:"
+msgstr "Tangentengleisform:"
 
 #v1.9.17
 msgctxt "shape_mode_full"
 msgid "Full"
-msgstr "Completas"
+msgstr "Vollständig"
 
 #v1.9.17
 msgctxt "shape_mode_limited"
 msgid "Limited"
-msgstr "Limitadas"
+msgstr "Limitiert"
 
 #v1.9.17
 msgctxt "station_platform_promote"
 msgid "Promote track into platform"
-msgstr "Ascender vía a andén"
+msgstr "Gleis zu Stationsgleis befördern"
 
 #v1.9.17
 msgctxt "stop_picker_adv"
@@ -899,167 +899,167 @@ msgstr "Baue ausgewählte Entwürfe"
 #v1.4.15
 msgctxt "building_all_kinds_info"
 msgid "Show all building kinds and pick your favorites"
-msgstr "Mostrar todos los edificios y elegir favoritos"
+msgstr "Zeige alle Gebäude und wähle deine Favoriten"
 
 #v1.4.22
 msgctxt "building_bottom_side"
 msgid "Bottom side:"
-msgstr "Lado inferior:"
+msgstr "Untere Seite:"
 
 #v1.4.15
 msgctxt "building_constraint_curved"
 msgid "Trace track curve"
-msgstr "Trazar la curva de la vía"
+msgstr "Gleiskurve folgen"
 
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
 msgid "Draw depth:"
-msgstr "Altura:"
+msgstr "Zeichentiefe:"
 
 #v1.4.15
 msgctxt "building_constraint_pick"
 msgid "Pick track"
-msgstr "Elegir vía"
+msgstr "Wähle ein Gleis"
 
 #v1.4.15
 msgctxt "building_constraint_type"
 msgid "Locked to track:"
-msgstr "Pegado a vía:"
+msgstr "An Gleis geschlossen:"
 
 #v1.4.15
 msgctxt "building_constraints_editor"
 msgid "Building properties"
-msgstr "Propiedades de edificio"
+msgstr "Gebäudeeigenschaften"
 
 #v1.4.22
 msgctxt "building_decal"
 msgid "Decal:"
-msgstr "Decoración:"
+msgstr "Dekoration:"
 
 #v1.4.22
 msgctxt "building_decal_color"
 msgid "Decal color:"
-msgstr "Color decor.:"
+msgstr "Dekorationsfarbe:"
 
 #v1.4.22
 msgctxt "building_decal_none"
 msgid "<None>"
-msgstr "<Ninguno>"
+msgstr "<Nichts>"
 
 #v1.4.15
 msgctxt "building_draw_layer_0"
 msgid "Under tracks"
-msgstr "Bajo de vía"
+msgstr "Unter den Gleisen"
 
 #v1.4.15
 msgctxt "building_draw_layer_1"
 msgid "Over tracks"
-msgstr "Sobre la vía"
+msgstr "Über den Gleisen"
 
 #v1.4.15
 msgctxt "building_draw_layer_3"
 msgid "Roof"
-msgstr "Tejado"
+msgstr "Dach"
 
 #v1.4.22
 msgctxt "building_end_t"
 msgid "End t (0 to 1):"
-msgstr "T final (0 a 1):"
+msgstr "Ende t (0 bis 1):"
 
 #v1.4.22
 msgctxt "building_height"
 msgid "Height:"
-msgstr "Alto:"
+msgstr "Höhe:"
 
 #v1.4.15
 msgctxt "building_info_price_f"
 msgid "${} per m\xC2\xB2"
-msgstr "${} por m²"
+msgstr "${} pro m²"
 
 #v1.4.15
 msgctxt "building_label"
 msgid "[*] Label"
-msgstr "[*] Etiqueta"
+msgstr "[*] Kennzeichnung"
 
 #v1.4.15
 msgctxt "building_label_bg_fill"
 msgid "Fill background"
-msgstr "Color de fondo"
+msgstr "Hintergrund Füllen"
 
 #v1.4.15
 msgctxt "building_label_font"
 msgid "Font size:"
-msgstr "Tamaño fuente:"
+msgstr "Schriftgröße:"
 
 #v1.4.15
 msgctxt "building_label_font_0"
 msgid "Small"
-msgstr "Pequeña"
+msgstr "Klein"
 
 #v1.4.15
 msgctxt "building_label_font_1"
 msgid "Medium"
-msgstr "Mediana"
+msgstr "Mittel"
 
 #v1.4.15
 msgctxt "building_label_font_2"
 msgid "Large"
-msgstr "Grande"
+msgstr "Groß"
 
 #v1.4.15
 msgctxt "building_label_text"
 msgid "Text:"
-msgstr "Texto:"
+msgstr "Text:"
 
 #v1.4.15
 msgctxt "building_max_zoom"
 msgid "Max zoom:"
-msgstr "Zoom máximo:"
+msgstr "Maximaler Zoom:"
 
 #v1.4.15
 msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
-msgstr "[*] Extensión de andén"
+msgstr "[*] Platformvergrößerung"
 
 #v1.4.22
 msgctxt "building_start_t"
 msgid "Start t (0 to 1):"
-msgstr "T inicial (0 a 1):"
+msgstr "Start t (0 bis 1):"
 
 #v1.4.22
 msgctxt "building_top_side"
 msgid "Top side:"
-msgstr "Lado superior:"
+msgstr "Obere Seite:"
 
 #v1.4.22
 msgctxt "building_width"
 msgid "Width:"
-msgstr "Ancho:"
+msgstr "Breite:"
 
 #v1.4.15
 msgctxt "buildings_total"
 msgid "Buildings total"
-msgstr "Total edificios"
+msgstr "Anzahl an Gebäuden"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Andén recto:"
+msgstr "Plattform gerade halten:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
 msgid "Disable"
-msgstr "Desactivar"
+msgstr "Deaktivieren"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_enable"
 msgid "Enable"
-msgstr "Activar"
+msgstr "Aktivieren"
 
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Stationskennzeichnung:"
 
 #v1.1.31
 msgctxt "cancel"
@@ -1074,57 +1074,57 @@ msgstr "Verlassen"
 #v1.7.15
 msgctxt "cancel_replace"
 msgid "Cancel replacement"
-msgstr "Cancelar reemplazo"
+msgstr "Ersatz abbrechen"
 
 #v1.7.15
 msgctxt "cars_uncategorized"
 msgid "Uncategorized"
-msgstr "Sin categoría"
+msgstr "Unkategorisiert"
 
 #v1.3.13
 msgctxt "cat_track_gauge"
 msgid "Track gauge"
-msgstr "Ancho de vía"
+msgstr "Spurweite"
 
 #v1.7.15
 msgctxt "cat_train_interior"
 msgid "Interior"
-msgstr "Interior"
+msgstr "Innenbereich"
 
 #v1.3.13
 msgctxt "cat_train_misc"
 msgid "Train miscellany"
-msgstr "Misc. tren"
+msgstr "Sonstige Züge"
 
 #v1.3.13
 msgctxt "cat_train_power"
 msgid "Train power"
-msgstr "Potencia (tren)"
+msgstr "Zugleistung"
 
 #v1.3.13
 msgctxt "cat_train_role"
 msgid "Train role"
-msgstr "Rol (tren)"
+msgstr "Zugrolle"
 
 #v1.3.13
 msgctxt "cat_train_unit"
 msgid "Train unit"
-msgstr "Unidad (tren)"
+msgstr "Zugeinheit"
 
 #v1.3.13
 msgctxt "charts_title"
 msgid "Charts"
-msgstr "Gráficos"
+msgstr "Diagramme"
 
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
-msgstr "Meine Baukosten"
+msgstr "Meine Entwurfskosten"
 
 #v1.4.15
 msgctxt "client_blueprint_bill_short"
 msgid "My blueprints"
-msgstr "Mis planos"
+msgstr "Meine Entwürfe"
 
 #v1.1.31
 msgctxt "client_conn_info"
