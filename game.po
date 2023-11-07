@@ -1819,7 +1819,7 @@ msgstr "Klicke mit der linken Maustaste, um Punkte zur Auswahl hinzuzufügen ode
 #v1.5.41
 msgctxt "editor_tip_dupe"
 msgid "Ctrl-B to duplicate selected objects in-place"
-msgstr "Ctrl-B para duplicar objetos sin moverlos"
+msgstr "Strg-B um die ausgewählten Objekte an der gleichen stelle zu duplizieren"
 
 #:
 msgctxt "editor_tip_link_esc"
@@ -1839,17 +1839,17 @@ msgstr "Bewege den Mauszeiger zum Abbrechen weg"
 #v1.2.22
 msgctxt "editor_tip_move_branch_draw"
 msgid "Drag the branch control point near any branchable track to change its position"
-msgstr "Arrastra el punto de control de la rama a cualquier vía válida para cambiar su posición"
+msgstr "Ziehe den Abzweigungsknotenpunkt über ein Gleis, von dem du abzweigen kannst, um den Abzweig zu verschieben"
 
 #v1.4.15
 msgctxt "editor_tip_move_building_sizer"
 msgid "Drag the building control point to resize and rotate the building"
-msgstr "Arrastra el nodo de control para escalar y rotar el edificio"
+msgstr "Ziehe den Gebäudekontrollpunkt um die größe zu ändern und um das Gebäude zu rotieren"
 
 #v1.4.15
 msgctxt "editor_tip_move_building_sizer_ctrl"
 msgid "Hold Ctrl to line up the control point on its current axis."
-msgstr "Pulsta Ctrl para alinear el punto de control sobre su eje actual."
+msgstr "Halte Strg um den Knoten gerade weiterzuführen"
 
 #v1.1.31
 msgctxt "editor_tip_move_esc"
@@ -1859,37 +1859,37 @@ msgstr "Esc, um die Bewegung abzubrechen"
 #v1.4.15
 msgctxt "editor_tip_move_left"
 msgid "Release left button to stop moving the selection"
-msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
+msgstr "Lasse die linke Maustaste los, um das Verschieben der Auswahl zu beenden."
 
 #v1.4.15
 msgctxt "editor_tip_new_building_fin_left"
 msgid "Left click to finish creating a new building"
-msgstr "Click izquierdo para finalizar la creación del edificio"
+msgstr "Klicke die Linke Maustaste um die Erstellung des Gebäudes zu beenden"
 
 #v1.4.15
 msgctxt "editor_tip_new_building_left"
 msgid "Left click to create a new building"
-msgstr "Click izquierdo para crear un nuevo edificio"
+msgstr "Klicke die linke Maustaste um ein neues Gebäude zu erstellen"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
 msgid "Esc to go to signal edit mode"
-msgstr "Esc para volver a modo de edición de señales"
+msgstr "Drücke Esc um in den Signalbearbeitungsmodus zu kommen"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_left"
 msgid "Left click to create signal"
-msgstr "Click izquierdo para crear señal"
+msgstr "Klicke die Linke Maustaste um ein Signal zu erstellen"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_shift"
 msgid "Shift to change signal facing direction"
-msgstr "Shift para cambiar la dirección de la señal"
+msgstr "Halte die Umschalttaste (Shift) um die richtung eines Signals zu ändern"
 
 #v1.4.15
 msgctxt "editor_tip_paste"
 msgid "Ctrl-V to paste clipboard objects"
-msgstr "Ctrl-V para pegar el clip del portapapeles"
+msgstr "Strg-V um den Clip einzufügen"
 
 #v1.1.31
 msgctxt "editor_tip_rect_left"
@@ -1899,7 +1899,7 @@ msgstr "Lassen Sie die linke Taste los, um die Rechteckauswahl zu beenden"
 #v1.4.15
 msgctxt "editor_tip_rot_left"
 msgid "Release left button to stop rotating the selection"
-msgstr "Suelta el botón izquierdo para parar de rotar la selección"
+msgstr "Lasse die linke Maustaste los, um das drehen der Auswahl zu beenden"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
@@ -1914,17 +1914,17 @@ msgstr "Click cerca de las vías para crear edificios"
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
 msgid "Shift to create buildings in all children when starting in a parent track"
-msgstr "Shift para crear edificios en todas las vías paralelas"
+msgstr "Drücke die Umschalttaste (Shift) um ein Gebäude auch bei allen Kindern zu erstellen, wenn es an einen Elterngleis beginnt"
 
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc to go para volver a modo de edición"
+msgstr "Drücke Esc um in den Bearbeitungsmodus zu gelangen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_parallel_tape_left"
 msgid "Click on tracks to attach new parallel tracks"
-msgstr "Click en vías para añadir nuevas vías paralelas"
+msgstr "Klicke auf ein Gleis, um ein neues paralleles Gleis hinzuzufügen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
@@ -1934,12 +1934,12 @@ msgstr "UNUSED Click on tracks to tape them over with a new station platform"
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
 msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr "Click en vías para convertirlas en andenes"
+msgstr "Klicke auf ein Gleis um es und die nächsten Kinder zu Stationsgleisen zu befördern"
 
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
 msgid "Click on tracks to split them at the point of click"
-msgstr "Click en vías para partirlas en el punto del click"
+msgstr "Klicke auf ein Gleis, um es an der stelle zu trennen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
@@ -1949,42 +1949,42 @@ msgstr "UNUSED Click on tracks to tape them over with a new station"
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
 msgid "Click on tracks to tape them over with new kind and layer of track"
-msgstr "Click en vías para cubrirlas con otro tipo de vía"
+msgstr "Klicke auf ein Gleis, um es mit einer anderen Art von Gleis zu überdecken"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
 msgid "Del to delete selected signals"
-msgstr "Supr para borrar señal(es)"
+msgstr "Entf um die ausgewählten Signale zu löschen"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_drag"
 msgid "Drag to move selected signal"
-msgstr "Arrastra para mover la señal seleccionada"
+msgstr "Ziehen um das ausgewählte Signal zu bewegen"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_esc"
 msgid "Esc to go to track edit mode"
-msgstr "Esc para volver al modo de edición de vía"
+msgstr "Esc um in den Gleiseditiermodus zu gelangen"
 
 #v1.2.29
 msgctxt "editor_tip_sel_signal_flip"
 msgid "{} to flip direction of selected signals"
-msgstr "{} para cambiar la dirección de las señales seleccionadas"
+msgstr "{} um die richtung des ausgewählten Signals zu ändern"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_left"
 msgid "Left click to select a signal"
-msgstr "Click izquierdo para seleccionar una señal"
+msgstr "Klicke mit der linken Maustaste um ein Signal auszuwählen"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_move"
 msgid "Release left button to stop moving the signal"
-msgstr "Suelta el botón izquierdo para parar de mover la señal"
+msgstr "Lasse die linke Maustaste los, um das bewegen des Signals zu stoppen"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sel_esc"
 msgid "Esc to clear selection"
-msgstr "Esc para limpiar la selección"
+msgstr "Drücke Esc um die Auswahl zu löschen"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sleft"
