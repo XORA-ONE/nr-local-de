@@ -1989,12 +1989,12 @@ msgstr "Drücke Esc um die Auswahl zu löschen"
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sleft"
 msgid "Shift left click to select additional signals"
-msgstr "Shift con click izquierdo para seleccionar más señales"
+msgstr "Drücke die Umschalttaste (Shift) und die linke Maustaste um weitere Signale auszuwählen"
 
 #v1.5.41
 msgctxt "editor_tip_sel_track_flip"
 msgid "{} to flip side of selected parallel tracks"
-msgstr "{} para cambiar de lado las vías paralelas"
+msgstr "{} um die Seite des parallelen Gleises zu wechseln"
 
 #v1.1.31
 msgctxt "editor_tip_station_esc"
@@ -2024,7 +2024,7 @@ msgstr "Strg-Z, um die letzte Bearbeitung rückgängig zu machen"
 #v1.6.13
 msgctxt "editor_tip_weight_left"
 msgid "Release left button to stop moving the track weighting"
-msgstr "Suelta el botón izquierdo para dejar de mover el control de curva"
+msgstr "Lasse die linke Mausaste los, um die Bewegung der Kurvensteuerung zu beenden."
 
 #v1.1.31
 msgctxt "editor_tip_zoom"
@@ -2034,52 +2034,52 @@ msgstr "Zoom weiter herein, um die Bearbeitung fortzusetzen"
 #v1.5.31
 msgctxt "editor_warn_closed"
 msgid "Remember to set the service level to passenger service to allow pax to use this line."
-msgstr "Recuerda cambiar el nivel de servicio a pasajeros para permitir que los pax utilicen esta línea."
+msgstr "Vergewissere dich, dass der Servicegrad auf Passagierservice steht, damit Fahrgäste diese Linie nutzen können."
 
 #v1.2.22
 msgctxt "editor_warn_need_train_acc"
 msgid "Buy and schedule at least one train to this line."
-msgstr "Programa al menos un tren en esta línea."
+msgstr "Kauf und Plane mindestens einen Zug auf dieser Line."
 
 #v1.5.31
 msgctxt "editor_warn_only_trains"
 msgid "Pax will leave and won't board trains running this line."
-msgstr "Los pax ignorarán los trenes asignados a esta línea."
+msgstr "Die Fahrgäste werden aussteigen und nicht in die Züge einsteigen, die auf dieser Linie verkehren."
 
 #v1.5.31
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "El intervalo excede la duración de la línea. Será ignorado o funcionará incorrectamente.\nAumenta la duración manual de la línea hasta como mínimo el valor del intervalo."
+msgstr "Das manuelle Intervall ist länger als ein Umlauf der Linie. Es wird ignoriert, oder funktioniert nur eingeschränkt.\nErhöhe den Linienumlauf mindestens auf den Wert des manuellem Intervalls."
 
 #v1.5.31
 msgctxt "editor_warn_train_speed_too_high"
 msgid "Trains might be unable to make up for delays at this cruise speed."
-msgstr "Es posible que los trenes no puedan superar retrasos en sus horarios con esta velocidad."
+msgstr "Die Züge sind bei dieser Reisegeschwindigkeit möglicherweise nicht in der Lage Verspätungen aufzuholen."
 
 #v1.5.31
 msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
-msgstr "Velocidad: {:.1f}x"
+msgstr "Geschwindigkeit: {:.1f}x"
 
 #v1.5.31
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "Velocidad: {0:.1f}x\nHandicap: {1}%"
+msgstr "Geschwindigkeit: {0:.1f}x\nHandicap: {1}%"
 
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
-msgstr "Tramo de tiempo en cruzar del centro del andén al centro del andén de la siguiente parada, sin contar el tiempo de espera"
+msgstr "Zeit die ein Zug braucht, um von der mitte einer Platform zur mitte der nächsten Platform zu kommen. Die Stoppzeit wird nicht mitgezählt"
 
 #v1.4.15
 msgctxt "empty_clipboard"
 msgid "<Empty clipboard>"
-msgstr "<Portapapeles vacío>"
+msgstr "<Leere Zwischenablage>"
 
 #v1.4.15
 msgctxt "enable_new_mods"
 msgid "Copy with new mods"
-msgstr "Copiar con nuevos mods"
+msgstr "Kopieren mit neuen Modifikationen"
 
 #:
 msgctxt "enabled"
@@ -2119,7 +2119,7 @@ msgstr "Interner Fehler beim Speichern des Spiels"
 #v1.1.37
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
-msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es más nueva que tu versión del juego ({}.{}.{}.{}). Actualiza el juego para cargar esta partida."
+msgstr "Die Version des Spiels ({}.{}.{}.{}) die diesen Speicherstand erstellt hat, ist neuer wie deine aktuelle Spielversion ({}.{}.{}.{}). Aktualisier das Spiel, um diesen Spiecherstand zu laden."
 
 #v1.1.31
 msgctxt "error_writing_file"
@@ -2139,77 +2139,77 @@ msgstr "{} Rückerstattungen"
 #v1.1.37
 msgctxt "ev_too_short_warn"
 msgid "Too short stop time and/or train full"
-msgstr "Parada demasiado corta y/o tren lleno"
+msgstr "Zu kurze Haltezeit und/oder der Zug war voll"
 
 #v1.1.37
 msgctxt "file_picker_company"
 msgid "Company:"
-msgstr "Empresa:"
+msgstr "Firma:"
 
 #v1.1.37
 msgctxt "file_picker_date"
 msgid "In-game date:"
-msgstr "Fecha en juego:"
+msgstr "Datum im Spiel:"
 
 #v1.7.15
 msgctxt "file_picker_file_modified"
 msgid "Modified:"
-msgstr "Modificado:"
+msgstr "Modifiziert:"
 
 #v1.1.37
 msgctxt "file_picker_file_name"
 msgid "File name:"
-msgstr "Nombre de archivo:"
+msgstr "Dateiname:"
 
 #v1.7.15
 msgctxt "file_picker_file_size"
 msgid "Size:"
-msgstr "Tamaño:"
+msgstr "Größe:"
 
 #v1.7.15
 msgctxt "file_picker_sort_date"
 msgid "Date"
-msgstr "Fecha"
+msgstr "Datum"
 
 #v1.7.15
 msgctxt "file_picker_sort_name"
 msgid "Name"
-msgstr "Nombre"
+msgstr "Name"
 
 #v1.7.15
 msgctxt "file_picker_sort_size"
 msgid "Size"
-msgstr "Tamaño"
+msgstr "Größe"
 
 #v1.7.15
 msgctxt "file_picker_stats"
 msgid "Stats:"
-msgstr "Estadísticas:"
+msgstr "Statistiken:"
 
 #v1.7.15
 msgctxt "file_picker_stats_values"
 msgid "{} tracks, {} buildings, {} stations, {} trains, {} lines"
-msgstr "{} vías, {} edificios, {} estaciones, {} trenes, {} líneas"
+msgstr "{} Gleise, {} Gebäude, {} Stationen, {} Züge, {} Linien"
 
 #v1.1.37
 msgctxt "file_picker_version"
 msgid "Game version:"
-msgstr "Versión juego:"
+msgstr "Spielversion:"
 
 #v1.1.58
 msgctxt "filter_all_matches"
 msgid "{} models"
-msgstr "{} modelos"
+msgstr "{} Modelle"
 
 #v1.1.58
 msgctxt "filter_high"
 msgid "High"
-msgstr "Máx."
+msgstr "Hoch"
 
 #v1.1.58
 msgctxt "filter_high_c"
 msgid "High:"
-msgstr "Máx.:"
+msgstr "Hoch:"
 
 #v1.1.58
 msgctxt "filter_low"
@@ -2219,52 +2219,52 @@ msgstr "Mín."
 #v1.1.58
 msgctxt "filter_low_c"
 msgid "Low:"
-msgstr "Mín.:"
+msgstr "Niedrig:"
 
 #v1.1.58
 msgctxt "filter_max_pax"
 msgid "Max pax"
-msgstr "Pax máx."
+msgstr "Maximale Fahrgäste"
 
 #v1.1.58
 msgctxt "filter_max_speed"
 msgid "Max speed"
-msgstr "Vel. máx."
+msgstr "Maximale Geschwindigkeit"
 
 #v1.1.58
 msgctxt "filter_price"
 msgid "Price"
-msgstr "Precio"
+msgstr "Preis"
 
 #v1.1.58
 msgctxt "filter_range_high"
 msgid "At most {0} {1}"
-msgstr "Hasta {0} {1}"
+msgstr "Maximal {0} {1}"
 
 #v1.1.58
 msgctxt "filter_range_low"
 msgid "At least {0} {1}"
-msgstr "Desde {0} {1}"
+msgstr "Mindestens {0} {1}"
 
 #v1.1.58
 msgctxt "filter_range_low_high"
 msgid "{0} to {1} {2}"
-msgstr "{0} a {1} {2}"
+msgstr "{0} bis {1} {2}"
 
 #v1.1.58
 msgctxt "filter_some_matches"
 msgid "{0} of {1} models"
-msgstr "{0} de {1} modelos"
+msgstr "{0} von {1} Modelle"
 
 #v1.1.58
 msgctxt "filter_year_intro"
 msgid "Year introduced"
-msgstr "Año intro."
+msgstr "Einführungsjahr"
 
 #v1.1.58
 msgctxt "filter_year_retired"
 msgid "Year retired"
-msgstr "Año retiro"
+msgstr "Jahr der Aussonderung"
 
 #v1.1.31
 msgctxt "friend_state_away"
@@ -2329,22 +2329,22 @@ msgstr "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 #v1.2.22
 msgctxt "game_restart_req"
 msgid "Game restart is required"
-msgstr "Se requiere reiniciar el juego"
+msgstr "Ein Spielneustart ist erforderlich"
 
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr "Compartir partida"
+msgstr "Spielstandsaustausch"
 
 #v1.2.29
 msgctxt "game_speed_down"
 msgid "Game speed down"
-msgstr "Reducir velocidad del juego"
+msgstr "Spielgeschwindigkeit verringern"
 
 #v1.2.29
 msgctxt "game_speed_up"
 msgid "Game speed up"
-msgstr "incrementar velocidad del juego"
+msgstr "Spielgeschwindigkeit erhöhen"
 
 #v1.6.13
 msgctxt "game_wiki"
@@ -2354,12 +2354,12 @@ msgstr "NIMBY Rails Wiki"
 #v1.7.15
 msgctxt "geo_export_desc"
 msgid "Tracks and buildings GeoJSON has been exported to {}"
-msgstr "Las vías y edificios se han exportado en formato GeoJSON a {}"
+msgstr "Gleis und Gebäude GeoJSON wurde nach {} exportiert"
 
 #v1.7.15
 msgctxt "geo_export_title"
 msgid "Exported GeoJSON"
-msgstr "GeoJSON exportado"
+msgstr "GeoJSON wurde exportiert"
 
 #v1.1.31
 msgctxt "global_blueprint_bill"
@@ -2374,27 +2374,27 @@ msgstr "Global"
 #v1.2.29
 msgctxt "height_layer_n"
 msgid "Height {}"
-msgstr "Altura {}"
+msgstr "Höhe {}"
 
 #v1.4.15
 msgctxt "help_show_full"
 msgid "Show help"
-msgstr "Mostrar ayuda"
+msgstr "Zeige Hilfe"
 
 #v1.2.29
 msgctxt "horizon_ground"
 msgid "Ground"
-msgstr "Suelo"
+msgstr "Ebenerdig"
 
 #v1.2.29
 msgctxt "horizon_tunnel"
 msgid "Tunnel"
-msgstr "Túnel"
+msgstr "Tunnel"
 
 #v1.2.29
 msgctxt "horizon_viaduct"
 msgid "Viaduct"
-msgstr "Viaducto"
+msgstr "Viadukt"
 
 #v1.1.31
 msgctxt "host_game"
@@ -2404,77 +2404,77 @@ msgstr "Spiel erstellen"
 #v1.1.37
 msgctxt "host_game_speed"
 msgid "Game speed:"
-msgstr "Velocidad juego:"
+msgstr "Spielgeschwindigkeit:"
 
 #v1.1.37
 msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
-msgstr "Partidas grandes y complejas, con muchos trenes y estaciones, podrían no ser jugables a más de velocidad 1x en multijugador."
+msgstr "Große und komplexe bauten mit vielen Zügen und Stationen können zu einem schlechtem Spielerlebnis führen, wenn eien Geschwindigkeit von mehr als 1x in einer Mehrspielersession ausgewählt wird."
 
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "No se puede detectar una IP pública, utiliza Steam Relay"
+msgstr "Kann keine Öffentlich IP-Adresse finden. Benutze bitte das Steam Relay System"
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "Tu PC o router necesita una conexión directa a internet con IP pública. Tienes que hacer forward del puerto UDP {} a tu PC y abrirlo en el firewall para aceptar conexiones. VPNs, proxies y CG-NAT son incompatibles con este modo de conexión. Weird and Wry no puede ofrecer soporte técnico si este modo no funciona."
+msgstr "Dein PC oder Router muss eine direkte Verbindung zum Internet mit einer Öffentlichen IP-Adresse haben. Du musst den UDP-Port {} in deinem Router zu deinem PC weiterleiten und deine Firewall so konfigurieren, dass sie Verbindungen zulässt. VPNs, Proxys und CG-NAT umgehen diese Funktion. Weird and Wry kann keine technische hilfe anbieten, wenn diese funktion nicht für deine Verbindung funktioniert."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
 msgid "Detected public IPv4:"
-msgstr "IPv4 detectada:"
+msgstr "Erkannte Öffentliche IPv4-Adresse:"
 
 #v1.6.13
 msgctxt "host_server_ipv6"
 msgid "Detected public IPv6:"
-msgstr "IPv6 detectada:"
+msgstr "Erkannte Öffentliche IPv6-Adresse:"
 
 #v1.6.13
 msgctxt "host_server_mode"
 msgid "Connection:"
-msgstr "Conexión:"
+msgstr "Verbindungsart:"
 
 #v1.6.13
 msgctxt "host_server_mode_direct"
 msgid "Direct"
-msgstr "Directa"
+msgstr "Direkt"
 
 #v1.6.13
 msgctxt "host_server_mode_direct_desc"
 msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
-msgstr "Los clientes intentarán conectarse directamente a tu PC mediante tu IP pública.\nPermite hospedar partidas muy grandes si tu conexión tiene suficiente subida."
+msgstr "Die Mitspieler versuchen sich direkt mit deinem PC zu verbinden mit der Öffentlichen IP-Adresse.\nErmöglicht es viel größere Bauten über den Mehrspielermodus zu Hosten, wenn du genug Upload Bandbreite hast."
 
 #v1.6.13
 msgctxt "host_server_mode_relay"
 msgid "Steam Relay Network"
-msgstr "Steam Relay Network"
+msgstr "Steam Relay Netzwerk"
 
 #v1.6.13
 msgctxt "host_server_mode_relay_desc"
 msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "Los clientes se conectarán mediante Steam Relay Network.\nEste es un método seguro que oculta tu IP pero tiene límites de ancho de banda."
+msgstr "Die Mitspieler verbinden sich mit deinem PC über das Steam Relay Netzwerk.\nDas ist eine Sichere, Optimierte CDN, die deine IP-Adresse Versteckt, aber eine eingebaute Bandbreitenbechränkung hat."
 
 #v1.6.13
 msgctxt "host_server_port"
 msgid "UDP Port:"
-msgstr "Puerto UDP:"
+msgstr "UDP-Port:"
 
 #v1.6.13
 msgctxt "host_server_wait_ip"
 msgid "Detecting public IP..."
-msgstr "Detectando IP pública..."
+msgstr "Erkennung der öffentlichen IP-Adresse..."
 
 #v1.6.13
 msgctxt "host_sim_mode"
 msgid "Simulation:"
-msgstr "Simulación:"
+msgstr "Simulationsmodus:"
 
 #v1.6.13
 msgctxt "host_sim_mode_private"
 msgid "Private"
-msgstr "Privada"
+msgstr "Privat"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
@@ -2484,7 +2484,7 @@ msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada
 #v1.6.13
 msgctxt "host_sim_mode_shared"
 msgid "Shared"
-msgstr "Compartida"
+msgstr "Geteilt"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
