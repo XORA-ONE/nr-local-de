@@ -2479,7 +2479,7 @@ msgstr "Privat"
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
-msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada cliente.\nVías, líneas y trenes se editan cooperativamente.\nPermite jugar partidas más grandes que en modo compartido.\nLa partida siempre se cambia a modo de dinero ilimitado."
+msgstr "Zeit, Zugbewegungen und die Fahrgastsimulation ist für jeden Mitspieler unabhängig.\nGleise, Linien und Züge werden zwischen allen Spielern synchronisiert.\nSkalierung auf größere Bauten als bei der gemeinsamen Simulation.\nSpielstände werden immer auf unendlich Geld gesetzt."
 
 #v1.6.13
 msgctxt "host_sim_mode_shared"
@@ -2489,7 +2489,7 @@ msgstr "Geteilt"
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
 msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
-msgstr "El reloj, el movimiento de trenes y los pax se comparten y sincronizan entre todos los clientes.\nVías, líneas y trenes se editan cooperativamente."
+msgstr "Zeit, Zugbewegungen und die Fahrgastsimulation wird geteilt und wird zwischen den Mitspielern synchronisiert.\n gleise, Linien und Züge werdeb zwischen allen Spielern synchronisiert."
 
 #v1.1.31
 msgctxt "icon_file"
@@ -2504,27 +2504,27 @@ msgstr "Ignorieren"
 #v1.4.15
 msgctxt "info_company_buildings"
 msgid "Buildings:"
-msgstr "Edificios:"
+msgstr "Gebäude:"
 
 #v1.4.15
 msgctxt "info_company_lines"
 msgid "Lines:"
-msgstr "Líneas:"
+msgstr "Linien:"
 
 #v1.4.15
 msgctxt "info_company_stations"
 msgid "Stations:"
-msgstr "Estaciones:"
+msgstr "Stationen:"
 
 #v1.4.15
 msgctxt "info_company_tracks"
 msgid "Track segments:"
-msgstr "Segmentos de vía:"
+msgstr "Gleissegmente:"
 
 #v1.4.15
 msgctxt "info_company_trains"
 msgid "Trains:"
-msgstr "Trenes:"
+msgstr "Züge:"
 
 #v1.2.22
 msgctxt "info_mode_tp"
@@ -2559,7 +2559,7 @@ msgstr "Ursprung"
 #:
 msgctxt "info_table_pax_sax"
 msgid "Sax"
-msgstr "Bewertung"
+msgstr "Zufriedenheit"
 
 #:
 msgctxt "info_table_pax_total"
@@ -2569,17 +2569,17 @@ msgstr "Gesamt"
 #v1.1.37
 msgctxt "info_table_pax_total_tp"
 msgid "Trip total elapsed time"
-msgstr "Tiempo total de viaje hasta el momento"
+msgstr "Bisherige Gesamtreisezeit"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting"
 msgid "Waiting for"
-msgstr "Esperando a"
+msgstr "Warten auf"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting_tp"
 msgid "Expected to depart with this line and stop number, based on timetables"
-msgstr "Espera salir usando esta línea en esta parada, basado en el horario"
+msgstr "Die Abfahrt mit dieser Linie ist laut Fahrplan an dieser Haltestelle zu erwarten."
 
 #v1.1.31
 msgctxt "info_train_pax"
@@ -2594,27 +2594,27 @@ msgstr "Geschwindigkeit: {} km / h"
 #:
 msgctxt "info_train_speed_short"
 msgid "{} km/h"
-msgstr "{} km / h"
+msgstr "{} km/h"
 
 #v1.5.31
 msgctxt "input_range"
 msgid "{}{} to {}{}"
-msgstr "{}{} a {}{}"
+msgstr "{}{} bis {}{}"
 
 #v1.5.41
 msgctxt "intervene_all_stale_trains"
 msgid "Intervene all stale"
-msgstr "Intervenir todos los trenes caducados"
+msgstr "Interveniere alle Züge mit einem veraltetem Lauf"
 
 #v1.5.31
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
-msgstr "Intervenir todos los trenes"
+msgstr "Interveniere alle Züge"
 
 #v1.5.31
 msgctxt "intervene_line"
 msgid "Intervene line"
-msgstr "Intervenir línea"
+msgstr "Interveniere die Linie"
 
 #v1.1.31
 msgctxt "intervention"
@@ -2624,7 +2624,7 @@ msgstr "Intervention"
 #v1.4.15
 msgctxt "invalid_size"
 msgid "invalid size"
-msgstr "tamaño inválido"
+msgstr "ungültige Größe"
 
 #:
 msgctxt "join"
@@ -2659,172 +2659,172 @@ msgstr "Taste: "
 #v1.2.22
 msgctxt "kb_map_left"
 msgid "Map: scroll left"
-msgstr "Mapa: desplazar izquierda"
+msgstr "Karte: nach links scrollen"
 
 #v1.2.22
 msgctxt "kb_map_right"
 msgid "Map: scroll right"
-msgstr "Mapa: desplazar derecha"
+msgstr "Karte: nach rechts scrollen"
 
 #v1.2.22
 msgctxt "kb_map_toggle_layer"
 msgid "Map: toggle layers"
-msgstr "Mapa: alternar capas"
+msgstr "Karte: Ebenen umschalten"
 
 #v1.2.22
 msgctxt "kb_map_toggle_tracks"
 msgid "Map: track mode"
-msgstr "Mapa: alternar modo de vía"
+msgstr "Karte: Gleismodus"
 
 #v1.2.22
 msgctxt "kb_map_up"
 msgid "Map: scroll up"
-msgstr "Mapa: desplazar arriba"
+msgstr "Karte: nach oben scrollen"
 
 #v1.2.22
 msgctxt "kb_map_zoom_in"
 msgid "Map: zoom in"
-msgstr "Mapa: ampliar"
+msgstr "Karte: heranzoomen"
 
 #v1.2.22
 msgctxt "kb_map_zoom_out"
 msgid "Map: zoom out"
-msgstr "Mapa: reducir"
+msgstr "Karte: herauszoomen"
 
 #v1.2.22
 msgctxt "kb_mode_info"
 msgid "Mode: info"
-msgstr "Modo: info"
+msgstr "Modus: Info"
 
 #v1.2.22
 msgctxt "kb_mode_lines"
 msgid "Mode: lines"
-msgstr "Modo: líneas"
+msgstr "Modus: Linien"
 
 #v1.2.22
 msgctxt "kb_mode_tracks"
 msgid "Mode: tracks"
-msgstr "Modo: vías"
+msgstr "Modus: Gleise"
 
 #v1.2.22
 msgctxt "kb_mode_trains"
 msgid "Mode: trains"
-msgstr "Modo: trenes"
+msgstr "Modus: Züge"
 
 #v1.2.22
 msgctxt "kb_speed_down"
 msgid "Speed down"
-msgstr "Bajar velocidad"
+msgstr "Geschwindigkeit runter"
 
 #v1.2.22
 msgctxt "kb_speed_toggle"
 msgid "Pause"
-msgstr "Pausa"
+msgstr "Pause"
 
 #v1.2.22
 msgctxt "kb_speed_up"
 msgid "Speed up"
-msgstr "Subir velocidad"
+msgstr "Geschwindigkeit hoch"
 
 #v1.2.22
 msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
-msgstr "Vías: doble vía"
+msgstr "Gleise: Zweigleisig"
 
 #v1.8.24
 msgctxt "kb_track_branch"
 msgid "Tracks: allow branching"
-msgstr "Vías: permitir ramas"
+msgstr "Gleise: Abzweigungen erlauben"
 
 #v1.4.15
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
-msgstr "Vías: nuevos edificios"
+msgstr "Gleise: neues Gebäude"
 
 #v1.2.22
 msgctxt "kb_track_depot"
 msgid "Tracks: new depot"
-msgstr "Vías: nuevo depósito"
+msgstr "Gleise: neues Depot"
 
 #v1.5.41
 msgctxt "kb_track_flip_signal"
 msgid "Tracks: flip track side"
-msgstr "Tracks: cambiar lado o dirección"
+msgstr "Gleise: Gleisseite tauschen"
 
 #v1.2.29
 msgctxt "kb_track_layer_down"
 msgid "Tracks: decr. new track layer"
-msgstr "Tracks: decr. capa de vía"
+msgstr "Gleise: herabsetzen der Ebene für neue Gleise"
 
 #v1.2.29
 msgctxt "kb_track_layer_up"
 msgid "Tracks: incr. new track layer"
-msgstr "Tracks: incr. capa de vía"
+msgstr "Gleise: erhöhen der Ebene für neue Gleise"
 
 #v1.2.22
 msgctxt "kb_track_move"
 msgid "Tracks: selection"
-msgstr "Vías: seleccionar"
+msgstr "Gleise: Auswahl"
 
 #v1.2.22
 msgctxt "kb_track_new"
 msgid "Tracks: new tracks"
-msgstr "Vías: nuevas vías"
+msgstr "Gleise: neue Gleise"
 
 #v1.2.22
 msgctxt "kb_track_new_signal"
 msgid "Tracks: new signal"
-msgstr "Vías: nueva señal"
+msgstr "Gleise: neues Signal"
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
-msgstr "Vías: cinta de edificios"
+msgstr "Gleise: Gebäudeband"
 
 #v1.6.13
 msgctxt "kb_track_sat_parallel_tape"
 msgid "Tracks: parallel tape"
-msgstr "Vías: cinta paralela"
+msgstr "Gleise: Parallelgleis-Band"
 
 #v1.6.13
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
-msgstr "Vías: partir vía"
+msgstr "Gleise: Teilung"
 
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
 msgid "Tracks: track tape"
-msgstr "Vías: cinta de vías"
+msgstr "Gleise: Gleisband"
 
 #v1.2.22
 msgctxt "kb_track_sel_signal"
 msgid "Tracks: select signal"
-msgstr "Vías: seleccionar señal"
+msgstr "Gleise: Signal auswählen"
 
 #v1.2.22
 msgctxt "kb_track_station"
 msgid "Tracks: new station"
-msgstr "Vías: nueva estación"
+msgstr "Gleise: neue Station"
 
 #v1.2.22
 msgctxt "kb_tracks_unbp"
 msgid "Tracks: unblueprint"
-msgstr "Vías: convertir a planos"
+msgstr "Gleise: in Entwurf ändern"
 
 #v1.2.22
 msgctxt "key_info2"
 msgid "[Key: {}]"
-msgstr "[Tecla: {}]"
+msgstr "[Taste: {}]"
 
 #v1.6.13
 msgctxt "key_info_hold"
 msgid "[Hold: {}]"
-msgstr "[Mantén: {}]"
+msgstr "[Halten: {}]"
 
 #v1.6.13
 msgctxt "key_info_hold_missing"
 msgid "[Missing key bind]"
-msgstr "[No tiene tecla asignada]"
+msgstr "[Fhelende Tastenbelegung]"
 
 #v1.1.31
 msgctxt "language_pick"
@@ -2834,12 +2834,12 @@ msgstr "Sprache:"
 #v1.2.29
 msgctxt "layer_ground"
 msgid "Ground"
-msgstr "Suelo"
+msgstr "Boden"
 
 #v1.4.15
 msgctxt "layer_ground_g"
 msgid "G"
-msgstr "S"
+msgstr "B"
 
 #v1.1.31
 msgctxt "line_0_stops"
@@ -2849,12 +2849,12 @@ msgstr "0 Haltestellen"
 #v1.5.41
 msgctxt "line_alert_closed"
 msgid "Line is closed"
-msgstr "Line cerrada"
+msgstr "Linie ist Geschlossen"
 
 #v1.5.41
 msgctxt "line_alert_invalid_legs"
 msgid "Contains invalid path(s)"
-msgstr "Contiene caminos inválidos"
+msgstr "Enthält ungültige Pfade"
 
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
@@ -2869,47 +2869,47 @@ msgstr "Pfad zum Linienanfang nicht gefunden!"
 #v1.3.13
 msgctxt "line_list_group_all"
 msgid "Group by: All lines"
-msgstr "Agrupar por: Todas las líneas"
+msgstr "Gruppieren nach: Alle Linien"
 
 #v1.3.13
 msgctxt "line_list_group_no_tags"
 msgid "Group by: Untagged"
-msgstr "Agrupar por: Sin tags"
+msgstr "Gruppieren nach: Keine Tags"
 
 #v1.3.13
 msgctxt "line_list_group_tags"
 msgid "Group by: Tags"
-msgstr "Agrupar por: Tags"
+msgstr "Gruppieren: Tags"
 
 #v1.3.13
 msgctxt "line_list_sort_alpha"
 msgid "Sort by: Alphabetical"
-msgstr "Ordenar por: Alfabético"
+msgstr "Sortieren nach: Alphabetisch"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_Compensation"
 msgid "Sort by: Compensations"
-msgstr "Ordenar por: Compensaciones"
+msgstr "Sortieren nach: Entschädigungen"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_board"
 msgid "Sort by: Boarded"
-msgstr "Ordenar por: Entrado en tren"
+msgstr "Sortieren nach: Eingestiegene Fahrgäste"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_fares"
 msgid "Sort by: Fares"
-msgstr "Ordenar por: Pagado"
+msgstr "Sortieren nach: Fahrpreise"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_profit"
 msgid "Sort by: Profit"
-msgstr "Ordenar por: Beneficio"
+msgstr "Sortieren nach: Profit
 
 #v1.3.13
 msgctxt "line_list_sort_pax_refunds"
 msgid "Sort by: Refunds"
-msgstr "Ordenar por: Reembolsos"
+msgstr "Sortieren nach: Erstattungen"
 
 #v1.1.31
 msgctxt "line_n_stops"
@@ -2924,7 +2924,7 @@ msgstr "Hier werden neue Haltestellen eingefügt"
 #v1.5.41
 msgctxt "line_skip_parent_stop"
 msgid "Skip [{0}] {1}"
-msgstr "Saltar [{0}] {1}"
+msgstr "Überspringen [{0}] {1}"
 
 #v1.1.31
 msgctxt "line_state"
@@ -2974,77 +2974,77 @@ msgstr "Haltestellen"
 #v1.5.31
 msgctxt "line_timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Fahrplan"
 
 #v1.8.24
 msgctxt "line_to3"
 msgid "{0} [{1}] at"
-msgstr "{0} [{1}] a"
+msgstr "{0} [{1}] bei"
 
 #v1.8.24
 msgctxt "line_warn_custom_duration_too_short"
 msgid "Custom line duration is too short and it is ignored"
-msgstr "La duración es demasiado cortra y se ignora"
+msgstr "Die benutzerdefinierte Liniendauer ist zu kurz und wird Ignoriert"
 
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
 msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
-msgstr "La función de duración necesita de al menos una parada con tiempo de espera después de la última parada en modo de salida fija"
+msgstr "Der benutzerdefinierte Modus oder der passende Laufzeit Modus erfordert mindestens einen Halt mit einer gewissen Wartezeit nach der letzten festen Abfahrtshaltestelle"
 
 #v1.7.15
 msgctxt "line_warn_unachievable_fixed_departure"
 msgid "One or more fixed departure stops are unachievable"
-msgstr "Una o mas salidas fijas son imposibles"
+msgstr "Eine oder mehrere feste Abfahrtshaltestellen sind unerreichbar"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
-msgstr "Andenes secundarios:"
+msgstr "Alternative Platformen:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms_n"
 msgid "(Total: {})"
-msgstr "(Total: {})"
+msgstr "(Gesamt: {})"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr "Señal disc. andenes:"
+msgstr "Alternativhaltesignal:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
 msgid "Signal {}"
-msgstr "Señal {}"
+msgstr "Signal {}"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto"
 msgid "Auto interval:"
-msgstr "Auto intervalo:"
+msgstr "Automatisches Intervall:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Añade uno o más trenes en auto recorrido"
+msgstr "Einen oder mehrere automatisch fahrende Züge hinzufügen"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
 msgid "Launch trains:"
-msgstr "Lanzamiento:"
+msgstr "Züge starten:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr "Espaciados uniformemente en un recorrido"
+msgstr "Gleichmäßiger Abstand, um in eine Linienschleife zu passen"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "En intervalo manual y fijo"
+msgstr "In einem festen, manuellen Intervall"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
 msgid "Auto run line"
-msgstr "Auto recorrido de línea"
+msgstr "Automatisch laufende Linie"
 
 #:
 msgctxt "lineeditor_auto_eta_avg_branch_wait"
@@ -3074,22 +3074,22 @@ msgstr "Min. Intervall (mm: ss):"
 #:
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
-msgstr "Construye los planos para activar este andén"
+msgstr "Baue deine Gleisentfürfe um diese Platform zu aktivieren"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent"
 msgid "Stop properties:"
-msgstr "Parada:"
+msgstr "Haltestellen Eigenschaften:"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_clone"
 msgid "Copy from parent line"
-msgstr "Copiar de línea padre"
+msgstr "Kopieren von der Stammlinie"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_custom"
 msgid "Customize for this line service"
-msgstr "Cambiar para este servicio"
+msgstr "Ändern für diesen Liniendienst"
 
 #:
 msgctxt "lineeditor_code"
@@ -3104,52 +3104,52 @@ msgstr "Farbe:"
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "Vel. crucero (km/h):"
+msgstr "Reisegeschwindigkeit (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_desc"
 msgid "Trains will try to accelerate to and keep this speed while traveling between stops.\nTrains might speed up if they are late."
-msgstr "Los trenes intentarán mantener esta velocidad al viajar entre paradas. Podrán ir más rápido si van con retraso."
+msgstr "Züge werden bis auf diese Geschwindigkeit beschleunigen und versuchen diese dann zu halten.\nZüge werden schneller fahren, wenn sie verspätet sind."
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_ns"
 msgid "Cruise speed:"
-msgstr "Velocidad crucero:"
+msgstr "Reisegeschwindigkeit:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
 msgid "Custom duration:"
-msgstr "Duración manual:"
+msgstr "Benutzerdefinierte Laufzeit:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Formato: hh:mm:ss\nSi la duración de la línea es inferior a este valor, las paradas marcadas como de pausa de duración manual tendrán tiempo de espera extra, hasta que la duración total coincida con la duración manual.\nEl tiempo extra se distribuirá entre las paradas marcadas de pausa manual. Si no hay paradas marcadas se utilizará la última parada de la línea."
+msgstr "Format: hh:mm:ss\nWenn die Linienlaufzeit kürzer ist wie dieser Betrag, dann werden Haltepunkte die als Benutzerdefiniertewartedauer markiert sind längere Haltezeiten haben, bis die Linienlaufzeit den gleichen Wert hat wie die benutzerdefinierte Laufzeit.\nDie extra Zeit ist gleichmäßig auf die Halte aufgeteilt. Wenn kein Halt ausgewählt ist, wird der letzte Halt benutzt."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr "Periodo manual:"
+msgstr "Benutzerdefinierter Zeitraum:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Formato: hh:mm:ss\n.La duración de la línea se elegirá automaticamente para encajar perfectamente en este periodo de tiempo. El periodo en si no garantiza que encaje perfectamente en días o semanas."
+msgstr "Format: hh:mm:ss\n.Linienlaufzeit wird automatisch ausgewählt, damit sie perfekt in die Zeitmenge hineinpasst. Diese benutzerdefinierte Einstellung garantiert nicht, dass die Laufzeit in einem Tag, oder eine Woche passt."
 
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Permitir parada de duración manual"
+msgstr "Benutzerdefiniertewartedauer in diesem Halt"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
 msgid "Default timings"
-msgstr "Tiempos por defecto"
+msgstr "Standardzeiten"
 
 #v1.7.15
 msgctxt "lineeditor_default_timings_go_ref_train"
 msgid "Edit reference train"
-msgstr "Editar tren de referencia"
+msgstr "Referenzzug bearbeiten"
 
 #v1.7.15
 msgctxt "lineeditor_display_in_map"
