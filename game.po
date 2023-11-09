@@ -5414,17 +5414,17 @@ msgstr "Richtung:"
 #v1.4.15
 msgctxt "signal_edit_invalid_track"
 msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
-msgstr "Esta señal sigue siendo functional pero no está permitida en este tipo de vía a partir de la versión 1.4. Algunas maniobras de trenes no se realizarán en esta vía. Desplázala a otra vía."
+msgstr "Dieses Signal funktioniert noch, aber ist auf dieser art Gleis seit Version 1.4. nicht mehr erlaubt. Einige Zugmanöver können auf diesem Gleis deaktiviert sein. Bewege es zu einem anderem Gleis."
 
 #v1.4.15
 msgctxt "signal_edit_plat_stop_obsolete"
 msgid "This signal is still functional but it has been obsoleted. Some train maneuvers might be disabled in this track."
-msgstr "Esta señal sigue siendo functional pero se considera obsoleta. Algunas maniobras de trenes no se realizarán en esta vía."
+msgstr "Dieses Signal funktioniert noch, ist aber Obsolet. Einige Zugmanöver können auf diesem Gleis deaktiviert sein."
 
 #v1.4.15
 msgctxt "signal_edit_simple_block_obsolete"
 msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
-msgstr "Esta señal sigue siendo funcional pero se considera obsoleta y reemplazada por las señales de camino. Reemplaza tus señales de bloque simple por señales de camino."
+msgstr "Dieses Signal funktioniert noch, wurde aber durch Pfadsignale abgelöst. Ersetze deine einfachen Block-Signale mit Pfadsignale."
 
 #v1.2.22
 msgctxt "signal_editor_title_edit"
@@ -5569,7 +5569,7 @@ msgstr "Einwegsignale an Bahnsteigsackgassen werden Ignoriert"
 #v1.8.24
 msgctxt "signal_warn_max_length_desc"
 msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "El bloque de vías protegido por esta señal es demasiado largo. Introduce más señales en el bloque, como las balizas, para hacerlo más corto."
+msgstr "Der von diesem Signal bewachte Block ist zu lang. Platziere mehr Signale in dem Block, wie z.B. Balisen, um den Block zu kürzen."
 
 #v1.3.13
 msgctxt "signal_warn_too_close"
@@ -5579,7 +5579,7 @@ msgstr "Zu nah"
 #v1.8.24
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "La posición de la señal en la vía está demasiado cercana a otra vía. Desplázala a otra vía que no la solape."
+msgstr "Diese Signalposition auf dem Gleis ist zu nah zu einem anderem Gleis. Bewege is weg von übereinanderliegenden Gleisen."
 
 #v1.1.31
 msgctxt "single_player"
@@ -5604,7 +5604,7 @@ msgstr "Veralteter Lauf "
 #v1.5.31
 msgctxt "stale_run_tooltip"
 msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "Las órdenes de este tren han cambiado. Al final de su recorrdio actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
+msgstr "Die Aufträge für diesen Zug haben sich geändert. Am ende von dem aktuellem Auftrag wird der Zug mit den neuen Aufträgen wiedererscheinen.\nFahrgäste werden Automatisch zu ihrem nächstem Halt gebracht."
 
 #v1.1.31
 msgctxt "start_game"
@@ -5759,12 +5759,12 @@ msgstr "Fremde"
 #v1.1.37
 msgctxt "stream_ahead_desc"
 msgid "You are ahead of the host. Pausing your clock to wait for it."
-msgstr "Vas por delante del anfitrión. Parando tu reloj para esperarlo."
+msgstr "Du bist dem Host vorraus. Deine Uhr wird angehalten um auf ihn zu warten."
 
 #v1.4.22
 msgctxt "stream_catch_up_desc2"
 msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
-msgstr "Te estás retrasando respecto al servidor. Acelerando el tiempo para alcanzarlo. Lag: {}"
+msgstr "Du fällst hinter dem Host zurück. Deine Uhr wird beschleunigt um aufzuholen. Lag: {}"
 
 #v1.6.13
 msgctxt "stream_waiting_for_player"
@@ -6189,7 +6189,7 @@ msgstr "Zu Lang"
 #v1.8.24
 msgctxt "teo.append_continous"
 msgid "Continously append track segments until pressing Esc or merging/linking the track"
-msgstr "Crear segmentos continuamente hasta pulsar Esc o enlazar la vía"
+msgstr "Kontinuierliches Anhängen von Gleissegmenten bis zum drücken von Esc oder zusammenführen/verknüpfen von Gleisen"
 
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
@@ -6199,7 +6199,7 @@ msgstr "Fahren auf der linken Seite für doppelte Plattformen"
 #v1.2.29
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "Auto añadir cambio cruzado y señales en doble andén"
+msgstr "Automatisches Anhängen von Scherenkreuzungen und Wegsignalen für Doppelplattformen"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
@@ -6259,12 +6259,12 @@ msgstr "Demasiados clips"
 #v1.5.31
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr "Tu colección y suscripciones de clips han alcanzado el límite de 50,000 vías y edificios. Por favor borra algunos clips o desuscribe de algunas colecciones."
+msgstr "Deine gespeicherten und abonnierten Clips haben das Limit von 50.000 Tracks und Gebäuden erreicht. Bitte lösche einige gespeicherte Clips und/oder melde dich von einigen Sammlungen ab."
 
 #v1.2.22
 msgctxt "tooltip_demand"
 msgid "Local {0}% | Regional {1}% | Long distance {2}%"
-msgstr "Lokal {0}% | Regional {1}% |Fernstrecke {2}%"
+msgstr "Lokal {0}% | Regional {1}% | Langstrecke {2}%"
 
 #:
 msgctxt "total"
@@ -6294,7 +6294,7 @@ msgstr "Boden"
 #:
 msgctxt "track_hits"
 msgid "track hits"
-msgstr "Kollision mit anderem Gleiskörper"
+msgstr "Kollision mit anderem Gleisen"
 
 #:
 msgctxt "track_metro1"
@@ -6314,12 +6314,12 @@ msgstr "Straßenbahn"
 #v1.8.24
 msgctxt "track_info_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Name:"
 
 #v1.2.29
 msgctxt "track_info_price"
 msgid "Price:"
-msgstr "Precio:"
+msgstr "Preis:"
 
 #:
 msgctxt "track_tunnel1"
@@ -6339,62 +6339,62 @@ msgstr "Viadukt"
 #v1.2.29
 msgctxt "track_not_favorited"
 msgid "Not favorited"
-msgstr "No favorito"
+msgstr "Nicht Favorisiert"
 
 #v1.6.13
 msgctxt "track_sat_tools"
 msgid "Split and tape tools"
-msgstr "Partir y encintar"
+msgstr "Trenn- und Klebebandwerkzeuge"
 
 #v1.2.29
 msgctxt "track_sort_alpha"
 msgid "Alphabetical"
-msgstr "Alfabético"
+msgstr "Alphabetisch"
 
 #v1.2.29
 msgctxt "track_sort_price"
 msgid "Price"
-msgstr "Precio"
+msgstr "Preis"
 
 #v1.2.29
 msgctxt "track_sort_speed"
 msgid "Max. speed"
-msgstr "Vel. máxima"
+msgstr "Maximale Geschwindigkeit"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
-msgstr "Esconder puntos de control en zoom bajo"
+msgstr "Kontrollpunkte bei niedrigem Zoom ausblenden"
 
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
 msgid "Track tool keybind hold mode"
-msgstr "Mantener pulsadas teclas en editor"
+msgstr "Tasten im Editor gedrückt halten"
 
 #v1.4.15
 msgctxt "tracks_total"
 msgid "Tracks total"
-msgstr "Total vías"
+msgstr "Anzahl der Gleise"
 
 #v1.3.13
 msgctxt "train_alert_banner"
 msgid "{} ({})\n{}\nSince: {} UTC{}"
-msgstr "{} ({})\n{}\Desde: {} UTC{}"
+msgstr "{} ({})\n{}\Seit: {} UTC{}"
 
 #v1.3.13
 msgctxt "train_alert_center_train"
 msgid "Go to train"
-msgstr "Ir a tren"
+msgstr "Zum Zug"
 
 #v1.3.13
 msgctxt "train_alert_line_banner"
 msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
-msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
+msgstr "{} ({} / {})\n{}\Seit: {} UTC{}"
 
 #v1.7.15
 msgctxt "train_base_color_edit"
 msgid "Default base color:"
-msgstr "Color base por defecto:"
+msgstr "Standard-Grundfarbe:"
 
 #:
 msgctxt "train_bill"
@@ -6404,37 +6404,37 @@ msgstr "Kosten für Neubeschaffung"
 #v1.6.13
 msgctxt "train_bulk_change_orders"
 msgid "Change orders in selection"
-msgstr "Cambiar órdenes en la selección"
+msgstr "Ändere die Aufträge in der Auswahl"
 
 #v1.6.13
 msgctxt "train_bulk_intervention"
 msgid "Intervene selection"
-msgstr "Intervenir la selección"
+msgstr "In die Auswahl eingreifen"
 
 #v1.7.15
 msgctxt "train_bulk_replace"
 msgid "Replace selection"
-msgstr "Reemplazar selección"
+msgstr "Auswahl ersetzen"
 
 #v1.6.13
 msgctxt "train_bulk_sell"
 msgid "Sell selection"
-msgstr "Vender selección"
+msgstr "Auswahl verkaufen"
 
 #v1.7.15
 msgctxt "train_car_append"
 msgid "Append {} car(s)"
-msgstr "Añadir {} coche(s)"
+msgstr "Füge {} Wagen hinzu"
 
 #v1.7.15
 msgctxt "train_car_append_listing_cursor"
 msgid "Append here"
-msgstr "Añadir aquí"
+msgstr "Hier hinzufügen"
 
 #v1.8.24
 msgctxt "train_car_append_tp"
 msgid "Shift clicking cars in the listing directly appends them"
-msgstr "Pulsando shift en los coches del listado se añade directamente"
+msgstr "Klicken auf die wagen mit der gedrückten Umschalttaste (Shift) fügt die Wagen dierekt hinzu"
 
 #v1.7.15
 msgctxt "train_car_base_color_edit"
@@ -6444,52 +6444,52 @@ msgstr "Color base:"
 #v1.7.15
 msgctxt "train_car_decal_color_edit"
 msgid "Decal color:"
-msgstr "Color decor:"
+msgstr "Basisfarbe:"
 
 #v1.7.15
 msgctxt "train_car_decal_edit"
 msgid "Decal:"
-msgstr "Decar:"
+msgstr "Folierung:"
 
 #v1.7.15
 msgctxt "train_car_default"
 msgid "Default"
-msgstr "Defecto"
+msgstr "Standard"
 
 #v1.7.15
 msgctxt "train_car_flip"
 msgid "Flip"
-msgstr "Espejar"
+msgstr "Umgedreht"
 
 #v1.7.15
 msgctxt "train_car_n_cars"
 msgid "{} cars"
-msgstr "{} coches"
+msgstr "{} Wagen"
 
 #v1.7.15
 msgctxt "train_car_replace"
 msgid "Replace {} car(s)"
-msgstr "Reemplazar {} coche(s)"
+msgstr "Ersetze {} Wagen"
 
 #v1.7.15
 msgctxt "train_cars_inst"
 msgid "Cars:"
-msgstr "Coches:"
+msgstr "Wagen:"
 
 #v1.7.15
 msgctxt "train_cars_new_cars"
 msgid "New cars"
-msgstr "Nuevos coches"
+msgstr "Neue Wagen"
 
 #v1.1.31
 msgctxt "train_clone"
 msgid "Clone"
-msgstr "Duplizieren"
+msgstr "Klonen"
 
 #v1.5.31
 msgctxt "train_clone_copier"
 msgid "Clone as copier"
-msgstr "Clonar como copiador"
+msgstr "Als Kopierer klonen"
 
 #v1.1.31
 msgctxt "train_code_edit"
@@ -6499,22 +6499,22 @@ msgstr "Seriennummer:"
 #v1.7.15
 msgctxt "train_create_order_from_run"
 msgid "Create new order from this run"
-msgstr "Crear nueva order a partir de este recorrido"
+msgstr "Neuen Auftrag von diesem Lauf erstellen"
 
 #v1.7.15
 msgctxt "train_decal_change_desc"
 msgid "This feature only works properly if all cars are from the same mod and train composition"
-msgstr "Esta feature solo funciona correctamente si todos los coches son del mismo mod y de la misma composición"
+msgstr "Diese Funktion funktioniert nur richtig, wenn alle Wagen von der gleichen Modifikation und Zugkomposition sind"
 
 #v1.7.15
 msgctxt "train_decal_color_edit"
 msgid "Default decal color:"
-msgstr "Color decor por defecto:"
+msgstr "Standard Folierungsfarbe:"
 
 #v1.7.15
 msgctxt "train_decal_edit"
 msgid "Change all decals:"
-msgstr "Cambiar todos decor:"
+msgstr "Ändere alle Folierung:"
 
 #:
 msgctxt "train_decal_pick_edit"
@@ -6529,177 +6529,177 @@ msgstr "Linienfarbe verwenden"
 #v1.8.24
 msgctxt "train_departing_to"
 msgid "Departing to"
-msgstr "Saliendo a"
+msgstr "Abfahrend nach"
 
 #v1.8.24
 msgctxt "train_departing_to_connect"
 msgid "to"
-msgstr "a"
+msgstr "nach"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags"
 msgid "Built-in tags:"
-msgstr "Tags predefinidas:"
+msgstr "Eingebaute Tags:"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags_locked"
 msgid "Locked by mod"
-msgstr "Bloqueado por mod"
+msgstr "Gesperrt von der Modifikation"
 
 #v1.5.31
 msgctxt "train_editor_basics"
 msgid "Basics"
-msgstr "Básico"
+msgstr "Grundlegenes"
 
 #v1.5.31
 msgctxt "train_editor_group"
 msgid "Group"
-msgstr "Grupo"
+msgstr "Gruppe"
 
 #v1.5.31
 msgctxt "train_editor_orders"
 msgid "Orders"
-msgstr "Órdenes"
+msgstr "Aufträge"
 
 #v1.7.15
 msgctxt "train_final_price"
 msgid "Final price:"
-msgstr "Precio final:"
+msgstr "Endpreis:"
 
 #v1.5.31
 msgctxt "train_group_duration"
 msgid "Duration:"
-msgstr "Duración:"
+msgstr "Dauer:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by"
 msgid "Interval:"
-msgstr "Intervalo:"
+msgstr "Intervall:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
 msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes de los trenes copiadores por ese valor."
+msgstr "Format: (-)hh:mm:ss\nVerschiebe den Beginn der Aufträge der Autokopierzüge schrittweise um diesen Betrag"
 
 #v1.5.31
 msgctxt "train_group_interval"
 msgid "Interval:"
-msgstr "Intervalo:"
+msgstr "Intervall:"
 
 #v1.5.31
 msgctxt "train_group_line_duration_pick"
 msgid "Duration of:"
-msgstr "Duración de:"
+msgstr "Dauer von:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
 msgid "Duration:"
-msgstr "Duración:"
+msgstr "Dauer:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
 msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes de los trenes copiadores a lo largo de esta duración."
+msgstr "Format: hh:mm:ss\nVerteile den Start der Aufträge der Autokopierzüge gleichmäßig über diese Dauer."
 
 #v1.5.31
 msgctxt "train_group_migrate_but"
 msgid "Set as copiers"
-msgstr "Cambiar a copiadores"
+msgstr "Als Kopierer setzen"
 
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr "Migrar trenes automáticos"
+msgstr "Automatische Züge migrieren"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
 msgid "Auto trains of:"
-msgstr "Trenes auto de:"
+msgstr "Automatische Züge von:"
 
 #v1.5.31
 msgctxt "train_group_mode"
 msgid "Shift mode:"
-msgstr "Distribución:"
+msgstr "Modus:"
 
 #v1.5.31
 msgctxt "train_group_mode_fixed"
 msgid "Fixed interval"
-msgstr "Intervalo fijo"
+msgstr "Festes Intervall"
 
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr "Uniforme en la duración de una línea"
+msgstr "Gleichmäßig über der Dauer einer Linie"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr "Uniforme en una duración manual"
+msgstr "Gleichmäßig über der benutzerdefinierten Dauer"
 
 #v1.5.31
 msgctxt "train_group_n_name"
 msgid "Trains:"
-msgstr "Trenes:"
+msgstr "Züge:"
 
 #v1.5.31
 msgctxt "train_group_n_value"
 msgid "{0} copying, {1} managed"
-msgstr "{0} copiando, {1} controlados"
+msgstr "{0} kopieren, {1} verwaltet"
 
 #v1.5.31
 msgctxt "train_group_shift_matching"
 msgid "Shift orders:"
-msgstr "Distribuir órdenes:"
+msgstr "Aufträge verschieben:"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_all"
 msgid "All orders"
-msgstr "Todas"
+msgstr "Alle Aufträge"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_only_pax_service"
 msgid "Only pax service orders"
-msgstr "Solo las de líneas de pax"
+msgstr "Nur Aufträge mit Fahrgästen"
 
 #v1.1.58
 msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Llega en {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Ankunft in {0}, {1:.1f} km von {2:.1f} km"
 
 #v1.6.13
 msgctxt "train_info_camera"
 msgid "Auto scroll map following train position"
-msgstr "Mover el mapa siguiendo la posición del tren"
+msgstr "Automatisches Scrollen der Karte nach Zugposition"
 
 #v1.1.58
 msgctxt "train_info_car_name"
 msgid "Car:"
-msgstr "Coche:"
+msgstr "Wagen:"
 
 #v1.7.15
 msgctxt "train_info_coupler_back"
 msgid "Back coupling:"
-msgstr "Acople trasero:"
+msgstr "Hintere Kupplung:"
 
 #v1.7.15
 msgctxt "train_info_coupler_front"
 msgid "Front coupling:"
-msgstr "Acople frontal:"
+msgstr "Vordere Kupplung:"
 
 #v1.7.15
 msgctxt "train_info_coupler_mandatory"
 msgid "mandatory"
-msgstr "obligatorio"
+msgstr "Verpflichtend"
 
 #v1.7.15
 msgctxt "train_info_coupler_none"
 msgid "none"
-msgstr "ninguno"
+msgstr "Keine"
 
 #v1.7.15
 msgctxt "train_info_coupler_optional"
 msgid "optional"
-msgstr "opcional"
+msgstr "optional"
 
 #v1.7.15
 msgctxt "train_info_coupler_universal"
@@ -6709,12 +6709,12 @@ msgstr "universal"
 #v1.1.58
 msgctxt "train_info_departs"
 msgid "Departs in {}"
-msgstr "Salida en {}"
+msgstr "Abfahrt in {}"
 
 #v1.7.15
 msgctxt "train_info_description"
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "Beschreibung:"
 
 #v1.1.31
 msgctxt "train_info_destination"
@@ -6734,7 +6734,7 @@ msgstr "{0:.2f}m / {1:.2f}m"
 #v1.7.15
 msgctxt "train_info_dim_d"
 msgid "{0} cars / {1:.2f}m / {2:.2f}m"
-msgstr "{0} coches / {1:.2f}m / {2:.2f}m"
+msgstr "{0} Wagen / {1:.2f}m / {2:.2f}m"
 
 #:
 msgctxt "train_info_empty_mass"
@@ -6744,17 +6744,17 @@ msgstr "Leergewicht:"
 #v1.8.24
 msgctxt "train_info_future_pin"
 msgid "Scroll map to train spawn position"
-msgstr "Desplazar mapa hasta la futura posición del tren"
+msgstr "Karte zur Spawn-Position des Zuges scrollen"
 
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Verspätet um {0}, {1:.1f} km von {2:.1f} km"
 
 #v1.8.24
 msgctxt "train_info_late_predicted2"
 msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Est. tardío {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Voraussichtlich verspätet um {0}, {1:.1f} km von {2:.1f} km"
 
 #v1.1.31
 msgctxt "train_info_line"
@@ -6784,27 +6784,27 @@ msgstr "Masse / leer:"
 #v1.8.24
 msgctxt "train_info_max_accel"
 msgid "Max acceleration:"
-msgstr "Aceleración máx.:"
+msgstr "Maximale Beschleunigung:"
 
 #v1.8.24
 msgctxt "train_info_max_accel_v"
 msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
-msgstr "{0:.2f} ms⁻², freno {1:.2f} ms⁻² a {2:.2f} ms⁻²"
+msgstr "{0:.2f} m/s², Bremse {1:.2f} m/s² bis {2:.2f} m/s²"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
 msgid "Max pax:"
-msgstr "Max. Fahrgäste:"
+msgstr "Maximale Fahrgäste:"
 
 #:
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "V/max:"
+msgstr "Makimale Geschwindigkeit:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
 msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
-msgstr "Mostrar camino potencial del tren hasta la posición del ratón\nClick para fijar la posición"
+msgstr "Pfadfind-Sonde vom Zug zur Mausposition\nKlicken für feste Mausposition"
 
 #v1.6.13
 msgctxt "train_info_path_probe_dest"
