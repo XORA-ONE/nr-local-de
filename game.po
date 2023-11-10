@@ -89,12 +89,12 @@ msgstr "Nur Gebäude in der Auswahl behalten"
 #v1.9.17
 msgctxt "editor_sel_only_child_tracks"
 msgid "Keep only parallel child tracks in the selection"
-msgstr "Nur parallele Kindergleise in der Auswahl behalten"
+msgstr "Nur parallele untergeordnete Gleise in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_sel_only_parent_tracks"
 msgid "Keep only parallel parent tracks in the selection"
-msgstr "Nur parallele Elterngleise in der Auswahl behalten"
+msgstr "Nur parallele Übergeordnete Gleise in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_sel_only_tracks"
@@ -129,7 +129,7 @@ msgstr "Zum Abbrechen klicken"
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_dbl_click"
 msgid "Double click to cancel"
-msgstr "DOppelklick zum Abbrechen"
+msgstr "Doppelklick zum Abbrechen"
 
 #v1.9.17
 msgctxt "editor_tip_cont_undo"
@@ -1329,7 +1329,7 @@ msgstr "Paralleler Vesatz:"
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Elternknoten auswählen"
+msgstr "Übergeordneter Knoten auswählen"
 
 #v1.2.22
 msgctxt "constraint_remove"
@@ -1349,7 +1349,7 @@ msgstr "Entfernen"
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "Wähle das Elterngleis"
+msgstr "Wähle das Übergeordnete Gleis"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -1649,7 +1649,7 @@ msgstr "Erstelle neue Signale"
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
 msgid "Click a control point to make it the building parent"
-msgstr "Klicke auf einen Kontrollpunkt um es als Gebäudeelternteil festzulegen"
+msgstr "Klicke auf einen Kontrollpunkt um es als übergeordnetes Gebäudeteil festzulegen"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
@@ -1659,7 +1659,7 @@ msgstr "Esc um die Auswahl zu beenden"
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Klicke auf einen Kontrollpunkt, um ihn zum Elternteil der Beschränkung zu machen"
+msgstr "Klicke auf einen Kontrollpunkt, um ihn zur übergeordneten Bedingung zu machen"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
@@ -1914,7 +1914,7 @@ msgstr "Click cerca de las vías para crear edificios"
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
 msgid "Shift to create buildings in all children when starting in a parent track"
-msgstr "Drücke die Umschalttaste (Shift) um ein Gebäude auch bei allen Kindern zu erstellen, wenn es an einen Elterngleis beginnt"
+msgstr "Drücke die Umschalttaste (Shift) um ein Gebäude auch bei allen untergeordneten Gleisen zu erstellen, wenn es an einen übergeordnetem Gleis beginnt"
 
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
@@ -1934,7 +1934,7 @@ msgstr "UNUSED Click on tracks to tape them over with a new station platform"
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
 msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr "Klicke auf ein Gleis um es und die nächsten Kinder zu Stationsgleisen zu befördern"
+msgstr "Klicke auf ein Gleis um es und die nächsten untergeordneten Gleise zu Stationsgleisen zu befördern"
 
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
@@ -4649,7 +4649,7 @@ msgstr "{} wurde in einer anderen Spielversion gespeichert. Möchtest du sie üb
 #v1.3.13
 msgctxt "parent"
 msgid "Parent:"
-msgstr "Eltern:"
+msgstr "Übergeordnetes:"
 
 #v1.1.31
 msgctxt "paste"
@@ -7054,7 +7054,7 @@ msgstr "Verscheibung:"
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
 msgid "Managed by parent group"
-msgstr "Verwaltet bei Elterngruppe"
+msgstr "Verwaltet bei Übergeordneter Gruppe"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
@@ -7069,7 +7069,7 @@ msgstr "Kopieren:"
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift_go_parent"
 msgid "Edit parent orders"
-msgstr "Elternaufträge bearbeiten"
+msgstr "Übergeordnete Aufträge bearbeiten"
 
 #v1.5.31
 msgctxt "train_orders_auto_run"
