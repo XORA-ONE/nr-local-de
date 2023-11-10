@@ -1,13 +1,13 @@
 [ModMeta]
 schema=1
-name=Traducción al Español
-author=Weird and Wry
+name=Deutsche Übersetzung
+author=XORA ONE and Contributors
 version=1.0.0
 
 [Language]
-code_iso_639_2=spa
-name=Español
+code_iso_639_2=de
+name=Deutsch
 
 [LanguageDict]
-code_iso_639_2=spa
+code_iso_639_2=de
 po=game.po
