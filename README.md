@@ -20,7 +20,10 @@
     <br>
 </p>
 
-  
+
+## Installation  
+Please refer to the installation instructions on the [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2375603520). Using a version obtained from outside the Workshop could lead to unforeseen issues and incomplete translations.
+
 ## Contributing  
 We would love for you to contribute to our translation and help make it even better than it is today! If you spot something you wan't to change, simply fork the repository, make the change and create a pull request with a short summary.
   
@@ -36,11 +39,12 @@ This project is maintained by [@CODEYXone](https://github.com/CODEYXone). He wil
   
 ## Credits and Thanks
 #### Current Team
-* CODEYX (maintainer)
-* marcoone
+* [@CODEYXone](https://github.com/CODEYXone) (maintainer)
+* [@marcoone](https://github.com/marchoone)
+* [@TheGamerH18](https://github.com/TheGamerH18)
 
-#### Thanks
-Thanks to [Carlos 'carloscm' Carrasco](https://github.com/carloscm) from Weird and Wry, for providing and maintaining the needed [translation files](https://github.com/weirdandwry/nr-local-spa).
+Thanks to all contributors who make this mod possible. <br>
+Thanks to Carlos Carrasco ( [@carloscm ](https://github.com/carloscm)) from Weird and Wry, for providing and maintaining the needed [translation files](https://github.com/weirdandwry/nr-local-spa).
 
 
 
