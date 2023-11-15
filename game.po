@@ -69,7 +69,7 @@ msgstr "Zug"
 #v1.9.17
 msgctxt "dep_late"
 msgid "Max late"
-msgstr "Maximale verspätung"
+msgstr "Maximale Verspätung"
 
 #v1.9.17
 msgctxt "dep_sched"
@@ -94,7 +94,7 @@ msgstr "Nur parallele untergeordnete Gleise in der Auswahl behalten"
 #v1.9.17
 msgctxt "editor_sel_only_parent_tracks"
 msgid "Keep only parallel parent tracks in the selection"
-msgstr "Nur parallele Übergeordnete Gleise in der Auswahl behalten"
+msgstr "Nur parallele übergeordnete Gleise in der Auswahl behalten"
 
 #v1.9.17
 msgctxt "editor_sel_only_tracks"
@@ -204,7 +204,7 @@ msgstr "Klicke auf die Pfeile auf den Stationsgleisen um neue Alternativhalte hi
 #v1.9.17
 msgctxt "loader_legacy_rebuild_19"
 msgid "Rebuilding pre-1.9 tracks"
-msgstr "Rekonstruktion von pre-1.9 Gleisen"
+msgstr "Rekonstruktion von vor-1.9 Gleisen"
 
 #v1.9.17
 msgctxt "node_mode"
@@ -254,7 +254,7 @@ msgstr "Beachte: Der Kreisradius der im Gleiseditor angezeigt wird ist nur eine 
 #v1.9.17
 msgctxt "reset_boundary_tan"
 msgid "Reset boundary to middle point"
-msgstr "Gleisgrenze auf MIttelpunkt zurücksetzen"
+msgstr "Gleisgrenze auf Mittelpunkt zurücksetzen"
 
 #v1.9.17
 msgctxt "reset_tangent"
@@ -394,7 +394,7 @@ msgstr "Stationen"
 #:
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Gesamt Baukosten"
+msgstr "Gesamte Baukosten"
 
 #:
 msgctxt "accounting_construction_tracks"
@@ -734,7 +734,7 @@ msgstr "(Auto)"
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Automatisches Verfolgen und Blättern in der Liste je nach Tageszeit"
+msgstr "Automatisches verfolgen und blättern in der Liste je nach Tageszeit"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
@@ -754,7 +754,7 @@ msgstr "Automatischer Export..."
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Automatisches Speichern"
+msgstr "Automatisches Speicherintervall"
 
 #:
 msgctxt "autosave_slots"
@@ -764,7 +764,7 @@ msgstr "Anzahl aut. Spielstände:"
 #:
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Automatisches Speichern..."
+msgstr "Automatisches speichern..."
 
 #:
 msgctxt "back"
@@ -784,7 +784,7 @@ msgstr "Falscher Winkel"
 #:
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Ignorierte Beitritts-Anfragen können im Serververwaltungsfenster autorisiert werden."
+msgstr "Ignorierte Beitrittsanfragen können im Serververwaltungsfenster autorisiert werden."
 
 #:
 msgctxt "banner_join_friend"
@@ -804,22 +804,22 @@ msgstr "{} ist dem Spiel beigetreten."
 #:
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Möchten Sie an einem von {} gehosteten Spiel teilnehmen? Ihr aktuelles Spiel wird automatisch gespeichert und Sie beenden den aktuellen Server."
+msgstr "Möchtest du an einem von {} gehosteten Spiel teilnehmen? Dein aktuelles Spiel wird automatisch gespeichert und du verlässt den aktuellen Server."
 
 #:
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möchten Sie mitmachen? Ihr aktuelles Spiel wird automatisch gespeichert und Sie beenden den aktuellen Server."
+msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möchtest du mitmachen? Dein aktuelles Spiel wird automatisch gespeichert und du verlässt den aktuellen Server."
 
 #:
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
-msgstr "Möchten Sie an einem von {} gehosteten Spiel teilnehmen? Ihr aktuelles Spiel wird automatisch gespeichert."
+msgstr "Möchtest du an einem von {} gehosteten Spiel teilnehmen? Dein aktuelles Spiel wird automatisch gespeichert."
 
 #:
 msgctxt "banner_prompt_game_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
-msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Willst du mitmachen? Ihr aktuelles Spiel wird automatisch gespeichert."
+msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möchtest du mitmachen? Dein aktuelles Spiel wird automatisch gespeichert."
 
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
@@ -829,12 +829,12 @@ msgstr "Gespeichertes Spiel laden {}?"
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
 msgid "Do you want to join a game hosted by {}?"
-msgstr "Möchten Sie an einem von {} gehosteten Spiel teilnehmen?"
+msgstr "Möchtest du an einem von {} gehosteten Spiel teilnehmen?"
 
 #:
 msgctxt "banner_prompt_nogame_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
-msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Willst du mitmachen?"
+msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möchtest du mitmachen?"
 
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
@@ -844,12 +844,12 @@ msgstr "Aktuelles Spiel beenden und Spielstand laden {}?"
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "Möchten Sie an einem von {} gehosteten Spiel teilnehmen? WARNUNG: Sie hosten derzeit ein Spiel. Alle verbundenen Spieler werden getrennt. Ihr aktuelles Spiel wird automatisch gespeichert."
+msgstr "Möchtest du an einem von {} gehosteten Spiel teilnehmen? WARNUNG: Du hostest derzeit ein Spiel. Alle verbundenen Spieler werden getrennt. Dein aktuelles Spiel wird automatisch gespeichert."
 
 #:
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Willst du mitmachen? WARNUNG: Sie hosten derzeit ein Spiel. Alle verbundenen Spieler werden getrennt. Ihr aktuelles Spiel wird automatisch gespeichert."
+msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möchtest mitmachen? WARNUNG: Du hostest derzeit ein Spiel. Alle verbundenen Spieler werden getrennt. Dein aktuelles Spiel wird automatisch gespeichert."
 
 #v1.4.15
 msgctxt "bill_show_full"
@@ -1194,12 +1194,12 @@ msgstr "Kopieren unter Verwendung von Standardobjekten, um unbekannte Objekte du
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_4"
 msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Kopieren mit neuen Modifikationen, um die unbekannten Gegenstandstypen zu deinem Spiel hinzuzufügen. Du musst die Modifikationen im Steam Workshop abonnieren, wenn die sie noch nicht abonniert hast."
+msgstr "Kopieren mit neuen Modifikationen, um die unbekannten Objekttypen zu deinem Spiel hinzuzufügen. Du musst die Modifikationen im Steam Workshop abonnieren, wenn du sie noch nicht abonniert hast."
 
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
-msgstr "Kolletion Löschen"
+msgstr "Kolletion löschen"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_body"
@@ -1209,7 +1209,7 @@ msgstr "Möchtest du die ausgewählte Kollektion löschen?"
 #v1.4.22
 msgctxt "confirm_collection_delete_ok"
 msgid "Delete collection"
-msgstr "Kollektion Löschen"
+msgstr "Kollektion löschen"
 
 #v1.1.31
 msgctxt "confirm_construction"
@@ -1238,7 +1238,7 @@ msgstr "Möchtest du die Linie mit dem Namen {} Löschen?"
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "LinienEingriff Bestätigen"
+msgstr "Linieneingriff Bestätigen"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
@@ -1253,7 +1253,7 @@ msgstr "Bestätige den wechsel zu unbegrenztem Geld"
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "Der wechsel zu unbegrenztem Geld kann nict rückgängig gemacht werden. Bist du dir sicher?"
+msgstr "Der wechsel zu unbegrenztem Geld kann nicht rückgängig gemacht werden. Bist du dir sicher?"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
@@ -1294,7 +1294,7 @@ msgstr "Verbindung verweigert!"
 #v1.2.22
 msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
-msgstr "Bitte wähle Gleise, Stationen oder Depots aus, um fortzufahren."
+msgstr "Bitte wähle Gleis- oder Stationsentwürfe aus, um fortzufahren."
 
 #v1.4.22
 msgctxt "constraint_disp"
@@ -1329,7 +1329,7 @@ msgstr "Paralleler Vesatz:"
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Übergeordneter Knoten auswählen"
+msgstr "Übergeordneten Knoten auswählen"
 
 #v1.2.22
 msgctxt "constraint_remove"
@@ -1349,7 +1349,7 @@ msgstr "Entfernen"
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "Wähle das Übergeordnete Gleis"
+msgstr "Wähle das übergeordnete Gleis aus"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -1359,7 +1359,7 @@ msgstr "Gerade halten"
 #v1.2.22
 msgctxt "constraint_t"
 msgid "Segment t (0 to 1):"
-msgstr "Abscnitt t (0 bis 1):"
+msgstr "Abschnitt t (0 bis 1):"
 
 #v1.2.22
 msgctxt "constraint_type"
@@ -1474,7 +1474,7 @@ msgstr "1 Kreuzung"
 #:
 msgctxt "crossings_n_many"
 msgid "%d crossings"
-msgstr "% d Kreuzungen"
+msgstr "%d Kreuzungen"
 
 #:
 msgctxt "custom_admin_level_poi"
@@ -1524,17 +1524,17 @@ msgstr "Editier mich"
 #v1.4.15
 msgctxt "delete_clip"
 msgid "Delete clip"
-msgstr "Clip Löschen"
+msgstr "Clip löschen"
 
 #v1.4.22
 msgctxt "delete_collection"
 msgid "Delete collection"
-msgstr "Kollektion Löschen"
+msgstr "Kollektion löschen"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "Ausgewählter Speicherstand in den Papierkorb schieben"
+msgstr "Ausgewählten Speicherstand in den Papierkorb schieben"
 
 #v1.1.58
 msgctxt "delete_line"
@@ -1549,7 +1549,7 @@ msgstr "Löschen und Züge verkaufen"
 #v1.6.13
 msgctxt "delete_only_bp"
 msgid "Delete only blueprints"
-msgstr "Lösche nur entwürfe"
+msgstr "Lösche nur Entwürfe"
 
 #v1.4.15
 msgctxt "delete_tracks"
@@ -1664,7 +1664,7 @@ msgstr "Klicke auf einen Kontrollpunkt, um ihn zur übergeordneten Bedingung zu 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr "Gebäudeband"
+msgstr "Gebäude-Band"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
@@ -1744,7 +1744,7 @@ msgstr "Esc zum Abbrechen"
 #v1.8.24
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment. Hold Shift to keep creating more segments."
-msgstr "Klicke mit der linken Maustaste, um ein neues Streckensegment zu erstellen. Halten Sie die Umschalttaste (Shift) gedrückt, um weitere Segmente zu erstellen."
+msgstr "Klicke mit der linken Maustaste, um ein neues Streckensegment zu erstellen. Halte die Umschalttaste (Shift) gedrückt, um weitere Segmente zu erstellen."
 
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
@@ -1754,7 +1754,7 @@ msgstr "Halte die Umschalttaste (Shift) gedrückt, um mehrere segmente zu erstel
 #:
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
-msgstr "Bewege den Mauszeiger über ein vorhandenes Ende der Strecke, um zu sehen, wie es mit der aktuellen Spur verknüpft aussehen würde"
+msgstr "Bewege den Mauszeiger über ein vorhandenes Ende der Strecke, um zu sehen, wie es mit dem aktuellem Gleis verknüpft aussehen würde"
 
 #v1.4.15
 msgctxt "editor_tip_copy"
@@ -1894,7 +1894,7 @@ msgstr "Strg-V um den Clip einzufügen"
 #v1.1.31
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
-msgstr "Lassen Sie die linke Taste los, um die Rechteckauswahl zu beenden"
+msgstr "Lasse die linke Taste los, um die Rechteckauswahl zu beenden"
 
 #v1.4.15
 msgctxt "editor_tip_rot_left"
@@ -1904,12 +1904,12 @@ msgstr "Lasse die linke Maustaste los, um das drehen der Auswahl zu beenden"
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
 msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr "Alt para crear edificios simétricos a ambos lados de la vía"
+msgstr "Alt um symetrische Gebäude auf beiden seiten des Gleises zu erstellen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_left"
 msgid "Click near tracks to create new attached buildings"
-msgstr "Click cerca de las vías para crear edificios"
+msgstr "Klicke neben Gleise um neue angebaute Gebäude zu erstellen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
@@ -1939,7 +1939,7 @@ msgstr "Klicke auf ein Gleis um es und die nächsten untergeordneten Gleise zu S
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
 msgid "Click on tracks to split them at the point of click"
-msgstr "Klicke auf ein Gleis, um es an der stelle zu trennen"
+msgstr "Klicke auf ein Gleis, um es an der Stelle zu trennen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
@@ -2009,12 +2009,12 @@ msgstr "Esc zum Abbrechen"
 #:
 msgctxt "editor_tip_station_fin_left"
 msgid "Left click to finish creating a new station platform"
-msgstr "Klicken Sie mit der linken Maustaste, um die Erstellung eines neuen Bahnsteigs abzuschließen"
+msgstr "Klicke mit der linken Maustaste, um die Erstellung eines neuen Bahnsteigs abzuschließen"
 
 #:
 msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
-msgstr "Klicken Sie mit der linken Maustaste, um einen neuen Bahnsteig zu erstellen"
+msgstr "Klicke mit der linken Maustaste, um einen neuen Bahnsteig zu erstellen"
 
 #:
 msgctxt "editor_tip_undo"
@@ -2039,7 +2039,7 @@ msgstr "Vergewissere dich, dass der Servicegrad auf Passagierservice steht, dami
 #v1.2.22
 msgctxt "editor_warn_need_train_acc"
 msgid "Buy and schedule at least one train to this line."
-msgstr "Kauf und Plane mindestens einen Zug auf dieser Line."
+msgstr "Kauf und plane mindestens einen Zug auf dieser Line."
 
 #v1.5.31
 msgctxt "editor_warn_only_trains"
@@ -2099,12 +2099,12 @@ msgstr "Beschädigte Datei: "
 #:
 msgctxt "error_reading_file"
 msgid "Error reading from file"
-msgstr "Fehler beim Lesen der Datei"
+msgstr "Fehler beim lesen der Datei"
 
 #:
 msgctxt "error_reading_file_desc"
 msgid "The system does not allow to read the selected file, or its format is not valid game data"
-msgstr "Dein System erlaubt das Lesen der ausgewählten Datei nicht oder das Format ist nicht gültig"
+msgstr "Dein System erlaubt das lesen der ausgewählten Datei nicht oder das Format ist nicht gültig"
 
 #:
 msgctxt "error_save"
@@ -2114,7 +2114,7 @@ msgstr "Beschädigter Speicherstand"
 #:
 msgctxt "error_saving_internal"
 msgid "Internal error while saving game"
-msgstr "Interner Fehler beim Speichern des Spiels"
+msgstr "Interner Fehler beim speichern des Spiels"
 
 #v1.1.37
 msgctxt "error_too_new_save_v"
@@ -2214,7 +2214,7 @@ msgstr "Hoch:"
 #v1.1.58
 msgctxt "filter_low"
 msgid "Low"
-msgstr "Mín."
+msgstr "Niedrig."
 
 #v1.1.58
 msgctxt "filter_low_c"
@@ -2334,7 +2334,7 @@ msgstr "Ein Spielneustart ist erforderlich"
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr "Spielstandsaustausch"
+msgstr "Spielstandsfreigabe"
 
 #v1.2.29
 msgctxt "game_speed_down"
@@ -2354,7 +2354,7 @@ msgstr "NIMBY Rails Wiki"
 #v1.7.15
 msgctxt "geo_export_desc"
 msgid "Tracks and buildings GeoJSON has been exported to {}"
-msgstr "Gleis und Gebäude GeoJSON wurde nach {} exportiert"
+msgstr "Gleise und Gebäude GeoJSON wurde nach {} exportiert"
 
 #v1.7.15
 msgctxt "geo_export_title"
@@ -2409,27 +2409,27 @@ msgstr "Spielgeschwindigkeit:"
 #v1.1.37
 msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
-msgstr "Große und komplexe bauten mit vielen Zügen und Stationen können zu einem schlechtem Spielerlebnis führen, wenn eien Geschwindigkeit von mehr als 1x in einer Mehrspielersession ausgewählt wird."
+msgstr "Große und komplexe bauten mit vielen Zügen und Stationen können zu einem schlechtem Spielerlebnis führen, wenn eine Geschwindigkeit von mehr als 1x in einer Mehrspielersession ausgewählt wird."
 
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "Kann keine Öffentlich IP-Adresse finden. Benutze bitte das Steam Relay System"
+msgstr "Kann keine öffentlich IP-Adresse finden. Benutze bitte das Steam Relay System"
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "Dein PC oder Router muss eine direkte Verbindung zum Internet mit einer Öffentlichen IP-Adresse haben. Du musst den UDP-Port {} in deinem Router zu deinem PC weiterleiten und deine Firewall so konfigurieren, dass sie Verbindungen zulässt. VPNs, Proxys und CG-NAT umgehen diese Funktion. Weird and Wry kann keine technische hilfe anbieten, wenn diese funktion nicht für deine Verbindung funktioniert."
+msgstr "Dein PC oder Router muss eine direkte verbindung zum Internet mit einer öffentlichen IP-Adresse haben. Du musst den UDP-Port {} in deinem Router zu deinem PC weiterleiten und deine Firewall so konfigurieren, dass sie Verbindungen zulässt. VPNs, Proxys und CG-NAT umgehen diese Funktion. Weird and Wry kann keine technische hilfe anbieten, wenn diese funktion nicht für deine Verbindung funktioniert."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
 msgid "Detected public IPv4:"
-msgstr "Erkannte Öffentliche IPv4-Adresse:"
+msgstr "Erkannte öffentliche IPv4-Adresse:"
 
 #v1.6.13
 msgctxt "host_server_ipv6"
 msgid "Detected public IPv6:"
-msgstr "Erkannte Öffentliche IPv6-Adresse:"
+msgstr "Erkannte öffentliche IPv6-Adresse:"
 
 #v1.6.13
 msgctxt "host_server_mode"
@@ -2444,7 +2444,7 @@ msgstr "Direkt"
 #v1.6.13
 msgctxt "host_server_mode_direct_desc"
 msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
-msgstr "Die Mitspieler versuchen sich direkt mit deinem PC zu verbinden mit der Öffentlichen IP-Adresse.\nErmöglicht es viel größere Bauten über den Mehrspielermodus zu Hosten, wenn du genug Upload Bandbreite hast."
+msgstr "Die Mitspieler versuchen sich direkt mit deinem PC zu verbinden mit der öffentlichen IP-Adresse.\nErmöglicht es viel größere Bauten über den Mehrspielermodus zu Hosten, wenn du genug Upload-Bandbreite hast."
 
 #v1.6.13
 msgctxt "host_server_mode_relay"
@@ -2454,7 +2454,7 @@ msgstr "Steam Relay Netzwerk"
 #v1.6.13
 msgctxt "host_server_mode_relay_desc"
 msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "Die Mitspieler verbinden sich mit deinem PC über das Steam Relay Netzwerk.\nDas ist eine Sichere, Optimierte CDN, die deine IP-Adresse Versteckt, aber eine eingebaute Bandbreitenbechränkung hat."
+msgstr "Die Mitspieler verbinden sich mit deinem PC über das Steam Relay Netzwerk.\nDas ist eine sichere, optimierte CDN, die deine IP-Adresse versteckt, aber eine eingebaute Bandbreitenbechränkung hat."
 
 #v1.6.13
 msgctxt "host_server_port"
@@ -2604,17 +2604,17 @@ msgstr "{}{} bis {}{}"
 #v1.5.41
 msgctxt "intervene_all_stale_trains"
 msgid "Intervene all stale"
-msgstr "Interveniere alle Züge mit einem veraltetem Lauf"
+msgstr "Greife in alle Züge mit einem veraltetem Lauf ein"
 
 #v1.5.31
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
-msgstr "Interveniere alle Züge"
+msgstr "Greife in alle Züge ein"
 
 #v1.5.31
 msgctxt "intervene_line"
 msgid "Intervene line"
-msgstr "Interveniere die Linie"
+msgstr "Greife in die Linie ein"
 
 #v1.1.31
 msgctxt "intervention"
@@ -2624,7 +2624,7 @@ msgstr "Eingriff"
 #v1.4.15
 msgctxt "invalid_size"
 msgid "invalid size"
-msgstr "ungültige Größe"
+msgstr "Ungültige Größe"
 
 #:
 msgctxt "join"
@@ -2779,7 +2779,7 @@ msgstr "Gleise: neues Signal"
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
-msgstr "Gleise: Gebäudeband"
+msgstr "Gleise: Gebäude-Band"
 
 #v1.6.13
 msgctxt "kb_track_sat_parallel_tape"
@@ -2794,7 +2794,7 @@ msgstr "Gleise: Teilung"
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
 msgid "Tracks: track tape"
-msgstr "Gleise: Gleisband"
+msgstr "Gleise: Gleis-Band"
 
 #v1.2.22
 msgctxt "kb_track_sel_signal"
@@ -2824,7 +2824,7 @@ msgstr "[Halten: {}]"
 #v1.6.13
 msgctxt "key_info_hold_missing"
 msgid "[Missing key bind]"
-msgstr "[Fhelende Tastenbelegung]"
+msgstr "[Fehlende Tastenbelegung]"
 
 #v1.1.31
 msgctxt "language_pick"
@@ -2834,12 +2834,12 @@ msgstr "Sprache:"
 #v1.2.29
 msgctxt "layer_ground"
 msgid "Ground"
-msgstr "Boden"
+msgstr "Ebenerdig"
 
 #v1.4.15
 msgctxt "layer_ground_g"
 msgid "G"
-msgstr "B"
+msgstr "E"
 
 #v1.1.31
 msgctxt "line_0_stops"
@@ -2959,7 +2959,7 @@ msgstr "Min."
 #:
 msgctxt "line_stop_passthru_short"
 msgid "Pass"
-msgstr "Bestehen"
+msgstr "Durchfahren"
 
 #:
 msgctxt "line_stop_wait_header"
@@ -2989,7 +2989,7 @@ msgstr "Die benutzerdefinierte Liniendauer ist zu kurz und wird Ignoriert"
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
 msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
-msgstr "Der benutzerdefinierte Modus oder der passende Laufzeit Modus erfordert mindestens einen Halt mit einer gewissen Wartezeit nach der letzten festen Abfahrtshaltestelle"
+msgstr "Der benutzerdefinierte Laufzeit-Modus oder der passende Laufzeit-Modus erfordert mindestens einen Halt mit einer gewissen Wartezeit nach der letzten festen Abfahrtshaltestelle"
 
 #v1.7.15
 msgctxt "line_warn_unachievable_fixed_departure"
@@ -3134,12 +3134,12 @@ msgstr "Benutzerdefinierter Zeitraum:"
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Format: hh:mm:ss\n.Linienlaufzeit wird automatisch ausgewählt, damit sie perfekt in die Zeitmenge hineinpasst. Diese benutzerdefinierte Einstellung garantiert nicht, dass die Laufzeit in einem Tag, oder eine Woche passt."
+msgstr "Format: hh:mm:ss\n.Linienlaufzeit wird automatisch ausgewählt, damit sie perfekt in die Zeitmenge hineinpasst.\nDiese benutzerdefinierte Einstellung garantiert nicht, dass die Laufzeit in einem Tag, oder eine Woche passt."
 
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Benutzerdefiniertewartedauer in diesem Halt"
+msgstr "Benutzerdefiniertewartedauer bei diesem Halt"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -3174,7 +3174,7 @@ msgstr "Nicht Schleife"
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
-msgstr "benutzerdefiniert"
+msgstr "Benutzerdefiniert"
 
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
@@ -3249,7 +3249,7 @@ msgstr "{0}, {1} km, {2}, {3} km/h durchschnitt"
 #v1.7.15
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
-msgstr "Benutzerdefinierte Schleife: {0}\nBenutzerdefinierte nicht-Schleife: {1}\Minimale Schleife: {2}\nMinimale nicht-Schleife: {3}Die Schleifenzeit ist die Summe aller Etappenzeiten und aller Haltezeiten, inklusive der Zeit von der Etappe vom letztem zum erstem Halt.\nDie nicht-Schleifen-Zeit ist die gleiche wie die Schleifenzeit, nur ohne der Etappe vom letztem zum ersten Halt."
+msgstr "Benutzerdefinierte Schleife: {0}\nBenutzerdefinierte nicht-Schleife: {1}\Minimale Schleife: {2}\nMinimale nicht-Schleife: {3}Die Schleifenzeit ist die Summe aller Etappenzeiten und aller Haltezeiten, inklusive der Zeit von der Etappe vom letztem zum erstem Halt.\nDie nicht-Schleifenzeit ist die gleiche wie die Schleifenzeit, nur ohne der Etappe vom letztem zum ersten Halt."
 
 #v1.2.22
 msgctxt "lineeditor_header_l"
@@ -3289,12 +3289,12 @@ msgstr "Benutzerdefinierte Zeit:"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr "Format: (hh:)mm:ss\nDiese Benutzerdefinierte zeit wird angenähert durch ermittlung einer Reisegeschwindigkeit.\nSie wird ignoriert, wenn die resultierende reisegeschwindigkeit zu langsam, oder zu schnell ist.\nZüge werdens chneller fahren, wenn sie verspätet sind."
+msgstr "Format: (hh:)mm:ss\nDiese Benutzerdefinierte zeit wird angenähert durch ermittlung einer Reisegeschwindigkeit.\nSie wird ignoriert, wenn die resultierende reisegeschwindigkeit zu langsam, oder zu schnell ist.\nZüge werdens schneller fahren, wenn sie verspätet sind."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
 msgid "Leg timing:"
-msgstr "Zeit vom letzten Halt:"
+msgstr "Etappenzeit:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_auto"
@@ -3399,7 +3399,7 @@ msgstr "Passagierservice"
 #v1.5.31
 msgctxt "lineeditor_service_level_only_trains"
 msgid "Technical maneuvers"
-msgstr "technische Manöver"
+msgstr "Technische Manöver"
 
 #v1.5.41
 msgctxt "lineeditor_service_of"
@@ -3509,7 +3509,7 @@ msgstr "Ausgewählten Halt nach unten schieben\nDrücke die Umschalttaste (Shift
 #v1.5.31
 msgctxt "lineeditor_tooltip_intervention"
 msgid "Issue an intervention to all trains currently running the selected line"
-msgstr "In alle auf der Strecke verkehrenden Züge eingreifen"
+msgstr "In allen auf der Strecke verkehrenden Züge eingreifen"
 
 #:
 msgctxt "lineeditor_tooltip_new"
@@ -3519,7 +3519,7 @@ msgstr "Neue Linie erstellen"
 #v1.1.72
 msgctxt "lineeditor_tooltip_purchase_trains"
 msgid "Purchase new trains for this line"
-msgstr "Kaufe neue züge für die Linie"
+msgstr "Kaufe neue Züge für die Linie"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_shift"
@@ -3589,7 +3589,7 @@ msgstr "1 Linie"
 #:
 msgctxt "lines_n_many"
 msgid "%d lines"
-msgstr "% d Linien"
+msgstr "%d Linien"
 
 #v1.5.41
 msgctxt "list_sort_compact"
@@ -3819,7 +3819,7 @@ msgstr "Original / nicht übersetzen"
 #:
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Namen auf Karte"
+msgstr "Priorität der Namen auf der Karte"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -3864,7 +3864,7 @@ msgstr "Eingriff in alle Züge mit veralteten Fahrplänen"
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_desc"
 msgid "Do you want to issue an intervention to all stale trains for a price of ${}?"
-msgstr "Möchtest du in alle Züge mit einem eraltetem Fahrplan eingreifen für einen Preis von ${}?"
+msgstr "Möchtest du in alle Züge mit einem veraltetem Fahrplan eingreifen für einen Preis von ${}?"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_title"
@@ -3899,7 +3899,7 @@ msgstr "Die Karte und die Benutzeroberfläche ist im maximalem Geschwindigkeitmo
 #v1.3.13
 msgctxt "minutes"
 msgid "minutes"
-msgstr "minuten"
+msgstr "Minuten"
 
 #v1.1.37
 msgctxt "missing_mod"
@@ -3989,7 +3989,7 @@ msgstr "Aktiviere Modifikationen in diesem Spiel"
 #v1.7.15
 msgctxt "mod_panel_list_title"
 msgid "All subscribed mods"
-msgstr "Alle Abonnierten Modifikationen"
+msgstr "Alle abonnierten Modifikationen"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
@@ -4279,7 +4279,7 @@ msgstr "Host"
 #:
 msgctxt "mp_info_acl"
 msgid "Access"
-msgstr "Anfragen"
+msgstr "Zugriff"
 
 #:
 msgctxt "mp_info_connected"
@@ -4509,7 +4509,7 @@ msgstr "Wechsel zu unbegrenztem Geld"
 #v1.7.15
 msgctxt "option_company_switch_no_couplers"
 msgid "Switch to unrestricted coupling"
-msgstr "Wechsel zu unbeschränkter Kupplung"
+msgstr "Wechsel zu unbeschränktem Kuppeln"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -4519,7 +4519,7 @@ msgstr "Unbegrenztes Geld"
 #v1.7.15
 msgctxt "option_no_couplers"
 msgid "Unrestricted coupling"
-msgstr "Unbeschränkte Kupplung"
+msgstr "Unbeschränktem Kuppeln"
 
 #v1.1.31
 msgctxt "options"
@@ -4559,7 +4559,7 @@ msgstr "Die Zeit reicht nicht aus, um Pfade zwischen diesem Auftrag und dem näc
 #v1.5.41
 msgctxt "order_error_two_arrival_by"
 msgid "Arrive No Later orders cannot appear one after the other"
-msgstr "Nicht später eintreffende Aufträge können nicht nacheinander erscheinen"
+msgstr "Nicht später eintreffen Aufträge können nicht nacheinander erscheinen"
 
 #v1.5.31
 msgctxt "order_invalid_line"
@@ -4594,7 +4594,7 @@ msgstr "Region"
 #:
 msgctxt "osm_admin_level_6"
 msgid "County"
-msgstr "Bezirk"
+msgstr "Kreis"
 
 #:
 msgctxt "osm_admin_level_7"
@@ -4644,7 +4644,7 @@ msgstr "{} Überschreiben?"
 #v1.1.37
 msgctxt "ovewrite_other_desc"
 msgid "{} was saved with a different game version. Do you want to overwrite it, or rename it to keep its original contents, then save the game?"
-msgstr "{} wurde in einer anderen Spielversion gespeichert. Möchtest du sie überschreiben, oder unter einem anderemn Namen speichern um die Inhalte zu beahren?"
+msgstr "{} wurde in einer anderen Spielversion gespeichert. Möchtest du sie überschreiben, oder unter einem anderen Namen speichern um die Inhalte zu bewahren?"
 
 #v1.3.13
 msgctxt "parent"
@@ -4669,7 +4669,7 @@ msgstr "Fahre {0} für {1}"
 #v1.5.31
 msgctxt "path2_take2"
 msgid " Up to {0} [{1}]"
-msgstr " bis {0} [{1}]"
+msgstr " Bis {0} [{1}]"
 
 #v1.5.31
 msgctxt "path2_wait_at"
@@ -4944,7 +4944,7 @@ msgstr "Zug zurücksetzen"
 #v1.4.22
 msgctxt "return_game"
 msgid "Return to game"
-msgstr "Zurück zum spiel"
+msgstr "Zurück zum Spiel"
 
 #v1.1.72
 msgctxt "ridership"
@@ -5024,12 +5024,12 @@ msgstr "Zeit zum geplanten ankommen"
 #v1.1.72
 msgctxt "rtstat_pax_avg_leg_time"
 msgid "Avg. leg time of contained pax"
-msgstr "Durchscnittliche Etappenzeit der enthaltenden Fahrgäste"
+msgstr "Durchscnhittliche Etappenzeit der enthaltenden Fahrgäste"
 
 #v1.1.72
 msgctxt "rtstat_pax_avg_time"
 msgid "Avg. total time of contained pax"
-msgstr "Durchscnittliche Gesamtzeit der Fahrgäste"
+msgstr "Durchschnittliche Gesamtzeit der enthaltenden Fahrgäste"
 
 #v1.1.72
 msgctxt "rtstat_pax_capacity"
@@ -5054,7 +5054,7 @@ msgstr "Insgesamt enthaltende Fahrgäste"
 #v1.1.72
 msgctxt "rtstat_pax_transfer"
 msgid "Contains transfer pax"
-msgstr "Enthält Transfer Fahrgäste"
+msgstr "Enthält transfer Fahrgäste"
 
 #v1.1.72
 msgctxt "rtstat_pax_with_destination"
@@ -5074,7 +5074,7 @@ msgstr "Fahrgäste mit Herkunft bei"
 #v1.1.72
 msgctxt "rtstat_sax_avg"
 msgid "Satisfaction"
-msgstr "Zufiredenheit"
+msgstr "Zufriedenheit"
 
 #v1.1.72
 msgctxt "rtstat_spawn_rate"
@@ -5249,7 +5249,7 @@ msgstr "Speicherstand freigeben"
 #v1.7.15
 msgctxt "share_game_attribution"
 msgid "Attribution:"
-msgstr "zurechnung:"
+msgstr "Zurechnung:"
 
 #v1.7.15
 msgctxt "share_game_attribution_anon"
@@ -5284,7 +5284,7 @@ msgstr "Lösche das existierende freigegebene Spiel"
 #v1.7.15
 msgctxt "share_game_open_link"
 msgid "Open link"
-msgstr "Link Öffnen"
+msgstr "Link öffnen"
 
 #v1.7.15
 msgctxt "share_game_open_link_desc"
@@ -5299,7 +5299,7 @@ msgstr "Gefällt-mir:"
 #v1.7.15
 msgctxt "share_game_replace"
 msgid "Replace with current game"
-msgstr "Durch aktuellse Spiel ersetzen"
+msgstr "Durch aktuelles Spiel ersetzen"
 
 #v1.7.15
 msgctxt "share_game_replace_desc"
@@ -5394,7 +5394,7 @@ msgstr "Besetzt durch {}"
 #v1.8.24
 msgctxt "signal_check_hit_res"
 msgid "Reserved by {}"
-msgstr "reserviert von {}"
+msgstr "Reserviert von {}"
 
 #v1.2.22
 msgctxt "signal_dir_m1"
@@ -5579,7 +5579,7 @@ msgstr "Zu nah"
 #v1.8.24
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "Diese Signalposition auf dem Gleis ist zu nah zu einem anderem Gleis. Bewege is weg von übereinanderliegenden Gleisen."
+msgstr "Diese Signalposition auf dem Gleis ist zu nah zu einem anderem Gleis. Bewege es weg von übereinanderliegenden Gleisen."
 
 #v1.1.31
 msgctxt "single_player"
@@ -5709,7 +5709,7 @@ msgstr "Halt {}"
 #v1.5.31
 msgctxt "stop_leg_full2"
 msgid "{0}m at {1} km/h avg."
-msgstr "{0}m bei {1} km/h durchschnitt"
+msgstr "{0}m bei {1} km/h Durchschnitt"
 
 #v1.2.22
 msgctxt "stop_leg_l"
@@ -5949,7 +5949,7 @@ msgstr "Leichtbahn"
 #v1.1.58
 msgctxt "tag_linear_induction"
 msgid "Linear induction"
-msgstr "lineare Induktion"
+msgstr "Lineare Induktion"
 
 #v1.1.58
 msgctxt "tag_locomotive"
@@ -6174,7 +6174,7 @@ msgstr "Ungültige Geometrie oder Elemente"
 #v1.6.13
 msgctxt "tape_warn_invalid_length"
 msgid "Invalid length"
-msgstr "Ungültige länge"
+msgstr "Ungültige Länge"
 
 #v1.6.13
 msgctxt "tape_warn_too_complex"
@@ -6254,12 +6254,12 @@ msgstr "Titel:"
 #v1.5.31
 msgctxt "too_many_collections"
 msgid "Too many clips"
-msgstr "Demasiados clips"
+msgstr "Zu viele Clips"
 
 #v1.5.31
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr "Deine gespeicherten und abonnierten Clips haben das Limit von 50.000 Tracks und Gebäuden erreicht. Bitte lösche einige gespeicherte Clips und/oder melde dich von einigen Sammlungen ab."
+msgstr "Deine gespeicherten und abonnierten Clips haben das Limit von 50.000 Gleisen und Gebäuden erreicht. Bitte lösche einige gespeicherte Clips und/oder melde dich von einigen Sammlungen ab."
 
 #v1.2.22
 msgctxt "tooltip_demand"
@@ -6279,17 +6279,17 @@ msgstr "Gleise"
 #:
 msgctxt "track_ground"
 msgid "Ground"
-msgstr "Boden"
+msgstr "Ebenerdig"
 
 #:
 msgctxt "track_ground_crossings"
 msgid "Ground (with road crossings)"
-msgstr "Boden (mit Straßenkreuzungen)"
+msgstr "Ebenerdig (mit Straßenkreuzungen)"
 
 #:
 msgctxt "track_ground_underpasses"
 msgid "Ground"
-msgstr "Boden"
+msgstr "Ebenerdig"
 
 #:
 msgctxt "track_hits"
@@ -6434,17 +6434,17 @@ msgstr "Hier hinzufügen"
 #v1.8.24
 msgctxt "train_car_append_tp"
 msgid "Shift clicking cars in the listing directly appends them"
-msgstr "Klicken auf die wagen mit der gedrückten Umschalttaste (Shift) fügt die Wagen dierekt hinzu"
+msgstr "Klicke auf die Wagen mit der gedrückten Umschalttaste (Shift) um die Wagen dierekt hinzuzufügen"
 
 #v1.7.15
 msgctxt "train_car_base_color_edit"
 msgid "Base color:"
-msgstr "Color base:"
+msgstr "Basisfarbe:"
 
 #v1.7.15
 msgctxt "train_car_decal_color_edit"
 msgid "Decal color:"
-msgstr "Basisfarbe:"
+msgstr "Folierungsfarbe:"
 
 #v1.7.15
 msgctxt "train_car_decal_edit"
@@ -6699,12 +6699,12 @@ msgstr "Keine"
 #v1.7.15
 msgctxt "train_info_coupler_optional"
 msgid "optional"
-msgstr "optional"
+msgstr "Optional"
 
 #v1.7.15
 msgctxt "train_info_coupler_universal"
 msgid "universal"
-msgstr "universal"
+msgstr "Universal"
 
 #v1.1.58
 msgctxt "train_info_departs"
@@ -6779,7 +6779,7 @@ msgstr "$ {} pro Tag"
 #:
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
-msgstr "Masse / leer:"
+msgstr "Masse / Leer:"
 
 #v1.8.24
 msgctxt "train_info_max_accel"
@@ -6799,7 +6799,7 @@ msgstr "Maximale Fahrgäste:"
 #:
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "Makimale Geschwindigkeit:"
+msgstr "Maximale Geschwindigkeit:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
@@ -6814,7 +6814,7 @@ msgstr "Pfadfind-Sonde vom Zug zu seinem aktuellem Ziel"
 #v1.1.31
 msgctxt "train_info_pax"
 msgid "Pax / max:"
-msgstr "Fahrgäste / max:"
+msgstr "Fahrgäste / Max.:"
 
 #v1.6.13
 msgctxt "train_info_pin"
@@ -6839,12 +6839,12 @@ msgstr "Betriebskosten:"
 #v1.7.15
 msgctxt "train_info_running_cost_f2"
 msgid "${0:.2} per km, ${1:.2} per km per pax"
-msgstr "${0:.2} pro km, ${1:.2} pro km und pax"
+msgstr "${0:.2} pro km, ${1:.2} pro km und Fahrgast"
 
 #:
 msgctxt "train_info_speed"
 msgid "Speed / max:"
-msgstr "Geschwindigkeit / max:"
+msgstr "Geschwindigkeit / Max.:"
 
 #:
 msgctxt "train_info_status"
@@ -7054,7 +7054,7 @@ msgstr "Verscheibung:"
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
 msgid "Managed by parent group"
-msgstr "Verwaltet bei Übergeordneter Gruppe"
+msgstr "Verwaltet bei übergeordneter Gruppe"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
@@ -7149,7 +7149,7 @@ msgstr "Nicht genügend Geld für neue Wagen"
 #v1.7.15
 msgctxt "train_recompo_error_coupling"
 msgid "Invalid coupling"
-msgstr "ungültige Kupplung"
+msgstr "Ungültige Zugreihung"
 
 #v1.7.15
 msgctxt "train_recompo_error_empty"
@@ -7249,12 +7249,12 @@ msgstr "Summe für 1 Einheit"
 #:
 msgctxt "train_total_price_many"
 msgid "Total for %d units"
-msgstr "Summe für% d Einheiten"
+msgstr "Summe für %d Einheiten"
 
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr "Format: (-)hh:mm:ss\nVerschiebe den Start der automatisch kopierer um diese Anzahl."
+msgstr "Format: (-)hh:mm:ss\nVerschiebe den Start der automatischen Kopierer um diese Menge."
 
 #v1.7.15
 msgctxt "traineditor_buy_custom_mode"
@@ -7394,7 +7394,7 @@ msgstr "Abfahren um genaus"
 #v1.5.41
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr "Setze die Zeit zu dem frühesten punkt, welchen den Zug ermöglicht den verherigen Lauf ohne extra Watrezeit zu beenden\nIgnoriert ausstehende Änderungen von Wochentag und Startzeit\nBei mehrtägigen Aufträgen wird nur der erste Tag berücksichtigt"
+msgstr "Setze die Zeit zu dem frühesten Punkt, welcher dem Zug ermöglicht den verherigen Lauf ohne extra Wartezeit zu beenden\nIgnoriert ausstehende Änderungen von Wochentag und Startzeit\nBei mehrtägigen Aufträgen wird nur der erste Tag berücksichtigt"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
