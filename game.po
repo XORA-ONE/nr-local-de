@@ -1223,7 +1223,7 @@ msgstr "Löschen bestätigen"
 
 msgctxt "confirm_delete_desc"
 msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Eine oder mehrere ausgewählte Gleise sind bereits gebaut. Wenn du sie löschst, wird das Geld nicht zurückerstattet. Dieser Vorgang kann nicht rückgängig gemacht werden. Bist du dir sicher?"
+msgstr "Eine oder mehrere ausgewählte Gleise sind bereits gebaut. Wenn du sie löschst, wird das Geld nicht zurückerstattet. Dieser Vorgang kann nicht rückgängig gemacht werden. Bist du sicher?"
 
 #v1.1.58
 msgctxt "confirm_delete_line"
@@ -1238,7 +1238,7 @@ msgstr "Möchtest du die Linie mit dem Namen {} Löschen?"
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Linieneingriff Bestätigen"
+msgstr "Linieneingriff bestätigen"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
@@ -1248,22 +1248,22 @@ msgstr "Möchtest du in alle Züge, die derzeit auf der Linie {0} verkehren, fü
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
-msgstr "Bestätige den wechsel zu unbegrenztem Geld"
+msgstr "Bestätige den Wechsel zu unbegrenztem Geld"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "Der wechsel zu unbegrenztem Geld kann nicht rückgängig gemacht werden. Bist du dir sicher?"
+msgstr "Der Wechsel zu unbegrenztem Geld kann nicht rückgängig gemacht werden. Bist du sicher?"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
 msgid "Confirm switching to unrestricted coupling"
-msgstr "Bestätige den wechsel zu unbegrenztem Kuppeln"
+msgstr "Bestätige den Wechsel zu unbegrenztem Kuppeln"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers_desc"
 msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr "Der wechsel zu unbegrenztem Kuppeln kann nicht rückgängig gemacht werden. Bist du dir sicher?"
+msgstr "Der Wechsel zu unbegrenztem Kuppeln kann nicht rückgängig gemacht werden. Bist du sicher?"
 
 #v1.1.31
 #v1.4.15
@@ -1904,7 +1904,7 @@ msgstr "Lasse die linke Maustaste los, um das drehen der Auswahl zu beenden"
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
 msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr "Alt um symetrische Gebäude auf beiden seiten des Gleises zu erstellen"
+msgstr "Alt um symmetrische Gebäude auf beiden Seiten des Gleises zu erstellen"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_left"
@@ -2039,7 +2039,7 @@ msgstr "Vergewissere dich, dass der Servicegrad auf Passagierservice steht, dami
 #v1.2.22
 msgctxt "editor_warn_need_train_acc"
 msgid "Buy and schedule at least one train to this line."
-msgstr "Kauf und plane mindestens einen Zug auf dieser Line."
+msgstr "Kaufe und plane mindestens einen Zug auf dieser Linie ein."
 
 #v1.5.31
 msgctxt "editor_warn_only_trains"
@@ -2099,12 +2099,12 @@ msgstr "Beschädigte Datei: "
 #:
 msgctxt "error_reading_file"
 msgid "Error reading from file"
-msgstr "Fehler beim lesen der Datei"
+msgstr "Fehler beim Lesen der Datei"
 
 #:
 msgctxt "error_reading_file_desc"
 msgid "The system does not allow to read the selected file, or its format is not valid game data"
-msgstr "Dein System erlaubt das lesen der ausgewählten Datei nicht oder das Format ist nicht gültig"
+msgstr "Dein System erlaubt das Lesen der ausgewählten Datei nicht oder das Format ist ungültig"
 
 #:
 msgctxt "error_save"
@@ -2114,7 +2114,7 @@ msgstr "Beschädigter Speicherstand"
 #:
 msgctxt "error_saving_internal"
 msgid "Internal error while saving game"
-msgstr "Interner Fehler beim speichern des Spiels"
+msgstr "Interner Fehler beim Speichern des Spiels"
 
 #v1.1.37
 msgctxt "error_too_new_save_v"
@@ -2334,7 +2334,7 @@ msgstr "Ein Spielneustart ist erforderlich"
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr "Spielstandsfreigabe"
+msgstr "Spielstandfreigabe"
 
 #v1.2.29
 msgctxt "game_speed_down"
@@ -2409,17 +2409,17 @@ msgstr "Spielgeschwindigkeit:"
 #v1.1.37
 msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
-msgstr "Große und komplexe bauten mit vielen Zügen und Stationen können zu einem schlechtem Spielerlebnis führen, wenn eine Geschwindigkeit von mehr als 1x in einer Mehrspielersession ausgewählt wird."
+msgstr "Große und komplexe Bauten mit vielen Zügen und Stationen können zu einem schlechten Spielerlebnis führen, wenn eine Geschwindigkeit von mehr als 1x in einer Mehrspielersession ausgewählt wird."
 
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "Kann keine öffentlich IP-Adresse finden. Benutze bitte das Steam Relay System"
+msgstr "Kann keine öffentliche IP-Adresse finden. Benutze bitte das Steam Relay System"
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "Dein PC oder Router muss eine direkte verbindung zum Internet mit einer öffentlichen IP-Adresse haben. Du musst den UDP-Port {} in deinem Router zu deinem PC weiterleiten und deine Firewall so konfigurieren, dass sie Verbindungen zulässt. VPNs, Proxys und CG-NAT umgehen diese Funktion. Weird and Wry kann keine technische hilfe anbieten, wenn diese funktion nicht für deine Verbindung funktioniert."
+msgstr "Dein PC oder Router muss eine direkte Verbindung zum Internet mit einer öffentlichen IP-Adresse haben. Du musst den UDP-Port {} in deinem Router zu deinem PC weiterleiten und deine Firewall so konfigurieren, dass sie Verbindungen zulässt. VPNs, Proxys und CG-NAT umgehen diese Funktion. Weird and Wry kann keine technische Hilfe anbieten, wenn diese Funktion nicht für deine Verbindung funktioniert."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
@@ -2454,7 +2454,7 @@ msgstr "Steam Relay Netzwerk"
 #v1.6.13
 msgctxt "host_server_mode_relay_desc"
 msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "Die Mitspieler verbinden sich mit deinem PC über das Steam Relay Netzwerk.\nDas ist eine sichere, optimierte CDN, die deine IP-Adresse versteckt, aber eine eingebaute Bandbreitenbechränkung hat."
+msgstr "Die Mitspieler verbinden sich mit deinem PC über das Steam Relay Netzwerk.\nDas ist eine sichere, optimierte CDN, die deine IP-Adresse versteckt, aber eine eingebaute Bandbreitenbeschränkung hat."
 
 #v1.6.13
 msgctxt "host_server_port"
@@ -3139,7 +3139,7 @@ msgstr "Format: hh:mm:ss\n.Linienlaufzeit wird automatisch ausgewählt, damit si
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Benutzerdefiniertewartedauer bei diesem Halt"
+msgstr "Benutzerdefinierte Haltezeit an diesem Haltepunkt"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -3289,7 +3289,7 @@ msgstr "Benutzerdefinierte Zeit:"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr "Format: (hh:)mm:ss\nDiese Benutzerdefinierte zeit wird angenähert durch ermittlung einer Reisegeschwindigkeit.\nSie wird ignoriert, wenn die resultierende reisegeschwindigkeit zu langsam, oder zu schnell ist.\nZüge werdens schneller fahren, wenn sie verspätet sind."
+msgstr "Format: (hh:)mm:ss\nDiese benutzerdefinierte Zeit wird angenähert durch Ermittlung einer Reisegeschwindigkeit.\nSie wird ignoriert, wenn die resultierende Reisegeschwindigkeit zu langsam, oder zu schnell ist.\nZüge werden schneller fahren, wenn sie verspätet sind."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
@@ -4644,7 +4644,7 @@ msgstr "{} Überschreiben?"
 #v1.1.37
 msgctxt "ovewrite_other_desc"
 msgid "{} was saved with a different game version. Do you want to overwrite it, or rename it to keep its original contents, then save the game?"
-msgstr "{} wurde in einer anderen Spielversion gespeichert. Möchtest du sie überschreiben, oder unter einem anderen Namen speichern um die Inhalte zu bewahren?"
+msgstr "{} wurde in einer anderen Spielversion gespeichert. Möchtest du sie überschreiben, oder unter einem anderen Namen speichern, um die Inhalte zu bewahren?"
 
 #v1.3.13
 msgctxt "parent"
@@ -5579,7 +5579,7 @@ msgstr "Zu nah"
 #v1.8.24
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "Diese Signalposition auf dem Gleis ist zu nah zu einem anderem Gleis. Bewege es weg von übereinanderliegenden Gleisen."
+msgstr "Diese Signalposition auf dem Gleis ist zu nah zu einem anderen Gleis. Bewege es weg von übereinanderliegenden Gleisen."
 
 #v1.1.31
 msgctxt "single_player"
@@ -7394,7 +7394,7 @@ msgstr "Abfahren um genaus"
 #v1.5.41
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr "Setze die Zeit zu dem frühesten Punkt, welcher dem Zug ermöglicht den verherigen Lauf ohne extra Wartezeit zu beenden\nIgnoriert ausstehende Änderungen von Wochentag und Startzeit\nBei mehrtägigen Aufträgen wird nur der erste Tag berücksichtigt"
+msgstr "Setze die Zeit zu dem frühesten Punkt, welcher dem Zug ermöglicht den vorherigen Lauf, ohne extra Wartezeit zu beenden\nIgnoriert ausstehende Änderungen von Wochentag und Startzeit\nBei mehrtägigen Aufträgen wird nur der erste Tag berücksichtigt"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
