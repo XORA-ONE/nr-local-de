@@ -34,12 +34,13 @@ We would love for you to contribute to our translation and help make it even bet
 
   
 ## Publishing
-This project is maintained by [@CODEYXone](https://github.com/CODEYXone). He will publish the "ready for release content" of this repository as a mod to the official download source - the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2375603520). The content of this repository is open for your own use, but don't redistribute without explicit permission.
+This project is maintained by [@CODEYXone](https://github.com/CODEYXone) and [@MaxiderZocker](https://github.com/MaxiderZocker) (co-maintainer). They will publish the "ready for release content" of this repository as a mod to the official download source - the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2375603520). The content of this repository is open for your own use, but don't redistribute without explicit permission.
  
   
 ## Credits and Thanks
 #### Current Team
 * [@CODEYXone](https://github.com/CODEYXone) (maintainer)
+* [@MaxiderZocker](https://github.com/MaxiderZocker) (co-maintainer)
 * [@marcoone](https://github.com/marchoone)
 * [@TheGamerH18](https://github.com/TheGamerH18)
 
