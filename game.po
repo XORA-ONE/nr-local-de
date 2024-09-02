@@ -614,7 +614,7 @@ msgstr "Geplante Haltezeit"
 #v1.11.14
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {}"
-msgstr "Tiempo conta.: {}"
+msgstr "Buchungszeit: {}"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -2294,7 +2294,7 @@ msgstr "Klicke mit der linken Maustaste, um einen neuen Bahnsteig zu erstellen"
 #v1.11.14
 msgctxt "editor_tip_station_move"
 msgid "Move mouse to start creating the station platform"
-msgstr "Mueve el ratón para empezar a crear en el andén"
+msgstr "Bewege die Maus um eine Platform zu erstellen"
 
 #v1.9.17
 msgctxt "editor_tip_tangent_left"
@@ -2639,17 +2639,17 @@ msgstr "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 #v1.11.14
 msgctxt "full_simulation_reset"
 msgid "Full simulation reset"
-msgstr "Reset completo de simulación"
+msgstr "Vollständiges Zurücksetzen der Simulation"
 
 #v1.11.14
 msgctxt "full_simulation_reset_desc"
 msgid "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
-msgstr "Todos los pax serán eliminados de estaciones y trenes, todos los trenes serán intervenidos, se recalcularán los tiempos de líneas. Estás seguro?"
+msgstr "Alle Fahrgäste werden von Stationen und zügen entfernt. Es wird in allen Zügen eingegriffen. Linienaufträge und -zeiten werden erneuert. Bist du sicher?"
 
 #v1.11.14
 msgctxt "full_simulation_reset_yes"
 msgid "Reset simulation"
-msgstr "Reset de simulación"
+msgstr "Simulation Zurücksetzen"
 
 #v1.2.22
 msgctxt "game_restart_req"
@@ -2799,12 +2799,12 @@ msgstr "Erkennung der öffentlichen IP-Adresse..."
 #v1.11.14
 msgctxt "host_sim_mode"
 msgid "Clock and bank:"
-msgstr "Reloj y banco:"
+msgstr "Uhr und Bank:"
 
 #v1.11.14
 msgctxt "host_sim_mode_private"
 msgid "Private for each player"
-msgstr "Privados por jugador"
+msgstr "Privat für jeden Spieler"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
@@ -2814,7 +2814,7 @@ msgstr "Zeit, Zugbewegungen und die Fahrgastsimulation ist für jeden Mitspieler
 #v1.11.14
 msgctxt "host_sim_mode_shared"
 msgid "Shared between all players"
-msgstr "Compartidos entre jugadores"
+msgstr "Geteilt mit allen Spielern"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
@@ -3239,7 +3239,7 @@ msgstr "Sprache:"
 #v1.11.14
 msgctxt "last_frame_game_speed"
 msgid "Last frame speed: {:.1f}x"
-msgstr "Velocidad último frame: {:.1f}x"
+msgstr "Geschwindigkeit des letzten Frames: {:.1f}x"
 
 #v1.2.29
 msgctxt "layer_ground"
@@ -3754,12 +3754,12 @@ msgstr "Obere Grenze für die Zugbremsung. Die tatsächliche Bremsleistung kann 
 #v1.11.14
 msgctxt "lineeditor_min_pax_departure_leg_time"
 msgid "Pax min. ride time:"
-msgstr "Pax tiempo min. en tren:"
+msgstr "Minimale Fahrzeit:"
 
 #v1.11.14
 msgctxt "lineeditor_min_pax_departure_leg_time_desc"
 msgid "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
-msgstr "Formato: (hh:)mm:ss\nLos pax solo entran al tren si planean estar en su interior por al menos esta cantidad de tiempo,\nsin incluir la espera inicial."
+msgstr "Format: (hh:)mm:ss\nFahrgäste steigen nur ein, wenn sie den Zug länger als die angegebene zeit nutzen wollen,\nohne wartezeiz"
 
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
@@ -3844,12 +3844,12 @@ msgstr "Ankommen um:"
 #v1.11.14
 msgctxt "lineeditor_stop_boardable"
 msgid "Board"
-msgstr "Entrar"
+msgstr "Einsteigen"
 
 #v1.11.14
 msgctxt "lineeditor_stop_leaveable"
 msgid "Disembark"
-msgstr "Salir"
+msgstr "Aussteigen"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
@@ -3874,7 +3874,7 @@ msgstr "Feste Abfahrtszeit"
 #v1.11.14
 msgctxt "lineeditor_stop_no_pax_behavior"
 msgid "Not board or disembark"
-msgstr "No entrar ni salir"
+msgstr "Kein Ein- oder Aussteigen"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
@@ -3894,7 +3894,7 @@ msgstr "Liniendienst Halt"
 #v1.11.14
 msgctxt "lineeditor_stop_pax_behavior"
 msgid "Allow pax to:"
-msgstr "Permitr a pax:"
+msgstr "Erlaube Fahrgäste:"
 
 #v1.5.41
 msgctxt "lineeditor_suffix"
@@ -3989,17 +3989,17 @@ msgstr "Zeitzone:"
 #v1.11.14
 msgctxt "lineeditor_tz_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "Benutzerdefiniert"
 
 #v1.11.14
 msgctxt "lineeditor_tz_custom_input"
 msgid "Custom time zone:"
-msgstr "Zona horaria custom:"
+msgstr "Benutzerdefinierte Zeitzone:"
 
 #v1.11.14
 msgctxt "lineeditor_tz_custom_input_desc"
 msgid "Format: (-)hh:mm:ss"
-msgstr "Formato: (-)hh:mm:ss"
+msgstr "Format: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
@@ -5139,27 +5139,27 @@ msgstr "Buchhaltung exportieren"
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s"
 msgid "Accounting time shift:"
-msgstr "Tiempo contable:"
+msgstr "Zeitversatz der Abrechnungszeit:"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change"
 msgid "Change accounting day shift time"
-msgstr "Cambiar inicio de tiempo contable"
+msgstr "Beginn der Abrechnungszeit ändern"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change_desc"
 msgid "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
-msgstr "La contabilidad del día actual se perderá o será incorrecta. Hay que esperar 24h hasta que se corrija la contabilidad. Es posible que se pierda alguna contabilidad. La contabilidad histórica no será corregida. Esta opción solo se aplica desde el momento en que se activa. Estás seguro?"
+msgstr "Abrechnungen des aktuellem Tages gehen verloren / sind falsch. Nach 24 Stunden werden die Abrechnungen wieder passen. Einige historische Abrechnungen können verloren gehen. Keine historischen Abrechungen werden verschoben. Diese Einstellung gilt erst ab dem Zeitpunkt, an dem sie geändert wird. Bist du sicher?"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change_yes"
 msgid "Change time"
-msgstr "Cambiar tiempo"
+msgstr "Änder Zeit"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_desc"
 msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
-msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
+msgstr "Format: (-)hh:mm:ss\nDer neue Tag in der Abrechnung beginnt zu dieser verschobenen Zeit relativ zu UTC0"
 
 #v1.12.11
 msgctxt "option_company_demand"
@@ -5194,17 +5194,17 @@ msgstr "Paralleler abstand von neuen Gleisen:"
 #v1.11.14
 msgctxt "option_company_pax_pf_bias"
 msgid "Pax pathfind bias:"
-msgstr "Bias de pax pathfind:"
+msgstr "Fahrgäste Pfadfindungsverzerrung:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias_less"
 msgid "Better paths"
-msgstr "Mejor recorrido"
+msgstr "Bessere Pfade"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias_more"
 msgid "Faster sim"
-msgstr "Mas rendimiento"
+msgstr "Schnellere Simulation"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_pick"
@@ -5239,27 +5239,27 @@ msgstr "Wechsel zu unbeschränktem Kuppeln"
 #v1.11.14
 msgctxt "option_company_time_zones"
 msgid "Map time zones:"
-msgstr "Zonas horarias:"
+msgstr "Kartenzeitzonen:"
 
 #v1.11.14
 msgctxt "option_company_time_zones_approximate"
 msgid "Approximate"
-msgstr "Aproximadas"
+msgstr "Annäherung"
 
 #v1.11.14
 msgctxt "option_company_time_zones_change"
 msgid "Change map time zones mode"
-msgstr "Cambiar modo de zona horaria"
+msgstr "Ändern des Zeitzonenmodus der Karte"
 
 #v1.11.14
 msgctxt "option_company_time_zones_simplified"
 msgid "Simplified"
-msgstr "Simplificadas"
+msgstr "Simplifiziert"
 
 #v1.11.14
 msgctxt "option_company_time_zones_zero"
 msgid "Always 0"
-msgstr "Siempre 0"
+msgstr "Immer 0"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -5314,7 +5314,7 @@ msgstr "Uploader"
 #v1.11.14
 msgctxt "options_performance"
 msgid "Performance"
-msgstr "Rendimiento"
+msgstr "Leistung"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
@@ -5559,37 +5559,37 @@ msgstr "Warten auf Fahrgäste..."
 #v1.11.14
 msgctxt "perf_bg_fps"
 msgid "Background UI FPS:"
-msgstr "FPS UI de fondo:"
+msgstr "Hintergrund UI FPS:"
 
 #v1.11.14
 msgctxt "perf_fg_fps"
 msgid "Foreground UI FPS:"
-msgstr "FPS UI activo:"
+msgstr "Vordergrund UI FPS:"
 
 #v1.11.14
 msgctxt "perf_fps_limited"
 msgid "Manual limit"
-msgstr "Límite manual"
+msgstr "Manuelle Begrenzung"
 
 #v1.11.14
 msgctxt "perf_fps_unlimited"
 msgid "Unlimited"
-msgstr "Ilimitado"
+msgstr "Unlimitiert"
 
 #v1.11.14
 msgctxt "perf_fps_vsync"
 msgid "Limited by VSync"
-msgstr "Limitado por VSync"
+msgstr "Limitiert durch VSync"
 
 #v1.11.14
 msgctxt "perf_linenet_threads"
 msgid "Timetable CPU threads:"
-msgstr "Threads CPU horarios:"
+msgstr "Fahrplan CPU-Threads:"
 
 #v1.11.14
 msgctxt "perf_sim_threads"
 msgid "Sim CPU threads:"
-msgstr "Threads CPU simulación:"
+msgstr "Simulations CPU-Threads:"
 
 #v1.5.31
 msgctxt "pick"
@@ -6154,7 +6154,7 @@ msgstr "Verkaufe Alle"
 #v1.11.14
 msgctxt "setting_game_speed"
 msgid "Speed setting: {}x"
-msgstr "Velocidad: {}x"
+msgstr "Geschwindigkeitseinstellung: {}x"
 
 #v1.1.31
 msgctxt "settings"
@@ -8199,7 +8199,7 @@ msgstr "Verbleibende Etappe (m)"
 #v1.11.14
 msgctxt "train_rt_pax"
 msgid "Pax"
-msgstr "Pax"
+msgstr "Fahrgäste"
 
 #v1.8.24
 msgctxt "train_rt_speed"
@@ -8409,7 +8409,7 @@ msgstr "Um:"
 #v1.11.14
 msgctxt "traineditor_order_start_time_day_on"
 msgid "On:"
-msgstr "Um:"
+msgstr "Zu:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
@@ -8429,7 +8429,7 @@ msgstr "Mit vorkonfigurierten Zug ersetzen"
 #v1.11.14
 msgctxt "traineditor_restrict_trains_map"
 msgid "Restrict listing to visible trains on map (approximately)"
-msgstr "Restringir listado a los trenes visibles (aproximadamente)"
+msgstr "Beschränke die Auflistung auf sichtbare Züge auf der Karte (Annäherung)"
 
 #:
 msgctxt "traineditor_select_all"
@@ -8469,17 +8469,17 @@ msgstr "Zeitzonen:"
 #v1.11.14
 msgctxt "traineditor_tz_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "Benutzerdefiniert"
 
 #v1.11.14
 msgctxt "traineditor_tz_custom_input"
 msgid "Custom time zone:"
-msgstr "Zona horaria custom:"
+msgstr "Benutzerdefinierte Zeitzone:"
 
 #v1.11.14
 msgctxt "traineditor_tz_custom_input_desc"
 msgid "Format: (-)hh:mm:ss"
-msgstr "Formato: (-)hh:mm:ss"
+msgstr "Format: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
