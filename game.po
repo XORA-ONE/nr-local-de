@@ -174,7 +174,7 @@ msgstr "Fahrgäste:"
 #v1.13.11
 msgctxt "perf_editor_holds_rebuild"
 msgid "Hold updates when paused in editors"
-msgstr "Aktualisierungen anhalten, wenn in Editoren pausiert wird"
+msgstr "Keine Aktualisierungen wenn Pausiert"
 
 #v1.13.11
 msgctxt "rebuild_demand_stalled_tp"
@@ -204,7 +204,7 @@ msgstr "Kapazität der Plattform"
 #v1.13.11
 msgctxt "station_max_walk"
 msgid "Auto walk transfer:"
-msgstr "Automatischer Lauftransfer:"
+msgstr "Lauftransferradius:"
 
 #v1.13.11
 msgctxt "station_max_walk_nc"
@@ -729,7 +729,7 @@ msgstr "Automatisches verfolgen und blättern in der Liste je nach Tageszeit"
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Automatisches exportieren der Buchhaltungsdaten:"
+msgstr "Abrechnungsdatenexport:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
@@ -744,7 +744,7 @@ msgstr "Automatischer Export..."
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Automatisches Speicherintervall"
+msgstr "Speicherintervall:"
 
 #:
 msgctxt "autosave_slots"
@@ -1579,7 +1579,7 @@ msgstr "Linie Löschen"
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Löschen und Züge verkaufen"
+msgstr "Löschen und verkaufen"
 
 #v1.6.13
 msgctxt "delete_only_bp"
@@ -1844,7 +1844,7 @@ msgstr "Neues Gebäude erstellen"
 #v1.2.22
 msgctxt "editor_edit_signal"
 msgid "Move, delete and edit signals"
-msgstr "Mover, borrar y editar señales"
+msgstr "Verschieben, Löschen und Bearbeiten von Signalen"
 
 #:
 msgctxt "editor_move"
@@ -4309,7 +4309,7 @@ msgstr "Original / nicht übersetzen"
 #:
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Priorität der Namen auf der Karte"
+msgstr "Namenspriorität:"
 
 #v1.10.16
 msgctxt "map_option_font"
@@ -4339,7 +4339,7 @@ msgstr "Riesig"
 #v1.10.16
 msgctxt "map_show_land_tex_max_zoom"
 msgid "Show land texture at max zoom"
-msgstr "Landtextur bei maximalem Zoom anzeigen"
+msgstr "Landtextur bei großem Zoom anzeigen"
 
 #v1.10.16
 msgctxt "map_style_mods"
@@ -5189,12 +5189,12 @@ msgstr "Name der Firma:"
 #v1.5.31
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "Paralleler abstand von neuen Gleisen:"
+msgstr "Par. abs. von neuen Gleisen:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias"
 msgid "Pax pathfind bias:"
-msgstr "Fahrgäste Pfadfindungsverzerrung:"
+msgstr "Pfadfindungsverzerrung:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias_less"
@@ -7344,7 +7344,7 @@ msgstr "Anklickbare Gleise"
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
-msgstr "Kontrollpunkte bei niedrigem Zoom ausblenden"
+msgstr "Kontrollpunkte bei wenig Zoom ausblenden"
 
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
@@ -7879,7 +7879,7 @@ msgstr "Keine oder ungültige Anweisung!"
 #:
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr "Es führt kein Pfad zum ausgewählten Ziel!"
+msgstr "Es führt kein Pfad zum Ziel!"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
@@ -8271,10 +8271,10 @@ msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
 msgstr "Auswahl leeren"
 
-#:
-msgctxt "traineditor_delete_all_selected"
-msgid "Delete selected trains"
-msgstr "Ausgewählte Züge löschen"
+#v1.1.37
+msgctxt "traineditor_move_camera"
+msgid "Focus camera when selecting a train"
+msgstr "Fokussiere die Kamera wenn ein Zug ausgewählt ist."
 
 #v1.5.31
 msgctxt "traineditor_order_append"
