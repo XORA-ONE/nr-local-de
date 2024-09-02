@@ -1019,12 +1019,12 @@ msgstr "[*] Platformvergrößerung"
 #v1.12.11
 msgctxt "building_poi_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Nachfragekurve:"
 
 #v1.12.11
 msgctxt "building_poi_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Bevölkerung:"
 
 #v1.4.22
 msgctxt "building_start_t"
@@ -1594,32 +1594,32 @@ msgstr "Gleise entfernen"
 #v1.12.11
 msgctxt "demand_clone"
 msgid "Clone demand curve"
-msgstr "Clonar curva de demanda"
+msgstr "Nachfragekurve klonen"
 
 #v1.12.11
 msgctxt "demand_curve_disabled"
 msgid "<Disabled>"
-msgstr "<Desactivada>"
+msgstr "<Deaktiviert>"
 
 #v1.12.11
 msgctxt "demand_default_name"
 msgid "Population"
-msgstr "Población"
+msgstr "Bevölkerung"
 
 #v1.12.11
 msgctxt "demand_delete"
 msgid "Delete selected demand curve"
-msgstr "Borrar curva de demanda seleccionada"
+msgstr "Entferne die ausgewählte Nachfragekurve"
 
 #v1.12.11
 msgctxt "demand_editor_focus_dest"
 msgid "Destination"
-msgstr "Destino"
+msgstr "Ziel"
 
 #v1.12.11
 msgctxt "demand_editor_focus_distance"
 msgid "Distance"
-msgstr "Distancia"
+msgstr "Distanz"
 
 #v1.12.11
 msgctxt "demand_editor_focus_info"
@@ -1629,107 +1629,107 @@ msgstr "Info"
 #v1.12.11
 msgctxt "demand_editor_focus_origin"
 msgid "Origin"
-msgstr "Origen"
+msgstr "Ursprung"
 
 #v1.12.11
 msgctxt "demand_editor_focus_range0"
 msgid "0 km to 95 km"
-msgstr "0 km a 95 km"
+msgstr "0 km bis 95 km"
 
 #v1.12.11
 msgctxt "demand_editor_title"
 msgid "Demand curves editor"
-msgstr "Editor de curvas de demanda"
+msgstr "Nachfragekurven-Editor"
 
 #v1.12.11
 msgctxt "demand_export"
 msgid "Export to TSV file"
-msgstr "Exportar a fichero TSV"
+msgstr "In TSV-Datei exportieren"
 
 #v1.12.11
 msgctxt "demand_import_new"
 msgid "Import new demand curve from TSV file"
-msgstr "Importar nueva curva de demanda de fichero TSV"
+msgstr "Neue Nachfragekurve aus TSV-Datei importieren"
 
 #v1.12.11
 msgctxt "demand_import_replace"
 msgid "Replace with curve from TSV file"
-msgstr "Remplazar curva de demanda con fichero TSV"
+msgstr "Ersetzen der Nachfragekurve durch eine TSV-Datei"
 
 #v1.12.11
 msgctxt "demand_info_file_ops"
 msgid "Export and replace"
-msgstr "Exportar y reemplazar"
+msgstr "Exportieren und ersetzen"
 
 #v1.12.11
 msgctxt "demand_info_move_pois"
 msgid "Bulk change POIs into a different curve"
-msgstr "Cambiar todos los POIs a una curva diferente"
+msgstr "Alle POIs in eine andere Nachfragekurve ändern"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_but"
 msgid "Change all POIs"
-msgstr "Cambiar todos los POIs"
+msgstr "Alle POIs ändern"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_label"
 msgid "Change to:"
-msgstr "Cambiar a:"
+msgstr "Ändern auf:"
 
 #v1.12.11
 msgctxt "demand_info_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Name:"
 
 #v1.12.11
 msgctxt "demand_info_poi"
 msgid "Points of interest:"
-msgstr "Punto de interés:"
+msgstr "Punkte von Interesse:"
 
 #v1.12.11
 msgctxt "demand_info_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Bevölkerung:"
 
 #v1.12.11
 msgctxt "demand_pax_spawn"
 msgid "{} new pax/min."
-msgstr "{} nuevos pax/min."
+msgstr "{} neue Fahrgäste/min."
 
 #v1.12.11
 msgctxt "demand_rebuild_tp"
 msgid "Rebuilding demand data..."
-msgstr "Reconstruyendo datos de demanda..."
+msgstr "Rekonstruktion der Nachfragedaten..."
 
 #v1.12.11
 msgctxt "demand_replace_default"
 msgid "Replace with default curve"
-msgstr "Reemplazar con curva por defecto"
+msgstr "Ersetzen durch Standardnachfragekurve"
 
 #v1.12.11
 msgctxt "demand_replace_file"
 msgid "Replace from TSV file"
-msgstr "Reemplazar con fichero TSV"
+msgstr "Ersetzen durch TSV-Datei"
 
 #v1.12.11
 msgctxt "demand_time_copy_day"
 msgid "Copy day"
-msgstr "Copiar día"
+msgstr "Tag kopieren"
 
 #v1.12.11
 msgctxt "demand_time_paste_day"
 msgid "Paste day"
-msgstr "Pegar día"
+msgstr "Tag einfügen"
 
 #v1.12.11
 msgctxt "demand_time_set_0"
 msgid "All 0%"
-msgstr "Todo 0%"
+msgstr "Alle auf 0%"
 
 #v1.12.11
 msgctxt "demand_time_set_100"
 msgid "All 100%"
-msgstr "Todo 100%"
+msgstr "Alle auf 100%"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
@@ -1874,7 +1874,7 @@ msgstr "Klicke auf einen Kontrollpunkt, um ihn zur übergeordneten Bedingung zu 
 #v1.12.11
 msgctxt "editor_poi"
 msgid "Create new points of interest and signs"
-msgstr "Crear nuevos puntos de interés y signos"
+msgstr "Neue Interssenspunkte und Schilder erstellen"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
@@ -2144,7 +2144,7 @@ msgstr "Klicke die linke Maustaste um ein neues Gebäude zu erstellen"
 #v1.12.11
 msgctxt "editor_tip_new_poi_left"
 msgid "Left click to create a new point of interest or sign"
-msgstr "Click izquierdo para crear un nuevo punto de interés o signo"
+msgstr "Klicke mit der linken Maustaste, um einen neuen Interssenspunkt oder Schild zu erstellen"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
@@ -2574,7 +2574,7 @@ msgstr "Jahr der Aussonderung"
 #v1.12.11
 msgctxt "fmt_copy_of"
 msgid "Copy of {}"
-msgstr "Copia de {}"
+msgstr "Kopie von {}"
 
 #v1.1.31
 msgctxt "friend_state_away"
@@ -2834,7 +2834,7 @@ msgstr "Ignorieren"
 #v1.12.11
 msgctxt "info_company_active_tiles"
 msgid "Active pax tiles:"
-msgstr "Zonas de pax activas:"
+msgstr "Aktive Fahrgastkacheln:"
 
 #v1.4.15
 msgctxt "info_company_buildings"
@@ -2969,12 +2969,12 @@ msgstr "Die Abfahrt mit dieser Linie ist laut Fahrplan an dieser Haltestelle zu 
 #v1.12.11
 msgctxt "info_table_station_city_tp"
 msgid "Group by city"
-msgstr "Agrupar por ciudad"
+msgstr "Nach Stadt Gruppieren"
 
 #v1.12.11
 msgctxt "info_table_station_dist_tp"
 msgid "Sort by distance"
-msgstr "Ordenar por distancia"
+msgstr "Nach distanz Sortieren"
 
 #v1.1.31
 msgctxt "info_train_pax"
@@ -4539,7 +4539,7 @@ msgstr "Abonniere neue Modifikationen im Workshop"
 #v1.12.11
 msgctxt "mod_poi_layer_options_title"
 msgid "Mod POI layer options"
-msgstr "Opciones capas de PDI"
+msgstr "POI-Ebenen-Optionen ändern"
 
 #v1.7.15
 msgctxt "mod_remove_all_orphaned"
@@ -4894,32 +4894,32 @@ msgstr "Stream-Statistiken (Hoster UI)"
 #v1.12.11
 msgctxt "mplo_default_demand"
 msgid "<Controlled by the mod>"
-msgstr "<Controlado por el mod>"
+msgstr "<Kontrolliert von einer Mod>"
 
 #v1.12.11
 msgctxt "mplo_demand_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Nachfragekurve:"
 
 #v1.12.11
 msgctxt "mplo_hidden"
 msgid "Hidden"
-msgstr "Oculto"
+msgstr "Versteckt"
 
 #v1.12.11
 msgctxt "mplo_icons_only"
 msgid "Icons only"
-msgstr "Solo iconos"
+msgstr "Nur Symbole"
 
 #v1.12.11
 msgctxt "mplo_labels_and_icons"
 msgid "Labels and icons"
-msgstr "Texto e iconos"
+msgstr "Beschriftungen und Symbole"
 
 #v1.12.11
 msgctxt "mplo_map_vis"
 msgid "Map display:"
-msgstr "Mostrar en mapa:"
+msgstr "Kartendarstellung:"
 
 #:
 msgctxt "msaa_mode"
@@ -5169,7 +5169,7 @@ msgstr "Globaler Nachfrage-Faktor:"
 #v1.12.11
 msgctxt "option_company_demand_editor"
 msgid "Demand curve editor"
-msgstr "Editar curvas de demanda"
+msgstr "Nachfragekurven-Editor"
 
 #v1.7.15
 msgctxt "option_company_geo_export"
@@ -5179,7 +5179,7 @@ msgstr "Exportieren von GeoJSON"
 #v1.12.11
 msgctxt "option_company_mod_poi_layer_editor"
 msgid "Mod POI layer options"
-msgstr "Opciones mods de PDI"
+msgstr "POI-Ebenen-Optionen ändern"
 
 #v1.1.31
 msgctxt "option_company_name"
@@ -5209,22 +5209,22 @@ msgstr "Schnellere Simulation"
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_pick"
 msgid "Pax spawn station:"
-msgstr "Estación origen pax:"
+msgstr "Herkunftsbahnhof:"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_random"
 msgid "Random"
-msgstr "Aleatoria"
+msgstr "Zufällig"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_shortest_walk"
 msgid "Shortest walk"
-msgstr "Menor caminada"
+msgstr "Kürzester Gang"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
 msgid "Shortest walk, best path"
-msgstr "Menor caminada, mejor ruta"
+msgstr "Kürzester Gang, bester Pfad"
 
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
@@ -5494,17 +5494,17 @@ msgstr "Passagiere"
 #v1.12.11
 msgctxt "pax_total_demand"
 msgid "Total: {0}"
-msgstr "Total: {0}"
+msgstr "Gesamt: {0}"
 
 #v1.12.11
 msgctxt "pax_total_demand_as_destination"
 msgid "As destination: {0}"
-msgstr "Como destino: {0}"
+msgstr "Als Reiseziel: {0}"
 
 #v1.12.11
 msgctxt "pax_total_demand_as_origin"
 msgid "As origin: {0}"
-msgstr "Como origen: {0}"
+msgstr "Als Herkunft: {0}"
 
 #v1.1.31
 msgctxt "paxlist_groupby_dest"
@@ -5699,12 +5699,12 @@ msgstr "Öffne das Diagrammfenster"
 #v1.12.11
 msgctxt "poi_instance_editor"
 msgid "Point of interest properties"
-msgstr "Propiedades punto de interés"
+msgstr "Eigenschaften von Interssenspunkten"
 
 #v1.12.11
 msgctxt "poi_instance_editor_new"
 msgid "New point of interest properties"
-msgstr "Propiedades de nuevo punto de interés"
+msgstr "Eigenschaften von neuen Interssenspunkten"
 
 #v1.10.16
 msgctxt "poi_settlement_0"
@@ -6309,12 +6309,12 @@ msgstr "Gespeicherte Clips in der Zwischenablage anzeigen"
 #v1.12.11
 msgctxt "sign_instance_editor"
 msgid "Sign properties"
-msgstr "Propiedades signo"
+msgstr "Schildeigenschaften"
 
 #v1.12.11
 msgctxt "sign_instance_editor_new"
 msgid "New sign properties"
-msgstr "Propiedades nuevo signo"
+msgstr "Eigenschaften von neuen Schildern"
 
 #v1.3.13
 msgctxt "signal_alert_opt_custom"
@@ -6559,17 +6559,17 @@ msgstr "Spiel starten"
 #v1.12.11
 msgctxt "station_demand_aggregate"
 msgid "Aggregate"
-msgstr "Agregar"
+msgstr "Angesammelt"
 
 #v1.12.11
 msgctxt "station_demand_aggregated_started_at"
 msgid "Started at {}"
-msgstr "Empezando en {}"
+msgstr "Gestartet um {}"
 
 #v1.12.11
 msgctxt "station_demand_realtime"
 msgid "Realtime"
-msgstr "Tiempo real"
+msgstr "Echtzeit"
 
 #v1.2.22
 msgctxt "station_editor"
@@ -6579,7 +6579,7 @@ msgstr "Stationseigenschaften"
 #v1.12.11
 msgctxt "station_infowin_demand"
 msgid "Ridership"
-msgstr "Ocupación"
+msgstr "Fahrgastzahlen"
 
 #v1.5.31
 msgctxt "station_label_mode"
@@ -6654,12 +6654,12 @@ msgstr "Platformname:"
 #v1.12.11
 msgctxt "station_rt_demand_dest"
 msgid "As destination"
-msgstr "Como destino"
+msgstr "Als Ziel"
 
 #v1.12.11
 msgctxt "station_rt_demand_origin"
 msgid "As origin"
-msgstr "Como origen"
+msgstr "Als Herkunft"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -8654,7 +8654,7 @@ msgstr "VSync:"
 #v1.12.11
 msgctxt "waiting_at_station"
 msgid "Waiting at station"
-msgstr "Esperando en estación"
+msgstr "Warten am Bahnhof"
 
 #v1.5.31
 msgctxt "waiting_expired"
