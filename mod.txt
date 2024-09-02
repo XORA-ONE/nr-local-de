@@ -1,13 +1,13 @@
 [ModMeta]
 schema=1
-name=Deutsche Übersetzung
-author=XORA ONE and Contributors
-version=1.0.0
+name=DeutscheUbersetzung
+author=CODEYX
+version=1.0.1
 
 [Language]
-code_iso_639_2=de
+code_iso_639_2=deu
 name=Deutsch
 
 [LanguageDict]
-code_iso_639_2=de
+code_iso_639_2=deu
 po=game.po
