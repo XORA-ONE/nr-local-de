@@ -4,242 +4,242 @@
 #v1.13.11
 msgctxt "accounting_pax_walked_in"
 msgid "Walked in"
-msgstr "Entra caminando"
+msgstr "Herreingegangen"
 
 #v1.13.11
 msgctxt "accounting_pax_walked_out"
 msgid "Walked out"
-msgstr "Sale caminando"
+msgstr "Verlassen"
 
 #v1.13.11
 msgctxt "accounting_train_arrived_full"
 msgid "Arrived full"
-msgstr "Llegado lleno"
+msgstr "Voll eingetroffen"
 
 #v1.13.11
 msgctxt "accounting_train_departed_full"
 msgid "Departed full"
-msgstr "Salido lleno"
+msgstr "Voll verlassen"
 
 #v1.13.11
 msgctxt "assets_on_map_labels"
 msgid "Labels"
-msgstr "Etiquetas"
+msgstr "Labels"
 
 #v1.13.11
 msgctxt "assets_on_map_max_radius"
 msgid "Max. radius:"
-msgstr "Radio máximo:"
+msgstr "Maximaler Radius:"
 
 #v1.13.11
 msgctxt "assets_on_map_neg_color"
 msgid "Negative color:"
-msgstr "Color negativo:"
+msgstr "Negative Farbe:"
 
 #v1.13.11
 msgctxt "assets_on_map_pos_color"
 msgid "Positive color:"
-msgstr "Color positivo:"
+msgstr "Positive Farbe:"
 
 #v1.13.11
 msgctxt "assets_view_on_map"
 msgid "View on map"
-msgstr "Visualizar en mapa"
+msgstr "Auf der Karte anzeigen"
 
 #v1.13.11
 msgctxt "bulk_edit_all_stations"
 msgid "Bulk edit all stations"
-msgstr "Editar todas las estaciones"
+msgstr "Alle Stationen auf einmal bearbeiten"
 
 #v1.13.11
 msgctxt "editor_new_plat_extension"
 msgid "Create platform footprint extensions"
-msgstr "Crear extensiones de andén"
+msgstr "Platformvergrößerungen erstellen"
 
 #v1.13.11
 msgctxt "editor_new_walk_link"
 msgid "Create walk link"
-msgstr "Crear camino de enlace"
+msgstr "Laufverbindung Erstellen"
 
 #v1.13.11
 msgctxt "editor_tip_new_plat_extension_fin_left"
 msgid "Left click to finish creating a new platform footprint extension"
-msgstr "Click izquierdo para terminar de crear la extensión de andén"
+msgstr "Klicke mit der linken Maustaste, um die Erstellung der Plattformvergrößerung abzuschließen"
 
 #v1.13.11
 msgctxt "editor_tip_new_plat_extension_left"
 msgid "Left click to create a new platform footprint extension"
-msgstr "Click izquierdo para crear la extensión de andén"
+msgstr "Klicke mit der linken Maustaste, um eine neue Plattformvergrößerung zu erstellen"
 
 #v1.13.11
 msgctxt "editor_tip_new_walk_link_fin_left"
 msgid "Left click to finish creating a new walk link"
-msgstr "Click izquierdo para terminar de crear el camino de enlace"
+msgstr "Klicke mit der linken Maustaste, um mit dem erstellen einer Laufverbindung abzuschließen"
 
 #v1.13.11
 msgctxt "editor_tip_new_walk_link_left"
 msgid "Left click to create a new walk link"
-msgstr "Click izquierdo para crear el camino de enlace"
+msgstr "Klicke mit der linken Maustaste, um eine neue Laufverbindung zu erstellen"
 
 #v1.13.11
 msgctxt "hall"
 msgid "Hall"
-msgstr "Hall"
+msgstr "Halle"
 
 #v1.13.11
 msgctxt "hall_row_many"
 msgid "(Many)"
-msgstr "(Varios)"
+msgstr "(Viele)"
 
 #v1.13.11
 msgctxt "hall_station_full"
 msgid "Full"
-msgstr "Lleno"
+msgstr "Voll"
 
 #v1.13.11
 msgctxt "info_table_pax_hall"
 msgid "Hall"
-msgstr "Hall"
+msgstr "Halle"
 
 #v1.13.11
 msgctxt "info_table_pax_hall_tp"
 msgid "Reason to be in the hall, platform due time"
-msgstr "Razón para estar en el hall, tiempo restante"
+msgstr "Grund für den Aufenthalt in der Halle, verbleibende Zeit"
 
 #v1.13.11
 msgctxt "kb_track_build_selection"
 msgid "Tracks: build selection"
-msgstr "Vías: construir selección"
+msgstr "Gleise: Auswahl bauen"
 
 #v1.13.11
 msgctxt "kb_track_plat_extension"
 msgid "Tracks: new plat. ext."
-msgstr "Vías: nueva ext. andén"
+msgstr "Gleise: neue Platformv."
 
 #v1.13.11
 msgctxt "kb_track_poi"
 msgid "Tracks: new POI"
-msgstr "Vías: nuevo POI"
+msgstr "Gleise: neuer POI"
 
 #v1.13.11
 msgctxt "kb_track_walk_link"
 msgid "Tracks: new walk link"
-msgstr "Vías: nuevo camino enlace"
+msgstr "Gleise: Neue Laufverbindung"
 
 #v1.13.11
 msgctxt "list_lines_closed"
 msgid "Closed"
-msgstr "Cerrada"
+msgstr "Geschlossen"
 
 #v1.13.11
 msgctxt "list_lines_open"
 msgid "Open"
-msgstr "Abierta"
+msgstr "Offen"
 
 #v1.13.11
 msgctxt "list_lines_tech"
 msgid "Technical"
-msgstr "Técnica"
+msgstr "Technisch"
 
 #v1.13.11
 msgctxt "list_lines_warn"
 msgid "With warnings"
-msgstr "Con alerta"
+msgstr "Mit Warnungen"
 
 #v1.13.11
 msgctxt "mvo_user_poi_labels"
 msgid "User POI labels"
-msgstr "Etiquetas de POIs de usuario"
+msgstr "Benutzer POI-Beschriftungen"
 
 #v1.13.11
 msgctxt "new_station_defaults"
 msgid "New station defaults"
-msgstr "Opciones para nuevas estaciones"
+msgstr "Standarteinstellungen für neue Bahnhöfe"
 
 #v1.13.11
 msgctxt "order_error_unpowered_train"
 msgid "Underpowered train"
-msgstr "Falta de potencia"
+msgstr "Mangelnde Leistung"
 
 #v1.13.11
 msgctxt "path2_walk"
 msgid "Walk for {}"
-msgstr "Camina durante {}"
+msgstr "Gehen für {}"
 
 #v1.13.11
 msgctxt "pax_waiting3"
 msgid "Pax:"
-msgstr "Pax:"
+msgstr "Fahrgäste:"
 
 #v1.13.11
 msgctxt "perf_editor_holds_rebuild"
 msgid "Hold updates when paused in editors"
-msgstr "Pausa actualizaciones en editores pausados"
+msgstr "Aktualisierungen anhalten, wenn in Editoren pausiert wird"
 
 #v1.13.11
 msgctxt "rebuild_demand_stalled_tp"
 msgid "Tile demand rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los datos de demanda está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+msgstr "Kachelnachfrageneuaufbau steht aufgrund einer Bearbeitungsaktion noch aus\nDrücke F1 oder starte die Simulation, um den Wiederaufbau zu starten."
 
 #v1.13.11
 msgctxt "rebuild_timetable_stalled_tp"
 msgid "Pax timetable rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los horarios está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+msgstr "Fahrplanneuaufbau steht aufgrund einer Bearbeitungsaktion noch aus\nDrücke F1 oder starte die Simulation, um den Wiederaufbau zu starten."
 
 #v1.13.11
 msgctxt "reset_all_stations"
 msgid "Reset all stations"
-msgstr "Modificar todas las estaciones"
+msgstr "Alle Stationen zurücksetzen"
 
 #v1.13.11
 msgctxt "station_max_plat_pax"
 msgid "Platforms pax capacity:"
-msgstr "Capacidad en andenes:"
+msgstr "Platformkapazität:"
 
 #v1.13.11
 msgctxt "station_max_plat_pax_nc"
 msgid "Plat. pax capacity"
-msgstr "Capacidad en andenes"
+msgstr "Kapazität der Plattform"
 
 #v1.13.11
 msgctxt "station_max_walk"
 msgid "Auto walk transfer:"
-msgstr "Camino automático:"
+msgstr "Automatischer Lauftransfer:"
 
 #v1.13.11
 msgctxt "station_max_walk_nc"
 msgid "Max. walk transfer"
-msgstr "Camino automático"
+msgstr "Max. Lauftransfer"
 
 #v1.13.11
 msgctxt "station_platform_user_footprint"
 msgid "Platform footprint:"
-msgstr "Ancho andén:"
+msgstr "Platformfläche:"
 
 #v1.13.11
 msgctxt "station_pop_area_nc"
 msgid "Population radius"
-msgstr "Radio población"
+msgstr "Bevölkerungsradius"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall"
 msgid "Transfers overflow into hall"
-msgstr "Transbordos pueden ir al hall"
+msgstr "Transveriert den Überfluss in die Halle"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall_nc"
 msgid "(Change) Overflow"
-msgstr "(Cambiar) Transbordos"
+msgstr "(Veränderung) Überfluss"
 
 #v1.13.11
 msgctxt "timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Fahrplan"
 
 #v1.13.11
 msgctxt "track_station_tools"
 msgid "Create stations and extensions"
-msgstr "Crear estaciones y extensiones"
+msgstr "Stationen und Erweiterungen erstellen"
 
 
 
@@ -249,22 +249,22 @@ msgstr "Crear estaciones y extensiones"
 #v1.13.11
 msgctxt "editor_station"
 msgid "Create station platforms"
-msgstr "Crear nuevos andenes"
+msgstr "Bahnsteige Erstellen"
 
 #v1.13.11
 msgctxt "mvo_mod_poi_labels"
 msgid "Mod POI labels"
-msgstr "Etiquetas de POIs de mods"
+msgstr "Mod POI-Beschriftungen"
 
 #v1.13.11
 msgctxt "option_company_station_label"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Bahnhofsberschriftung:"
 
 #v1.13.11
 msgctxt "station_pop_area"
 msgid "Population radius:"
-msgstr "Radio población:"
+msgstr "Bevölkerungsradius:"
 
 
 
@@ -689,7 +689,7 @@ msgstr "Nur wenn Verspätung 0 ist"
 #v1.10.16
 msgctxt "all"
 msgid "All"
-msgstr "Todo"
+msgstr "Alle"
 
 #v1.2.22
 msgctxt "apply"
@@ -2369,22 +2369,22 @@ msgstr "Aktiviert"
 #v1.10.16
 msgctxt "error_cannot_delete_save"
 msgid "Cannot delete old save for overwriting: "
-msgstr "No se puede borrar partida para sobreescribirla: "
+msgstr "Alter Spielstand kann nicht gelöscht werden, um es zu überschreiben: "
 
 #v1.1.31
 msgctxt "error_cannot_open_file"
 msgid "Cannot open file: "
-msgstr "Du kannst die Datei nicht öffnen: "
+msgstr "Datei kann nicht geöffnet werden: "
 
 #v1.10.16
 msgctxt "error_cannot_open_temp_file"
 msgid "Cannot open temporary file: "
-msgstr "No se puede borrar archivo temporal: "
+msgstr "Temporäre Datei kann nicht geöffnet werden: "
 
 #v1.10.16
 msgctxt "error_cannot_rename_save"
 msgid "Cannot rename temporary file: {} into {} "
-msgstr "No se puede renombrar archivo temporal: {} a {} "
+msgstr "Temporäre Datei kann nicht umbenannt werden: {} zu {} "
 
 #:
 msgctxt "error_corrupted_file"
@@ -3174,7 +3174,7 @@ msgstr "Gleise: neues Signal"
 #v1.10.16
 msgctxt "kb_track_pick_parent"
 msgid "Tracks: pick par. parent"
-msgstr "Vías: elegir padre par."
+msgstr "Gleise: Wähle das übergeordnete Gleis"
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
@@ -3809,7 +3809,7 @@ msgstr "Dieser Zug wird verwendet, um eine interne Simulation der Strecke zu ers
 #v1.10.16
 msgctxt "lineeditor_restrict_lines_map"
 msgid "Restrict listing to visible lines on map (approximately)"
-msgstr "Restringir listado a líneas visibles en el mapa (aproximadamente)"
+msgstr "Beschränke die Auflistung auf sichtbare Linien auf der Karte (Annäherung)"
 
 #v1.2.22
 msgctxt "lineeditor_service_level"
@@ -4274,27 +4274,27 @@ msgstr "Optionen"
 #v1.10.16
 msgctxt "map_hillshade_pos"
 msgid "Hillshading:"
-msgstr "Sombras:"
+msgstr "Shattierung:"
 
 #v1.10.16
 msgctxt "map_hillshade_pos_0"
 msgid "Under ground"
-msgstr "Bajo el suelo"
+msgstr "Unterirdisch"
 
 #v1.10.16
 msgctxt "map_hillshade_pos_1"
 msgid "Over ground"
-msgstr "Sobre el suelo"
+msgstr "Oberirdisch"
 
 #v1.10.16
 msgctxt "map_land_alpha"
 msgid "Land background mix:"
-msgstr "Land background mix:"
+msgstr "Land-Hintergrund-Mix:"
 
 #v1.10.16
 msgctxt "map_land_hsv_sat"
 msgid "Land HSV saturation:"
-msgstr "Land HSV saturation:"
+msgstr "Land HSV-Sättigung:"
 
 #:
 msgctxt "map_names_eng"
@@ -4314,42 +4314,42 @@ msgstr "Priorität der Namen auf der Karte"
 #v1.10.16
 msgctxt "map_option_font"
 msgid "Label font size:"
-msgstr "Tamaño fuente:"
+msgstr "Schriftgröße der Beschriftungen:"
 
 #v1.10.16
 msgctxt "map_option_font_0"
 msgid "Small"
-msgstr "Pequeño"
+msgstr "Klein"
 
 #v1.10.16
 msgctxt "map_option_font_1"
 msgid "Default"
-msgstr "Por defecto"
+msgstr "Standard"
 
 #v1.10.16
 msgctxt "map_option_font_2"
 msgid "Big"
-msgstr "Grande"
+msgstr "Groß"
 
 #v1.10.16
 msgctxt "map_option_font_3"
 msgid "Huge"
-msgstr "Enorme"
+msgstr "Riesig"
 
 #v1.10.16
 msgctxt "map_show_land_tex_max_zoom"
 msgid "Show land texture at max zoom"
-msgstr "Mostrar terreno en zoom máximo"
+msgstr "Landtextur bei maximalem Zoom anzeigen"
 
 #v1.10.16
 msgctxt "map_style_mods"
 msgid "Map style mods"
-msgstr "Mods de estilo de mapa"
+msgstr "Kartenstil Mod"
 
 #v1.10.16
 msgctxt "map_style_show_in_panel"
 msgid "Show in map options panel"
-msgstr "Mostrar en panel de opciones de mapa"
+msgstr "In den Kartenoptionen anzeigen"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -4504,12 +4504,12 @@ msgstr "Entwürfe"
 #v1.10.16
 msgctxt "mod_less_prio"
 msgid "Less priority"
-msgstr "Menos prioridad"
+msgstr "Kleinere Priorität"
 
 #v1.10.16
 msgctxt "mod_more_prio"
 msgid "More priority"
-msgstr "Mas prioridad"
+msgstr "Höhere Priorität"
 
 #v1.1.31
 msgctxt "mod_name"
@@ -4634,7 +4634,7 @@ msgstr "Regionsschicht"
 #v1.3.13
 msgctxt "mode_map_population"
 msgid "Population layer"
-msgstr "Befölkerungsschicht"
+msgstr "Bevölkerungsschicht"
 
 #v1.2.22
 msgctxt "mode_map_tracks"
@@ -4954,12 +4954,12 @@ msgstr "Mehrspieler"
 #v1.10.16
 msgctxt "mvo_toggle_map_style_mods"
 msgid "Map style mods:"
-msgstr "Mods de estilo:"
+msgstr "Kartenstil-Mods:"
 
 #v1.10.16
 msgctxt "mvo_track_editor_always_on_top"
 msgid "Track editor always on top"
-msgstr "Editor siempre encima"
+msgstr "Gleis-Editor immer im Vordergrund"
 
 #v1.4.15
 msgctxt "mvo_user_labels"
@@ -5024,12 +5024,12 @@ msgstr "Stationsnamen"
 #v1.10.16
 msgctxt "mvo_user_track_depth"
 msgid "Map over track layers"
-msgstr "Mapa sobre las vías"
+msgstr "Karte über Gleisebenen"
 
 #v1.10.16
 msgctxt "mvo_user_track_depth_bridge"
 msgid "Map bridges over track layers"
-msgstr "Puentes del mapa sobre vías"
+msgstr "Kartenbrücken über Gleisebenen"
 
 #v1.1.37
 msgctxt "mvo_user_train_counters"
@@ -5279,12 +5279,12 @@ msgstr "Optionen"
 #v1.10.16
 msgctxt "options_alerts"
 msgid "Alerts"
-msgstr "Alertas"
+msgstr "Warnungen"
 
 #v1.10.16
 msgctxt "options_autosave"
 msgid "Autosave"
-msgstr "Autoguardar"
+msgstr "Autospeicherung"
 
 #v1.1.31
 msgctxt "options_graphics"
@@ -5294,7 +5294,7 @@ msgstr "Grafik"
 #v1.10.16
 msgctxt "options_interface"
 msgid "Interface"
-msgstr "Interfaz"
+msgstr "Interface"
 
 #v1.2.22
 msgctxt "options_keybinds"
@@ -5304,7 +5304,7 @@ msgstr "Tastenbelegung"
 #v1.10.16
 msgctxt "options_map"
 msgid "Map"
-msgstr "Mapa"
+msgstr "Karte"
 
 #:
 msgctxt "options_mods_upload"
@@ -5349,7 +5349,7 @@ msgstr "Quartal"
 #v1.10.16
 msgctxt "osm_admin_level_11"
 msgid "Neighborhood"
-msgstr "Vecindario"
+msgstr "Nachbarschaft"
 
 #:
 msgctxt "osm_admin_level_2"
@@ -5709,52 +5709,52 @@ msgstr "Propiedades de nuevo punto de interés"
 #v1.10.16
 msgctxt "poi_settlement_0"
 msgid "Capital"
-msgstr "Capital"
+msgstr "Hauptstadt"
 
 #v1.10.16
 msgctxt "poi_settlement_1"
 msgid "City"
-msgstr "Ciudad"
+msgstr "Stadt"
 
 #v1.10.16
 msgctxt "poi_settlement_2"
 msgid "Town"
-msgstr "Pueblo"
+msgstr "Stadt"
 
 #v1.10.16
 msgctxt "poi_settlement_3"
 msgid "Suburb"
-msgstr "Suburbio"
+msgstr "Vorort"
 
 #v1.10.16
 msgctxt "poi_settlement_4"
 msgid "Quarter"
-msgstr "Barrio"
+msgstr "Stadtviertel"
 
 #v1.10.16
 msgctxt "poi_settlement_5"
 msgid "Neighbourhood"
-msgstr "Vecindario"
+msgstr "Nachbarschaft"
 
 #v1.10.16
 msgctxt "poi_settlement_6"
 msgid "Village"
-msgstr "Aldea"
+msgstr "Dorf"
 
 #v1.10.16
 msgctxt "poi_settlement_7"
 msgid "Hamlet"
-msgstr "Aldea"
+msgstr "Weiler"
 
 #v1.10.16
 msgctxt "poi_settlement_8"
 msgid "Dwelling"
-msgstr "Vivienda"
+msgstr "Behausung"
 
 #v1.10.16
 msgctxt "poi_settlement_9"
 msgid "Farm"
-msgstr "Granja"
+msgstr "Bauernhof"
 
 #v1.1.31
 msgctxt "pop_reach"
@@ -6644,7 +6644,7 @@ msgstr "Gleis zu Stationsgleis befördern"
 #v1.10.16
 msgctxt "station_platform_set_name_all"
 msgid "All"
-msgstr "Todas"
+msgstr "Alle"
 
 #v1.4.15
 msgctxt "station_platform_user_name"
@@ -7234,7 +7234,7 @@ msgstr "Woche"
 #v1.10.16
 msgctxt "timing_lines_n"
 msgid "Timing line legs, {} to go"
-msgstr "Cronometrando líneas, {} pendientes"
+msgstr "Abstimmung von Linienabschnitten, {} verbleibend"
 
 #v1.1.31
 msgctxt "title"
@@ -7339,7 +7339,7 @@ msgstr "Maximale Geschwindigkeit"
 #v1.10.16
 msgctxt "trackeditor_clickable_tracks"
 msgid "Clickable tracks"
-msgstr "Vías clickables"
+msgstr "Anklickbare Gleise"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
@@ -8664,7 +8664,7 @@ msgstr "Abgelaufen"
 #v1.10.16
 msgctxt "warn_alpha_renderer1"
 msgid "Experimental renderer! Only use if DirectX 11 crashes often."
-msgstr "Experimental! Utilizar solo en caso de problemas con DirectX 11."
+msgstr "Experimenteller Renderer! Nur verwenden, wenn DirectX 11 häufig abstürzt"
 
 #v1.2.29
 msgctxt "warn_mod_in_use"
