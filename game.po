@@ -3279,12 +3279,12 @@ msgstr "Pfad zum Linienanfang nicht gefunden!"
 #v1.3.13
 msgctxt "line_list_group_all"
 msgid "Group by: All lines"
-msgstr "Gruppieren nach: Alle Linien"
+msgstr "Gruppieren: Alle Linien"
 
 #v1.3.13
 msgctxt "line_list_group_no_tags"
 msgid "Group by: Untagged"
-msgstr "Gruppieren nach: Keine Tags"
+msgstr "Gruppieren: Keine Tags"
 
 #v1.3.13
 msgctxt "line_list_group_tags"
@@ -3414,7 +3414,7 @@ msgstr "Automatisches Intervall:"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Einen oder mehrere automatisch fahrende Züge hinzufügen"
+msgstr "Einen o. mehrere autom. Züge hinzufügen"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
@@ -3424,7 +3424,7 @@ msgstr "Züge starten:"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr "Gleichmäßiger Abstand, um in eine Linienschleife zu passen"
+msgstr "Gleichmäßiger Abstand, um in Linienschleife zu passen"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
@@ -3499,7 +3499,7 @@ msgstr "Klicke auf die Pfeile auf den Stationsgleisen um einer Linie neue Halte 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_s1"
 msgid "Click on tracks to set the stop point"
-msgstr "Klicke auf die Gleise um den Haltepunkt zu wählen"
+msgstr "Klicke auf die Gleise um neue Haltepunkte zu wählen"
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_title"
@@ -3509,7 +3509,7 @@ msgstr "Erstelle einen neuen Halt"
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "Reisegeschwindigkeit (km/h):"
+msgstr "Reisegeschw. (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_desc"
@@ -3519,7 +3519,7 @@ msgstr "Züge werden bis auf diese Geschwindigkeit beschleunigen und versuchen d
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_ns"
 msgid "Cruise speed:"
-msgstr "Reisegeschwindigkeit:"
+msgstr "Reisegeschwindigk.:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
@@ -3674,7 +3674,7 @@ msgstr "Implizierte Haltezeit:"
 #v1.5.31
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "Abfahrt des ersten Zuges:"
+msgstr "Abfahrt erster Zug:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
@@ -3734,7 +3734,7 @@ msgstr "Benutzerdefiniertes Intervall:"
 #v1.8.24
 msgctxt "lineeditor_max_accel"
 msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Max. Beschleunigung(ms²):"
+msgstr "Max. Beschleun. (ms²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
@@ -3744,7 +3744,7 @@ msgstr "Obere Grenze für die Zugbeschleunigung. Die tatsächliche Beschleunigun
 #v1.8.24
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Max. Bremswirkung (ms²):"
+msgstr "Max. Bremse (ms²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
@@ -5139,7 +5139,7 @@ msgstr "Buchhaltung exportieren"
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s"
 msgid "Accounting time shift:"
-msgstr "Zeitversatz der Abrechnungszeit:"
+msgstr "Abrechnungszeitversatz:"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change"
@@ -5163,8 +5163,8 @@ msgstr "Format: (-)hh:mm:ss\nDer neue Tag in der Abrechnung beginnt zu dieser ve
 
 #v1.12.11
 msgctxt "option_company_demand"
-msgid "Globaler demand factor:"
-msgstr "Globaler Nachfrage-Faktor:"
+msgid "Global demand factor:"
+msgstr "Globale Nachfrage:"
 
 #v1.12.11
 msgctxt "option_company_demand_editor"
@@ -5394,17 +5394,17 @@ msgstr "Bezirk"
 #v1.1.31
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
-msgstr "0 Überführungen"
+msgstr "0 Viadukte"
 
 #:
 msgctxt "overpass_n_1"
 msgid "1 overpass"
-msgstr "1 Überführung"
+msgstr "1 Viadukt"
 
 #:
 msgctxt "overpass_n_many"
 msgid "%d overpasses"
-msgstr "%d Überführungen"
+msgstr "%d Viadukte"
 
 #:
 msgctxt "overwrite"
@@ -5614,7 +5614,7 @@ msgstr "< Auswahl >"
 #v1.5.41
 msgctxt "picker_mode_flat"
 msgid "Flat"
-msgstr "Flach"
+msgstr "Alle"
 
 #v1.5.41
 msgctxt "picker_mode_line_tags"
@@ -5664,7 +5664,7 @@ msgstr "Stationsgleis "
 #v1.1.58
 msgctxt "platforms"
 msgid "Platforms"
-msgstr "Stationsgleise"
+msgstr "Bahnsteige"
 
 #v1.4.15
 msgctxt "plats_n_0"
@@ -5929,7 +5929,7 @@ msgstr "Erstellungsdatum"
 #v1.5.41
 msgctxt "rtstat_leg_late"
 msgid "Lateness estimation"
-msgstr "Vorraussichtliche Verspätung"
+msgstr "Vrsl. Verspätung"
 
 #v1.1.72
 msgctxt "rtstat_leg_m"
@@ -6579,7 +6579,7 @@ msgstr "Stationseigenschaften"
 #v1.12.11
 msgctxt "station_infowin_demand"
 msgid "Ridership"
-msgstr "Fahrgastzahlen"
+msgstr "Fahrgäste"
 
 #v1.5.31
 msgctxt "station_label_mode"
@@ -7499,7 +7499,7 @@ msgstr "Diese Funktion funktioniert nur richtig, wenn alle Wagen von der gleiche
 #v1.7.15
 msgctxt "train_decal_color_edit"
 msgid "Default decal color:"
-msgstr "Standard Folierungsfarbe:"
+msgstr "Folierungsfarbe:"
 
 #v1.7.15
 msgctxt "train_decal_edit"
@@ -7619,12 +7619,12 @@ msgstr "Festes Intervall"
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr "Gleichmäßig über der Dauer einer Linie"
+msgstr "Gleichmäßig über Dauer einer Linie"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr "Gleichmäßig über der benutzerdefinierten Dauer"
+msgstr "Gleichmäßig über benutzerdefinierter Dauer"
 
 #v1.5.31
 msgctxt "train_group_n_name"
@@ -8189,12 +8189,12 @@ msgstr "Ersetzen"
 #v1.8.24
 msgctxt "train_rt_late"
 msgid "Est. lateness (s)"
-msgstr "Vorraussichtliche Verspätung (s)"
+msgstr "Vrsl. Verspätung (s)"
 
 #v1.8.24
 msgctxt "train_rt_leg"
 msgid "Remaining leg (m)"
-msgstr "Verbleibende Etappe (m)"
+msgstr "Verbleibender Weg (m)"
 
 #v1.11.14
 msgctxt "train_rt_pax"
