@@ -4,242 +4,242 @@
 #v1.13.11
 msgctxt "accounting_pax_walked_in"
 msgid "Walked in"
-msgstr "Entra caminando"
+msgstr "Hereingegangen"
 
 #v1.13.11
 msgctxt "accounting_pax_walked_out"
 msgid "Walked out"
-msgstr "Sale caminando"
+msgstr "Verlassen"
 
 #v1.13.11
 msgctxt "accounting_train_arrived_full"
 msgid "Arrived full"
-msgstr "Llegado lleno"
+msgstr "Voll eingetroffen"
 
 #v1.13.11
 msgctxt "accounting_train_departed_full"
 msgid "Departed full"
-msgstr "Salido lleno"
+msgstr "Voll verlassen"
 
 #v1.13.11
 msgctxt "assets_on_map_labels"
 msgid "Labels"
-msgstr "Etiquetas"
+msgstr "Labels"
 
 #v1.13.11
 msgctxt "assets_on_map_max_radius"
 msgid "Max. radius:"
-msgstr "Radio máximo:"
+msgstr "Maximaler Radius:"
 
 #v1.13.11
 msgctxt "assets_on_map_neg_color"
 msgid "Negative color:"
-msgstr "Color negativo:"
+msgstr "Negative Farbe:"
 
 #v1.13.11
 msgctxt "assets_on_map_pos_color"
 msgid "Positive color:"
-msgstr "Color positivo:"
+msgstr "Positive Farbe:"
 
 #v1.13.11
 msgctxt "assets_view_on_map"
 msgid "View on map"
-msgstr "Visualizar en mapa"
+msgstr "Auf der Karte anzeigen"
 
 #v1.13.11
 msgctxt "bulk_edit_all_stations"
 msgid "Bulk edit all stations"
-msgstr "Editar todas las estaciones"
+msgstr "Alle Stationen auf einmal bearbeiten"
 
 #v1.13.11
 msgctxt "editor_new_plat_extension"
 msgid "Create platform footprint extensions"
-msgstr "Crear extensiones de andén"
+msgstr "Plattformvergrößerungen erstellen"
 
 #v1.13.11
 msgctxt "editor_new_walk_link"
 msgid "Create walk link"
-msgstr "Crear camino de enlace"
+msgstr "Laufverbindung erstellen"
 
 #v1.13.11
 msgctxt "editor_tip_new_plat_extension_fin_left"
 msgid "Left click to finish creating a new platform footprint extension"
-msgstr "Click izquierdo para terminar de crear la extensión de andén"
+msgstr "Klicke mit der linken Maustaste, um die Erstellung der Plattformvergrößerung abzuschließen"
 
 #v1.13.11
 msgctxt "editor_tip_new_plat_extension_left"
 msgid "Left click to create a new platform footprint extension"
-msgstr "Click izquierdo para crear la extensión de andén"
+msgstr "Klicke mit der linken Maustaste, um eine neue Plattformvergrößerung zu erstellen"
 
 #v1.13.11
 msgctxt "editor_tip_new_walk_link_fin_left"
 msgid "Left click to finish creating a new walk link"
-msgstr "Click izquierdo para terminar de crear el camino de enlace"
+msgstr "Klicke mit der linken Maustaste, um mit dem Erstellen einer Laufverbindung abzuschließen"
 
 #v1.13.11
 msgctxt "editor_tip_new_walk_link_left"
 msgid "Left click to create a new walk link"
-msgstr "Click izquierdo para crear el camino de enlace"
+msgstr "Klicke mit der linken Maustaste, um eine neue Laufverbindung zu erstellen"
 
 #v1.13.11
 msgctxt "hall"
 msgid "Hall"
-msgstr "Hall"
+msgstr "Halle"
 
 #v1.13.11
 msgctxt "hall_row_many"
 msgid "(Many)"
-msgstr "(Varios)"
+msgstr "(Viele)"
 
 #v1.13.11
 msgctxt "hall_station_full"
 msgid "Full"
-msgstr "Lleno"
+msgstr "Voll"
 
 #v1.13.11
 msgctxt "info_table_pax_hall"
 msgid "Hall"
-msgstr "Hall"
+msgstr "Halle"
 
 #v1.13.11
 msgctxt "info_table_pax_hall_tp"
 msgid "Reason to be in the hall, platform due time"
-msgstr "Razón para estar en el hall, tiempo restante"
+msgstr "Grund für den Aufenthalt in der Halle, verbleibende Zeit"
 
 #v1.13.11
 msgctxt "kb_track_build_selection"
 msgid "Tracks: build selection"
-msgstr "Vías: construir selección"
+msgstr "Gleise: Auswahl bauen"
 
 #v1.13.11
 msgctxt "kb_track_plat_extension"
 msgid "Tracks: new plat. ext."
-msgstr "Vías: nueva ext. andén"
+msgstr "Gleise: neue Plattf.-Verlängerung"
 
 #v1.13.11
 msgctxt "kb_track_poi"
 msgid "Tracks: new POI"
-msgstr "Vías: nuevo POI"
+msgstr "Gleise: neuer POI"
 
 #v1.13.11
 msgctxt "kb_track_walk_link"
 msgid "Tracks: new walk link"
-msgstr "Vías: nuevo camino enlace"
+msgstr "Gleise: Neue Laufverbindung"
 
 #v1.13.11
 msgctxt "list_lines_closed"
 msgid "Closed"
-msgstr "Cerrada"
+msgstr "Geschlossen"
 
 #v1.13.11
 msgctxt "list_lines_open"
 msgid "Open"
-msgstr "Abierta"
+msgstr "Offen"
 
 #v1.13.11
 msgctxt "list_lines_tech"
 msgid "Technical"
-msgstr "Técnica"
+msgstr "Technisch"
 
 #v1.13.11
 msgctxt "list_lines_warn"
 msgid "With warnings"
-msgstr "Con alerta"
+msgstr "Mit Warnungen"
 
 #v1.13.11
 msgctxt "mvo_user_poi_labels"
 msgid "User POI labels"
-msgstr "Etiquetas de POIs de usuario"
+msgstr "Benutzer POI-Beschriftungen"
 
 #v1.13.11
 msgctxt "new_station_defaults"
 msgid "New station defaults"
-msgstr "Opciones para nuevas estaciones"
+msgstr "Standardeinstellungen für neue Bahnhöfe"
 
 #v1.13.11
 msgctxt "order_error_unpowered_train"
 msgid "Underpowered train"
-msgstr "Falta de potencia"
+msgstr "Mangelnde Leistung"
 
 #v1.13.11
 msgctxt "path2_walk"
 msgid "Walk for {}"
-msgstr "Camina durante {}"
+msgstr "Gehen für {}"
 
 #v1.13.11
 msgctxt "pax_waiting3"
 msgid "Pax:"
-msgstr "Pax:"
+msgstr "Fahrgäste:"
 
 #v1.13.11
 msgctxt "perf_editor_holds_rebuild"
 msgid "Hold updates when paused in editors"
-msgstr "Pausa actualizaciones en editores pausados"
+msgstr "Keine Aktualisierungen wenn pausiert"
 
 #v1.13.11
 msgctxt "rebuild_demand_stalled_tp"
 msgid "Tile demand rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los datos de demanda está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+msgstr "Aktualisierung der Kachelnachfragen steht aufgrund einer Bearbeitungsaktion noch aus\nDrücke F1 oder starte die Simulation, um den Neuaufbau zu starten."
 
 #v1.13.11
 msgctxt "rebuild_timetable_stalled_tp"
 msgid "Pax timetable rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los horarios está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+msgstr "Aktualisierung des Fahrplans steht aufgrund einer Bearbeitungsaktion noch aus\nDrücke F1 oder starte die Simulation, um den Neuaufbau zu starten."
 
 #v1.13.11
 msgctxt "reset_all_stations"
 msgid "Reset all stations"
-msgstr "Modificar todas las estaciones"
+msgstr "Alle Stationen zurücksetzen"
 
 #v1.13.11
 msgctxt "station_max_plat_pax"
 msgid "Platforms pax capacity:"
-msgstr "Capacidad en andenes:"
+msgstr "Bahnsteigskapazität:"
 
 #v1.13.11
 msgctxt "station_max_plat_pax_nc"
 msgid "Plat. pax capacity"
-msgstr "Capacidad en andenes"
+msgstr "Bahnsteigskapazität"
 
 #v1.13.11
 msgctxt "station_max_walk"
 msgid "Auto walk transfer:"
-msgstr "Camino automático:"
+msgstr "Lauftransferradius:"
 
 #v1.13.11
 msgctxt "station_max_walk_nc"
 msgid "Max. walk transfer"
-msgstr "Camino automático"
+msgstr "Max. Lauftransfer"
 
 #v1.13.11
 msgctxt "station_platform_user_footprint"
 msgid "Platform footprint:"
-msgstr "Ancho andén:"
+msgstr "Plattformfläche:"
 
 #v1.13.11
 msgctxt "station_pop_area_nc"
 msgid "Population radius"
-msgstr "Radio población"
+msgstr "Bevölkerungsradius"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall"
 msgid "Transfers overflow into hall"
-msgstr "Transbordos pueden ir al hall"
+msgstr "Transferiert Überfluss in die Halle"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall_nc"
 msgid "(Change) Overflow"
-msgstr "(Cambiar) Transbordos"
+msgstr "(Veränderung) Überfluss"
 
 #v1.13.11
 msgctxt "timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Fahrplan"
 
 #v1.13.11
 msgctxt "track_station_tools"
 msgid "Create stations and extensions"
-msgstr "Crear estaciones y extensiones"
+msgstr "Stationen und Erweiterungen erstellen"
 
 
 
@@ -249,22 +249,22 @@ msgstr "Crear estaciones y extensiones"
 #v1.13.11
 msgctxt "editor_station"
 msgid "Create station platforms"
-msgstr "Crear nuevos andenes"
+msgstr "Stationsgleise Erstellen"
 
 #v1.13.11
 msgctxt "mvo_mod_poi_labels"
 msgid "Mod POI labels"
-msgstr "Etiquetas de POIs de mods"
+msgstr "Mod POI-Beschriftungen"
 
 #v1.13.11
 msgctxt "option_company_station_label"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Bahnhofsbeschriftung:"
 
 #v1.13.11
 msgctxt "station_pop_area"
 msgid "Population radius:"
-msgstr "Radio población:"
+msgstr "Bevölkerungsradius:"
 
 
 
@@ -439,12 +439,12 @@ msgstr "Umstieg erreicht"
 #:
 msgctxt "accounting_pax_refunded"
 msgid "Refunded"
-msgstr "Rückerstattung"
+msgstr "Rückerstattet"
 
 #:
 msgctxt "accounting_pax_refused_fare"
 msgid "Refused too high fare"
-msgstr "Fahrpreis zu hoch / abgelehnt"
+msgstr "zu hoher Fahrpreis abgelehnt"
 
 #:
 msgctxt "accounting_pax_spawned"
@@ -614,7 +614,7 @@ msgstr "Geplante Haltezeit"
 #v1.11.14
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {}"
-msgstr "Tiempo conta.: {}"
+msgstr "Buchungszeit: {}"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -689,7 +689,7 @@ msgstr "Nur wenn Verspätung 0 ist"
 #v1.10.16
 msgctxt "all"
 msgid "All"
-msgstr "Todo"
+msgstr "Alle"
 
 #v1.2.22
 msgctxt "apply"
@@ -724,12 +724,12 @@ msgstr "(Auto)"
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Automatisches verfolgen und blättern in der Liste je nach Tageszeit"
+msgstr "Automatisches Verfolgen und Blättern in der Liste je nach Tageszeit"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Automatisches exportieren der Buchhaltungsdaten:"
+msgstr "Abrechnungsdatenexport:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
@@ -744,7 +744,7 @@ msgstr "Automatischer Export..."
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Automatisches Speicherintervall"
+msgstr "Speicherintervall:"
 
 #:
 msgctxt "autosave_slots"
@@ -754,7 +754,7 @@ msgstr "Anzahl aut. Spielstände:"
 #:
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Automatisches speichern..."
+msgstr "Automatisches Speichern..."
 
 #:
 msgctxt "back"
@@ -819,7 +819,7 @@ msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möcht
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
 msgid "Load saved game {}?"
-msgstr "Gespeichertes Spiel laden {}?"
+msgstr "Gespeichertes Spiel {} laden?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
@@ -834,7 +834,7 @@ msgstr "{0} schlägt vor, an einem von {1} gehosteten Spiel teilzunehmen. Möcht
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
 msgid "Quit current game and load saved game {}?"
-msgstr "Aktuelles Spiel beenden und Spielstand laden {}?"
+msgstr "Aktuelles Spiel beenden und Spielstand {} laden?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
@@ -919,7 +919,7 @@ msgstr "Wähle ein Gleis"
 #v1.4.15
 msgctxt "building_constraint_type"
 msgid "Locked to track:"
-msgstr "An Gleis geschlossen:"
+msgstr "An Gleis gebunden:"
 
 #v1.4.15
 msgctxt "building_constraints_editor"
@@ -969,7 +969,7 @@ msgstr "Höhe:"
 #v1.4.15
 msgctxt "building_info_price_f"
 msgid "${} per m\xC2\xB2"
-msgstr "${} pro m²"
+msgstr "${} pro m\xC2\xB2"
 
 #v1.4.15
 msgctxt "building_label"
@@ -979,7 +979,7 @@ msgstr "[*] Kennzeichnung"
 #v1.4.15
 msgctxt "building_label_bg_fill"
 msgid "Fill background"
-msgstr "Hintergrund Füllen"
+msgstr "Hintergrund füllen"
 
 #v1.4.15
 msgctxt "building_label_font"
@@ -1014,17 +1014,17 @@ msgstr "Maximaler Zoom:"
 #v1.4.15
 msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
-msgstr "[*] Platformvergrößerung"
+msgstr "[*] Plattformvergrößerung"
 
 #v1.12.11
 msgctxt "building_poi_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Nachfragekurve:"
 
 #v1.12.11
 msgctxt "building_poi_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Bevölkerung:"
 
 #v1.4.22
 msgctxt "building_start_t"
@@ -1214,7 +1214,7 @@ msgstr "Kopieren mit neuen Modifikationen, um die unbekannten Objekttypen und Na
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
-msgstr "Kolletion löschen"
+msgstr "Kollektion löschen"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_body"
@@ -1244,12 +1244,12 @@ msgstr "Eine oder mehrere ausgewählte Gleise sind bereits gebaut. Wenn du sie l
 #v1.1.58
 msgctxt "confirm_delete_line"
 msgid "Confirm line deletion"
-msgstr "Bist du dir sicher, dass du die Linie Löschen möchtest?"
+msgstr "Bist du sicher, dass du die Linie Löschen möchtest?"
 
 #v1.1.58
 msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
-msgstr "Möchtest du die Linie mit dem Namen {} Löschen?"
+msgstr "Möchtest du die Linie mit dem Namen {} löschen?"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
@@ -1259,7 +1259,7 @@ msgstr "Linieneingriff bestätigen"
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Möchtest du in alle Züge, die derzeit auf der Linie {0} verkehren, für einen Preis von ${1} Eingreifen?"
+msgstr "Möchtest du in alle Züge, die derzeit auf der Linie {0} verkehren, für einen Preis von ${1} eingreifen?"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
@@ -1324,12 +1324,12 @@ msgstr "Tauschen"
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Benutzerdefinierte maximale Geschwindigkeit:"
+msgstr "Definierte max. Geschw.:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Werte über dem Maximalwert des Gleise werden Ignoriert. Auf 0 setzen um die eigenen Geschwindigkeitsbegrenzung zu entfernen."
+msgstr "Werte über dem Maximalwert des Gleise werden ignoriert. Auf 0 setzen, um die eigenen Geschwindigkeitsbegrenzung zu entfernen."
 
 #v1.4.22
 msgctxt "constraint_offset"
@@ -1379,7 +1379,7 @@ msgstr "Befördern"
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "Einschränkung entferen"
+msgstr "Einschränkung entfernen"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
@@ -1394,7 +1394,7 @@ msgstr "Entfernen"
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "Wähle das übergeordnete Gleis aus"
+msgstr "Wähle das übergeordnetes Gleis aus"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -1454,7 +1454,7 @@ msgstr "Gleiseigenschaften"
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr "Es existieren keine Entfürfe, die gebaut werden könnten"
+msgstr "Es existieren keine Entwürfe, die gebaut werden könnten"
 
 #:
 msgctxt "construction_conflicts_cash"
@@ -1579,7 +1579,7 @@ msgstr "Linie Löschen"
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Löschen und Züge verkaufen"
+msgstr "Löschen und verkaufen"
 
 #v1.6.13
 msgctxt "delete_only_bp"
@@ -1594,32 +1594,32 @@ msgstr "Gleise entfernen"
 #v1.12.11
 msgctxt "demand_clone"
 msgid "Clone demand curve"
-msgstr "Clonar curva de demanda"
+msgstr "Nachfragekurve klonen"
 
 #v1.12.11
 msgctxt "demand_curve_disabled"
 msgid "<Disabled>"
-msgstr "<Desactivada>"
+msgstr "<Deaktiviert>"
 
 #v1.12.11
 msgctxt "demand_default_name"
 msgid "Population"
-msgstr "Población"
+msgstr "Bevölkerung"
 
 #v1.12.11
 msgctxt "demand_delete"
 msgid "Delete selected demand curve"
-msgstr "Borrar curva de demanda seleccionada"
+msgstr "Entferne die ausgewählte Nachfragekurve"
 
 #v1.12.11
 msgctxt "demand_editor_focus_dest"
 msgid "Destination"
-msgstr "Destino"
+msgstr "Ziel"
 
 #v1.12.11
 msgctxt "demand_editor_focus_distance"
 msgid "Distance"
-msgstr "Distancia"
+msgstr "Distanz"
 
 #v1.12.11
 msgctxt "demand_editor_focus_info"
@@ -1629,107 +1629,107 @@ msgstr "Info"
 #v1.12.11
 msgctxt "demand_editor_focus_origin"
 msgid "Origin"
-msgstr "Origen"
+msgstr "Ursprung"
 
 #v1.12.11
 msgctxt "demand_editor_focus_range0"
 msgid "0 km to 95 km"
-msgstr "0 km a 95 km"
+msgstr "0 km bis 95 km"
 
 #v1.12.11
 msgctxt "demand_editor_title"
 msgid "Demand curves editor"
-msgstr "Editor de curvas de demanda"
+msgstr "Nachfragekurven-Editor"
 
 #v1.12.11
 msgctxt "demand_export"
 msgid "Export to TSV file"
-msgstr "Exportar a fichero TSV"
+msgstr "In TSV-Datei exportieren"
 
 #v1.12.11
 msgctxt "demand_import_new"
 msgid "Import new demand curve from TSV file"
-msgstr "Importar nueva curva de demanda de fichero TSV"
+msgstr "Neue Nachfragekurve aus TSV-Datei importieren"
 
 #v1.12.11
 msgctxt "demand_import_replace"
 msgid "Replace with curve from TSV file"
-msgstr "Remplazar curva de demanda con fichero TSV"
+msgstr "Ersetzen der Nachfragekurve durch eine TSV-Datei"
 
 #v1.12.11
 msgctxt "demand_info_file_ops"
 msgid "Export and replace"
-msgstr "Exportar y reemplazar"
+msgstr "Exportieren und ersetzen"
 
 #v1.12.11
 msgctxt "demand_info_move_pois"
 msgid "Bulk change POIs into a different curve"
-msgstr "Cambiar todos los POIs a una curva diferente"
+msgstr "Alle POIs in eine andere Nachfragekurve ändern"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_but"
 msgid "Change all POIs"
-msgstr "Cambiar todos los POIs"
+msgstr "Alle POIs ändern"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_label"
 msgid "Change to:"
-msgstr "Cambiar a:"
+msgstr "Ändern zu:"
 
 #v1.12.11
 msgctxt "demand_info_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Name:"
 
 #v1.12.11
 msgctxt "demand_info_poi"
 msgid "Points of interest:"
-msgstr "Punto de interés:"
+msgstr "Punkte von Interesse:"
 
 #v1.12.11
 msgctxt "demand_info_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Bevölkerung:"
 
 #v1.12.11
 msgctxt "demand_pax_spawn"
 msgid "{} new pax/min."
-msgstr "{} nuevos pax/min."
+msgstr "{} neue Fahrgäste/min."
 
 #v1.12.11
 msgctxt "demand_rebuild_tp"
 msgid "Rebuilding demand data..."
-msgstr "Reconstruyendo datos de demanda..."
+msgstr "Rekonstruktion der Nachfragedaten..."
 
 #v1.12.11
 msgctxt "demand_replace_default"
 msgid "Replace with default curve"
-msgstr "Reemplazar con curva por defecto"
+msgstr "Ersetzen durch Standardnachfragekurve"
 
 #v1.12.11
 msgctxt "demand_replace_file"
 msgid "Replace from TSV file"
-msgstr "Reemplazar con fichero TSV"
+msgstr "Ersetzen durch TSV-Datei"
 
 #v1.12.11
 msgctxt "demand_time_copy_day"
 msgid "Copy day"
-msgstr "Copiar día"
+msgstr "Tag kopieren"
 
 #v1.12.11
 msgctxt "demand_time_paste_day"
 msgid "Paste day"
-msgstr "Pegar día"
+msgstr "Tag einfügen"
 
 #v1.12.11
 msgctxt "demand_time_set_0"
 msgid "All 0%"
-msgstr "Todo 0%"
+msgstr "Alle auf 0%"
 
 #v1.12.11
 msgctxt "demand_time_set_100"
 msgid "All 100%"
-msgstr "Todo 100%"
+msgstr "Alle auf 100%"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
@@ -1754,7 +1754,7 @@ msgstr "Zug"
 #v1.9.17
 msgctxt "dep_late"
 msgid "Max late"
-msgstr "Maximale Verspätung"
+msgstr "Max. verspätet"
 
 #v1.9.17
 msgctxt "dep_sched"
@@ -1844,7 +1844,7 @@ msgstr "Neues Gebäude erstellen"
 #v1.2.22
 msgctxt "editor_edit_signal"
 msgid "Move, delete and edit signals"
-msgstr "Mover, borrar y editar señales"
+msgstr "Verschieben, Löschen und Bearbeiten von Signalen"
 
 #:
 msgctxt "editor_move"
@@ -1859,7 +1859,7 @@ msgstr "Erstelle neue Signale"
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
 msgid "Click a control point to make it the building parent"
-msgstr "Klicke auf einen Kontrollpunkt um es als übergeordnetes Gebäudeteil festzulegen"
+msgstr "Klicke auf einen Kontrollpunkt um ihn als übergeordnetes Gebäudeteil festzulegen"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
@@ -1874,7 +1874,7 @@ msgstr "Klicke auf einen Kontrollpunkt, um ihn zur übergeordneten Bedingung zu 
 #v1.12.11
 msgctxt "editor_poi"
 msgid "Create new points of interest and signs"
-msgstr "Crear nuevos puntos de interés y signos"
+msgstr "Neue Interessenspunkte und Schilder erstellen"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
@@ -1889,7 +1889,7 @@ msgstr "Parallelgleis-Band"
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr "Gleise zu Stationsgleise befördern"
+msgstr "Gleise zu Stationsgleisen befördern"
 
 #v1.6.13
 msgctxt "editor_sat_split"
@@ -1954,7 +1954,7 @@ msgstr "Esc, um in den Bearbeitungsmodus zu wechseln"
 #v1.8.24
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the existing end of track control points to continue an existing track"
-msgstr "Klicke mit der linken Maustaste auf das vorhandene Ende eines Gleiskontrollpunkts, um ein vorhandenes Gleis fortzusetzen"
+msgstr "Klicke mit der linken Maustaste auf das vorhandene Ende eines Gleiskontrollpunkts, um das Gleis fortzusetzen"
 
 #:
 msgctxt "editor_tip_add_left2"
@@ -2014,7 +2014,7 @@ msgstr "Klicke mit der linken Maustaste, um ein neues Streckensegment zu erstell
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
 msgid "Hold Shift to keep creating more segments."
-msgstr "Halte die Umschalttaste (Shift) gedrückt, um mehrere segmente zu erstellen."
+msgstr "Halte die Umschalttaste (Shift) gedrückt, um mehrere Segmente zu erstellen."
 
 #:
 msgctxt "editor_tip_cont_mouse"
@@ -2089,7 +2089,7 @@ msgstr "Klicke mit der linken Maustaste, um Punkte zur Auswahl hinzuzufügen ode
 #v1.5.41
 msgctxt "editor_tip_dupe"
 msgid "Ctrl-B to duplicate selected objects in-place"
-msgstr "Strg-B um die ausgewählten Objekte an der gleichen stelle zu duplizieren"
+msgstr "Strg-B um die ausgewählten Objekte an der gleichen Stelle zu duplizieren"
 
 #:
 msgctxt "editor_tip_link_esc"
@@ -2099,7 +2099,7 @@ msgstr "Esc, um in den Bearbeitungsmodus zu wechseln"
 #:
 msgctxt "editor_tip_link_left"
 msgid "Left click to link tracks"
-msgstr "Klicke mit der linken Maustaste, um Titel zu verknüpfen"
+msgstr "Klicke mit der linken Maustaste, um Gleise zu verknüpfen"
 
 #:
 msgctxt "editor_tip_link_move"
@@ -2109,12 +2109,12 @@ msgstr "Bewege den Mauszeiger zum Abbrechen weg"
 #v1.2.22
 msgctxt "editor_tip_move_branch_draw"
 msgid "Drag the branch control point near any branchable track to change its position"
-msgstr "Ziehe den Abzweigungsknotenpunkt über ein Gleis, von dem du abzweigen kannst, um den Abzweig zu verschieben"
+msgstr "Ziehe den Abzweigungsknotenpunkt über ein Gleis, von dem du abzweigen kannst, um ihn zu verschieben"
 
 #v1.4.15
 msgctxt "editor_tip_move_building_sizer"
 msgid "Drag the building control point to resize and rotate the building"
-msgstr "Ziehe den Gebäudekontrollpunkt um die größe zu ändern und um das Gebäude zu rotieren"
+msgstr "Ziehe den Gebäudekontrollpunkt um die Größe zu ändern und um das Gebäude zu rotieren"
 
 #v1.4.15
 msgctxt "editor_tip_move_building_sizer_ctrl"
@@ -2144,7 +2144,7 @@ msgstr "Klicke die linke Maustaste um ein neues Gebäude zu erstellen"
 #v1.12.11
 msgctxt "editor_tip_new_poi_left"
 msgid "Left click to create a new point of interest or sign"
-msgstr "Click izquierdo para crear un nuevo punto de interés o signo"
+msgstr "Klicke mit der linken Maustaste, um einen neuen Interessenspunkt oder Schild zu erstellen"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
@@ -2159,7 +2159,7 @@ msgstr "Klicke die Linke Maustaste um ein Signal zu erstellen"
 #v1.2.22
 msgctxt "editor_tip_new_signal_shift"
 msgid "Shift to change signal facing direction"
-msgstr "Halte die Umschalttaste (Shift) um die richtung eines Signals zu ändern"
+msgstr "Halte die Umschalttaste (Shift) um die Richtung eines Signals zu ändern"
 
 #v1.4.15
 msgctxt "editor_tip_paste"
@@ -2169,12 +2169,12 @@ msgstr "Strg-V um den Clip einzufügen"
 #v1.1.31
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
-msgstr "Lasse die linke Taste los, um die Rechteckauswahl zu beenden"
+msgstr "Lasse die linke Maustaste los, um die Rechteckauswahl zu beenden"
 
 #v1.4.15
 msgctxt "editor_tip_rot_left"
 msgid "Release left button to stop rotating the selection"
-msgstr "Lasse die linke Maustaste los, um das drehen der Auswahl zu beenden"
+msgstr "Lasse die linke Maustaste los, um das Drehen der Auswahl zu beenden"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
@@ -2209,7 +2209,7 @@ msgstr "UNUSED Click on tracks to tape them over with a new station platform"
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
 msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr "Klicke auf ein Gleis um es und die nächsten untergeordneten Gleise zu Stationsgleisen zu befördern"
+msgstr "Klicke auf ein Gleis um es und die nächsten untergeordneten Gleise zu Stationsgleisen zu ändern"
 
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
@@ -2224,7 +2224,7 @@ msgstr "UNUSED Click on tracks to tape them over with a new station"
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
 msgid "Click on tracks to tape them over with new kind and layer of track"
-msgstr "Klicke auf ein Gleis, um es mit einer anderen Art von Gleis zu überdecken"
+msgstr "Klicke auf ein Gleis, um es mit einer anderen Art von Gleis zu ersetzen"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
@@ -2244,7 +2244,7 @@ msgstr "Esc um in den Gleiseditiermodus zu gelangen"
 #v1.2.29
 msgctxt "editor_tip_sel_signal_flip"
 msgid "{} to flip direction of selected signals"
-msgstr "{} um die richtung des ausgewählten Signals zu ändern"
+msgstr "{} um die Richtung des ausgewählten Signals zu ändern"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_left"
@@ -2274,7 +2274,7 @@ msgstr "{} um die Seite des parallelen Gleises zu wechseln"
 #v1.1.31
 msgctxt "editor_tip_station_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc, um in den Bearbeitungsmodus zu wechseln"
+msgstr "Esc um in den Bearbeitungsmodus zu wechseln"
 
 #:
 msgctxt "editor_tip_station_fin_esc"
@@ -2284,22 +2284,22 @@ msgstr "Esc zum Abbrechen"
 #:
 msgctxt "editor_tip_station_fin_left"
 msgid "Left click to finish creating a new station platform"
-msgstr "Klicke mit der linken Maustaste, um die Erstellung eines neuen Bahnsteigs abzuschließen"
+msgstr "Klicke mit der linken Maustaste, um die Erstellung eines neuen Stationsgleises abzuschließen"
 
 #:
 msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
-msgstr "Klicke mit der linken Maustaste, um einen neuen Bahnsteig zu erstellen"
+msgstr "Klicke mit der linken Maustaste, um einen neuen Stationsgleis zu erstellen"
 
 #v1.11.14
 msgctxt "editor_tip_station_move"
 msgid "Move mouse to start creating the station platform"
-msgstr "Mueve el ratón para empezar a crear en el andén"
+msgstr "Bewege die Maus um eine Platform zu erstellen"
 
 #v1.9.17
 msgctxt "editor_tip_tangent_left"
 msgid "Release left button to stop rotating the track tangent"
-msgstr "Linke Maustaste los lassen um das drehen der Gleissegmente zu stoppen"
+msgstr "Linke Maustaste los lassen um das Drehen der Gleissegmente zu stoppen"
 
 #:
 msgctxt "editor_tip_undo"
@@ -2334,7 +2334,7 @@ msgstr "Die Fahrgäste werden aussteigen und nicht in die Züge einsteigen, die 
 #v1.5.31
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "Das manuelle Intervall ist länger als ein Umlauf der Linie. Es wird ignoriert, oder funktioniert nur eingeschränkt.\nErhöhe den Linienumlauf mindestens auf den Wert des manuellem Intervalls."
+msgstr "Das manuelle Intervall ist länger als ein Umlauf der Linie. Es wird ignoriert, oder funktioniert nur eingeschränkt.\nErhöhe den Linienumlauf mindestens auf den Wert des manuellen Intervalls."
 
 #v1.5.31
 msgctxt "editor_warn_train_speed_too_high"
@@ -2349,7 +2349,7 @@ msgstr "Geschwindigkeit: {:.1f}x"
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
-msgstr "Zeit die ein Zug braucht, um von der mitte einer Platform zur mitte der nächsten Platform zu kommen. Die Stoppzeit wird nicht mitgezählt"
+msgstr "Zeit die ein Zug braucht, um von der Mitte eines Stationsgleises zur Mitte des nächsten Stationsgleises zu kommen. Die Stoppzeit wird nicht mitgezählt"
 
 #v1.4.15
 msgctxt "empty_clipboard"
@@ -2369,22 +2369,22 @@ msgstr "Aktiviert"
 #v1.10.16
 msgctxt "error_cannot_delete_save"
 msgid "Cannot delete old save for overwriting: "
-msgstr "No se puede borrar partida para sobreescribirla: "
+msgstr "Alter Spielstand kann nicht gelöscht werden, um es zu überschreiben: "
 
 #v1.1.31
 msgctxt "error_cannot_open_file"
 msgid "Cannot open file: "
-msgstr "Du kannst die Datei nicht öffnen: "
+msgstr "Datei kann nicht geöffnet werden: "
 
 #v1.10.16
 msgctxt "error_cannot_open_temp_file"
 msgid "Cannot open temporary file: "
-msgstr "No se puede borrar archivo temporal: "
+msgstr "Temporäre Datei kann nicht geöffnet werden: "
 
 #v1.10.16
 msgctxt "error_cannot_rename_save"
 msgid "Cannot rename temporary file: {} into {} "
-msgstr "No se puede renombrar archivo temporal: {} a {} "
+msgstr "Temporäre Datei kann nicht umbenannt werden: {} zu {} "
 
 #:
 msgctxt "error_corrupted_file"
@@ -2414,7 +2414,7 @@ msgstr "Interner Fehler beim Speichern des Spiels"
 #v1.1.37
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
-msgstr "Die Version des Spiels ({}.{}.{}.{}) die diesen Speicherstand erstellt hat, ist neuer wie deine aktuelle Spielversion ({}.{}.{}.{}). Aktualisier das Spiel, um diesen Spiecherstand zu laden."
+msgstr "Die Version des Spiels ({}.{}.{}.{}) die diesen Speicherstand erstellt hat, ist neuer als deine aktuelle Spielversion ({}.{}.{}.{}). Aktualisiere das Spiel, um diesen Spiecherstand zu laden."
 
 #v1.9.17
 msgctxt "error_too_old_save"
@@ -2534,7 +2534,7 @@ msgstr "Maximale Fahrgäste"
 #v1.1.58
 msgctxt "filter_max_speed"
 msgid "Max speed"
-msgstr "Maximale Geschwindigkeit"
+msgstr "Max. Geschwindigkeit"
 
 #v1.1.58
 msgctxt "filter_price"
@@ -2574,7 +2574,7 @@ msgstr "Jahr der Aussonderung"
 #v1.12.11
 msgctxt "fmt_copy_of"
 msgid "Copy of {}"
-msgstr "Copia de {}"
+msgstr "Kopie von {}"
 
 #v1.1.31
 msgctxt "friend_state_away"
@@ -2639,17 +2639,17 @@ msgstr "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 #v1.11.14
 msgctxt "full_simulation_reset"
 msgid "Full simulation reset"
-msgstr "Reset completo de simulación"
+msgstr "Vollständiges Zurücksetzen der Simulation"
 
 #v1.11.14
 msgctxt "full_simulation_reset_desc"
 msgid "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
-msgstr "Todos los pax serán eliminados de estaciones y trenes, todos los trenes serán intervenidos, se recalcularán los tiempos de líneas. Estás seguro?"
+msgstr "Alle Fahrgäste werden von Stationen und Zügen entfernt. Es wird in allen Zügen eingegriffen. Linienaufträge und -zeiten werden erneuert. Bist du sicher?"
 
 #v1.11.14
 msgctxt "full_simulation_reset_yes"
 msgid "Reset simulation"
-msgstr "Reset de simulación"
+msgstr "Simulation zurücksetzen"
 
 #v1.2.22
 msgctxt "game_restart_req"
@@ -2659,7 +2659,7 @@ msgstr "Ein Spielneustart ist erforderlich"
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr "Spielstandfreigabe"
+msgstr "Spielstandsfreigabe"
 
 #v1.2.29
 msgctxt "game_speed_down"
@@ -2799,12 +2799,12 @@ msgstr "Erkennung der öffentlichen IP-Adresse..."
 #v1.11.14
 msgctxt "host_sim_mode"
 msgid "Clock and bank:"
-msgstr "Reloj y banco:"
+msgstr "Uhr und Bank:"
 
 #v1.11.14
 msgctxt "host_sim_mode_private"
 msgid "Private for each player"
-msgstr "Privados por jugador"
+msgstr "Privat für jeden Spieler"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
@@ -2814,7 +2814,7 @@ msgstr "Zeit, Zugbewegungen und die Fahrgastsimulation ist für jeden Mitspieler
 #v1.11.14
 msgctxt "host_sim_mode_shared"
 msgid "Shared between all players"
-msgstr "Compartidos entre jugadores"
+msgstr "Geteilt mit allen Spielern"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
@@ -2834,7 +2834,7 @@ msgstr "Ignorieren"
 #v1.12.11
 msgctxt "info_company_active_tiles"
 msgid "Active pax tiles:"
-msgstr "Zonas de pax activas:"
+msgstr "Aktive Fahrgastkacheln:"
 
 #v1.4.15
 msgctxt "info_company_buildings"
@@ -2969,12 +2969,12 @@ msgstr "Die Abfahrt mit dieser Linie ist laut Fahrplan an dieser Haltestelle zu 
 #v1.12.11
 msgctxt "info_table_station_city_tp"
 msgid "Group by city"
-msgstr "Agrupar por ciudad"
+msgstr "Nach Stadt gruppieren"
 
 #v1.12.11
 msgctxt "info_table_station_dist_tp"
 msgid "Sort by distance"
-msgstr "Ordenar por distancia"
+msgstr "Nach Distanz sortieren"
 
 #v1.1.31
 msgctxt "info_train_pax"
@@ -2984,7 +2984,7 @@ msgstr "Fahrgäste: {0} / {1}"
 #:
 msgctxt "info_train_speed"
 msgid "Speed: {} km/h"
-msgstr "Geschwindigkeit: {} km / h"
+msgstr "Geschwindigkeit: {} km/h"
 
 #:
 msgctxt "info_train_speed_short"
@@ -3009,7 +3009,7 @@ msgstr "Greife in alle Züge ein"
 #v1.5.31
 msgctxt "intervene_line"
 msgid "Intervene line"
-msgstr "Greife in die Linie ein"
+msgstr "Greife in diese Linie ein"
 
 #v1.1.31
 msgctxt "intervention"
@@ -3149,12 +3149,12 @@ msgstr "Gleise: Gleisseite tauschen"
 #v1.2.29
 msgctxt "kb_track_layer_down"
 msgid "Tracks: decr. new track layer"
-msgstr "Gleise: herabsetzen der Ebene für neue Gleise"
+msgstr "Gleise: Ebene herabsetzen"
 
 #v1.2.29
 msgctxt "kb_track_layer_up"
 msgid "Tracks: incr. new track layer"
-msgstr "Gleise: erhöhen der Ebene für neue Gleise"
+msgstr "Gleise: Ebene erhöhen"
 
 #v1.2.22
 msgctxt "kb_track_move"
@@ -3174,7 +3174,7 @@ msgstr "Gleise: neues Signal"
 #v1.10.16
 msgctxt "kb_track_pick_parent"
 msgid "Tracks: pick par. parent"
-msgstr "Vías: elegir padre par."
+msgstr "Gleise: Übergeordnetes Gleis wählen"
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
@@ -3189,7 +3189,7 @@ msgstr "Gleise: Parallelgleis-Band"
 #v1.9.17
 msgctxt "kb_track_sat_platform_tape"
 msgid "Tracks: platform tape"
-msgstr "Gleise: Bahnsteig-Band"
+msgstr "Gleise: Stationsgleis-Band"
 
 #v1.6.13
 msgctxt "kb_track_sat_split"
@@ -3239,7 +3239,7 @@ msgstr "Sprache:"
 #v1.11.14
 msgctxt "last_frame_game_speed"
 msgid "Last frame speed: {:.1f}x"
-msgstr "Velocidad último frame: {:.1f}x"
+msgstr "Geschwindigkeit des letzten Frames: {:.1f}x"
 
 #v1.2.29
 msgctxt "layer_ground"
@@ -3364,7 +3364,7 @@ msgstr "{0} [{1}] bei"
 #v1.8.24
 msgctxt "line_warn_custom_duration_too_short"
 msgid "Custom line duration is too short and it is ignored"
-msgstr "Die benutzerdefinierte Liniendauer ist zu kurz und wird Ignoriert"
+msgstr "Die benutzerdefinierte Liniendauer ist zu kurz und wird ignoriert"
 
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
@@ -3449,12 +3449,12 @@ msgstr "Grundlagen"
 #:
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
-msgstr "Baue deine Gleisentfürfe um diese Platform zu aktivieren"
+msgstr "Baue deine Gleisentwürfe um diese Platform zu aktivieren"
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_basic"
 msgid "Click on station platform arrows to change the stop platform"
-msgstr "Klicke auf die Pfeile auf den Stationsgleisen um die Platform zu ändern"
+msgstr "Klicke auf die Pfeile auf den Stationsgleisen um das Haltegleis zu ändern"
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_s1"
@@ -3494,7 +3494,7 @@ msgstr "Farbe:"
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_basic"
 msgid "Click on station platform arrows to create new line stops"
-msgstr "Klicke auf die Pfeile auf den Stationsgleisen um neue Halte einer Linie hinzuzufügen"
+msgstr "Klicke auf die Pfeile auf den Stationsgleisen um einer Linie neue Halte hinzuzufügen"
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_s1"
@@ -3529,7 +3529,7 @@ msgstr "Benutzerdefinierte Laufzeit:"
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Format: hh:mm:ss\nWenn die Linienlaufzeit kürzer ist wie dieser Betrag, dann werden Haltepunkte die als Benutzerdefiniertewartedauer markiert sind längere Haltezeiten haben, bis die Linienlaufzeit den gleichen Wert hat wie die benutzerdefinierte Laufzeit.\nDie extra Zeit ist gleichmäßig auf die Halte aufgeteilt. Wenn kein Halt ausgewählt ist, wird der letzte Halt benutzt."
+msgstr "Format: hh:mm:ss\nWenn die Linienlaufzeit kürzer ist als dieser Betrag, dann werden Haltepunkte die als benutzerdefinierte Wartedauer markiert sind längere Haltezeiten haben, bis die Linienlaufzeit den gleichen Wert hat wie die benutzerdefinierte Laufzeit.\nDie extra Zeit ist gleichmäßig auf die Halte aufgeteilt. Wenn kein Halt ausgewählt ist, wird der letzte Halt benutzt."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
@@ -3584,7 +3584,7 @@ msgstr "Benutzerdefiniert"
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
 msgid "Fit a period"
-msgstr "An periode anpassen"
+msgstr "An Periode anpassen"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
@@ -3649,12 +3649,12 @@ msgstr "Drücke die Umschalttaste (Shift) um das Zeitdelta auf alle folgenden fe
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_desc"
 msgid "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr "Format: (hh:)mm:ss\nDer Zug wird genau um diese Zeit abfahren, zählend vom anfang der Linie.\nZüge könnten länger halten, wenn Fahrgäste noch ein-, bzw aussteigen."
+msgstr "Format: (hh:)mm:ss\nDer Zug wird genau um diese Zeit abfahren, zählend vom Anfang der Linie.\nZüge könnten länger halten, wenn Fahrgäste noch ein-, bzw aussteigen."
 
 #v1.2.22
 msgctxt "lineeditor_header_full"
 msgid "{0}, {1} km, {2}, {3} km/h avg."
-msgstr "{0}, {1} km, {2}, {3} km/h durchschnitt"
+msgstr "{0}, {1} km, {2}, {3} km/h Durchschnitt"
 
 #v1.7.15
 msgctxt "lineeditor_header_full_tooltip"
@@ -3679,7 +3679,7 @@ msgstr "Abfahrt des ersten Zuges:"
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Format hh:mm:ss\nTageszeit für die Abfahrt des ersten automatischem Zuges an der ersten Haltestelle.\nDiese Einstellung zählt nur für Automatische Züge.\nZüge mit manuellen Auftragen ignorieren diese Einstellung und zählen nicht zu der Intervallkalkulation."
+msgstr "Format hh:mm:ss\nTageszeit für die Abfahrt des ersten automatischen Zuges an der ersten Haltestelle.\nDiese Einstellung zählt nur für automatische Züge.\nZüge mit manuellen Aufträgen ignorieren diese Einstellung und zählen nicht zu der Intervallkalkulation."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
@@ -3724,7 +3724,7 @@ msgstr "Benutzerdefinierte Zeit"
 #v1.5.31
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr "Hauptplattform:"
+msgstr "Hauptbahnsteig:"
 
 #v1.5.31
 msgctxt "lineeditor_manual_interval"
@@ -3734,7 +3734,7 @@ msgstr "Benutzerdefiniertes Intervall:"
 #v1.8.24
 msgctxt "lineeditor_max_accel"
 msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Max. beschleunigung(m/s²):"
+msgstr "Max. Beschleunigung(ms²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
@@ -3744,7 +3744,7 @@ msgstr "Obere Grenze für die Zugbeschleunigung. Die tatsächliche Beschleunigun
 #v1.8.24
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Max. Bremswirkung (m/s²):"
+msgstr "Max. Bremswirkung (ms²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
@@ -3754,12 +3754,12 @@ msgstr "Obere Grenze für die Zugbremsung. Die tatsächliche Bremsleistung kann 
 #v1.11.14
 msgctxt "lineeditor_min_pax_departure_leg_time"
 msgid "Pax min. ride time:"
-msgstr "Pax tiempo min. en tren:"
+msgstr "Minimale Fahrzeit:"
 
 #v1.11.14
 msgctxt "lineeditor_min_pax_departure_leg_time_desc"
 msgid "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
-msgstr "Formato: (hh:)mm:ss\nLos pax solo entran al tren si planean estar en su interior por al menos esta cantidad de tiempo,\nsin incluir la espera inicial."
+msgstr "Format: (hh:)mm:ss\nFahrgäste steigen nur ein, wenn sie den Zug länger als die angegebene Zeit nutzen wollen,\nohne Wartezeit"
 
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
@@ -3769,7 +3769,7 @@ msgstr "Haltezeit:"
 #v1.7.15
 msgctxt "lineeditor_min_stop_time_desc"
 msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr "Format: (hh:)mm:ss\nHalte werde mit dieser Wartezeig geplant.\nZüge werden länger warten, wenn Fahrgäste noch am ein-, bzw. aussteigen sind."
+msgstr "Format: (hh:)mm:ss\nHalte werde mit dieser Wartezeig geplant.\nZüge werden länger warten, wenn Fahrgäste noch am Ein-, bzw. Aussteigen sind."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3809,7 +3809,7 @@ msgstr "Dieser Zug wird verwendet, um eine interne Simulation der Strecke zu ers
 #v1.10.16
 msgctxt "lineeditor_restrict_lines_map"
 msgid "Restrict listing to visible lines on map (approximately)"
-msgstr "Restringir listado a líneas visibles en el mapa (aproximadamente)"
+msgstr "Beschränke die Auflistung auf sichtbare Linien auf der Karte (Annäherung)"
 
 #v1.2.22
 msgctxt "lineeditor_service_level"
@@ -3819,7 +3819,7 @@ msgstr "Servicegrad:"
 #v1.2.22
 msgctxt "lineeditor_service_level_closed"
 msgid "Closed"
-msgstr "Geschlosen"
+msgstr "Geschlossen"
 
 #v1.5.31
 msgctxt "lineeditor_service_level_full"
@@ -3844,12 +3844,12 @@ msgstr "Ankommen um:"
 #v1.11.14
 msgctxt "lineeditor_stop_boardable"
 msgid "Board"
-msgstr "Entrar"
+msgstr "Einsteigen"
 
 #v1.11.14
 msgctxt "lineeditor_stop_leaveable"
 msgid "Disembark"
-msgstr "Salir"
+msgstr "Aussteigen"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
@@ -3874,7 +3874,7 @@ msgstr "Feste Abfahrtszeit"
 #v1.11.14
 msgctxt "lineeditor_stop_no_pax_behavior"
 msgid "Not board or disembark"
-msgstr "No entrar ni salir"
+msgstr "Kein Ein- oder Aussteigen"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
@@ -3894,7 +3894,7 @@ msgstr "Liniendienst Halt"
 #v1.11.14
 msgctxt "lineeditor_stop_pax_behavior"
 msgid "Allow pax to:"
-msgstr "Permitr a pax:"
+msgstr "Erlaube Fahrgäste:"
 
 #v1.5.41
 msgctxt "lineeditor_suffix"
@@ -3989,17 +3989,17 @@ msgstr "Zeitzone:"
 #v1.11.14
 msgctxt "lineeditor_tz_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "Benutzerdefiniert"
 
 #v1.11.14
 msgctxt "lineeditor_tz_custom_input"
 msgid "Custom time zone:"
-msgstr "Zona horaria custom:"
+msgstr "Benutzerdefinierte Zeitzone:"
 
 #v1.11.14
 msgctxt "lineeditor_tz_custom_input_desc"
 msgid "Format: (-)hh:mm:ss"
-msgstr "Formato: (-)hh:mm:ss"
+msgstr "Format: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
@@ -4024,12 +4024,12 @@ msgstr "Halteverhalten:"
 #v1.5.31
 msgctxt "lineeditor_wait_kind_limbo"
 msgid "Black hole main, wait secondary"
-msgstr "Schwarzes Loch auf der Hauptplattform und warte auf Alternativplatformen"
+msgstr "Schwarzes Loch auf Hauptgleis, warte auf Alternativgleisen"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
 msgid "Wait on platforms"
-msgstr "Warte auf den Platformen"
+msgstr "Warte auf den Stationsgleisen"
 
 #:
 msgctxt "lines"
@@ -4154,12 +4154,12 @@ msgstr "Initialisierung von Fahrplänen"
 #v1.4.15
 msgctxt "loader_tracks_n"
 msgid "Validating tracks, {} to go"
-msgstr "Validierung von gleisen, {} verbleibend"
+msgstr "Validierung von Gleisen, {} verbleibend"
 
 #v1.6.13
 msgctxt "loader_validating_db"
 msgid "Validating database"
-msgstr "validierung der Datenbank"
+msgstr "Validierung der Datenbank"
 
 #v1.1.31
 msgctxt "loading_elip"
@@ -4194,7 +4194,7 @@ msgstr "Monatliche Zahlung:"
 #:
 msgctxt "loan_contract_rate"
 msgid "APR:"
-msgstr "Zinsatz:"
+msgstr "Zinssatz:"
 
 #:
 msgctxt "loan_contract_total_interest"
@@ -4274,27 +4274,27 @@ msgstr "Optionen"
 #v1.10.16
 msgctxt "map_hillshade_pos"
 msgid "Hillshading:"
-msgstr "Sombras:"
+msgstr "Schattierung:"
 
 #v1.10.16
 msgctxt "map_hillshade_pos_0"
 msgid "Under ground"
-msgstr "Bajo el suelo"
+msgstr "Unterirdisch"
 
 #v1.10.16
 msgctxt "map_hillshade_pos_1"
 msgid "Over ground"
-msgstr "Sobre el suelo"
+msgstr "Oberirdisch"
 
 #v1.10.16
 msgctxt "map_land_alpha"
 msgid "Land background mix:"
-msgstr "Land background mix:"
+msgstr "Land-Hintergrund-Mix:"
 
 #v1.10.16
 msgctxt "map_land_hsv_sat"
 msgid "Land HSV saturation:"
-msgstr "Land HSV saturation:"
+msgstr "Land HSV-Sättigung:"
 
 #:
 msgctxt "map_names_eng"
@@ -4309,47 +4309,47 @@ msgstr "Original / nicht übersetzen"
 #:
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Priorität der Namen auf der Karte"
+msgstr "Namenspriorität:"
 
 #v1.10.16
 msgctxt "map_option_font"
 msgid "Label font size:"
-msgstr "Tamaño fuente:"
+msgstr "Beschriftungsgröße:"
 
 #v1.10.16
 msgctxt "map_option_font_0"
 msgid "Small"
-msgstr "Pequeño"
+msgstr "Klein"
 
 #v1.10.16
 msgctxt "map_option_font_1"
 msgid "Default"
-msgstr "Por defecto"
+msgstr "Standard"
 
 #v1.10.16
 msgctxt "map_option_font_2"
 msgid "Big"
-msgstr "Grande"
+msgstr "Groß"
 
 #v1.10.16
 msgctxt "map_option_font_3"
 msgid "Huge"
-msgstr "Enorme"
+msgstr "Riesig"
 
 #v1.10.16
 msgctxt "map_show_land_tex_max_zoom"
 msgid "Show land texture at max zoom"
-msgstr "Mostrar terreno en zoom máximo"
+msgstr "Landtextur bei großem Zoom anzeigen"
 
 #v1.10.16
 msgctxt "map_style_mods"
 msgid "Map style mods"
-msgstr "Mods de estilo de mapa"
+msgstr "Kartenstil Mod"
 
 #v1.10.16
 msgctxt "map_style_show_in_panel"
 msgid "Show in map options panel"
-msgstr "Mostrar en panel de opciones de mapa"
+msgstr "In den Kartenoptionen anzeigen"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -4504,12 +4504,12 @@ msgstr "Entwürfe"
 #v1.10.16
 msgctxt "mod_less_prio"
 msgid "Less priority"
-msgstr "Menos prioridad"
+msgstr "Kleinere Priorität"
 
 #v1.10.16
 msgctxt "mod_more_prio"
 msgid "More priority"
-msgstr "Mas prioridad"
+msgstr "Höhere Priorität"
 
 #v1.1.31
 msgctxt "mod_name"
@@ -4539,12 +4539,12 @@ msgstr "Abonniere neue Modifikationen im Workshop"
 #v1.12.11
 msgctxt "mod_poi_layer_options_title"
 msgid "Mod POI layer options"
-msgstr "Opciones capas de PDI"
+msgstr "POI-Ebenen-Optionen ändern"
 
 #v1.7.15
 msgctxt "mod_remove_all_orphaned"
 msgid "Remove all orphaned and unused rules"
-msgstr "Entfernen Sie alle verwaisten und unbenutzten Regeln"
+msgstr "Entferne alle verwaisten und unbenutzten Regeln"
 
 #v1.1.31
 msgctxt "mod_source"
@@ -4574,7 +4574,7 @@ msgstr "Alle fehlenden Mods abonnieren"
 #:
 msgctxt "mod_uploader_busy"
 msgid "Uploading mod..."
-msgstr "Modifikation wird Hochgeladen..."
+msgstr "Modifikation wird hochgeladen..."
 
 #:
 msgctxt "mod_uploader_info"
@@ -4609,7 +4609,7 @@ msgstr "Neue Modifikation"
 #:
 msgctxt "mod_uploader_not_in_game"
 msgid "The mod uploader cannot be used with a loaded game."
-msgstr "Der Modifikations-Uploader kann nicht während einem geladenen Spiel verwendet werden. Bitte in das Hauptmenü zurückkehren."
+msgstr "Der Modifikations-Uploader kann nicht während eines geladenen Spiels verwendet werden. Bitte in das Hauptmenü zurückkehren."
 
 #:
 msgctxt "mod_uploader_update_mod"
@@ -4634,7 +4634,7 @@ msgstr "Regionsschicht"
 #v1.3.13
 msgctxt "mode_map_population"
 msgid "Population layer"
-msgstr "Befölkerungsschicht"
+msgstr "Bevölkerungsschicht"
 
 #v1.2.22
 msgctxt "mode_map_tracks"
@@ -4784,7 +4784,7 @@ msgstr "Sep."
 #v1.1.37
 msgctxt "motd"
 msgid "Host message"
-msgstr "Host-Nachrict"
+msgstr "Host-Nachricht"
 
 #v1.1.37
 msgctxt "motd_desc"
@@ -4849,7 +4849,7 @@ msgstr "Beitritt anfordern"
 #:
 msgctxt "mp_client_info"
 msgid "Server information"
-msgstr "Serverinformation"
+msgstr "Serverinformationen"
 
 #:
 msgctxt "mp_host_label"
@@ -4894,32 +4894,32 @@ msgstr "Stream-Statistiken (Hoster UI)"
 #v1.12.11
 msgctxt "mplo_default_demand"
 msgid "<Controlled by the mod>"
-msgstr "<Controlado por el mod>"
+msgstr "<Kontrolliert von einer Mod>"
 
 #v1.12.11
 msgctxt "mplo_demand_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Nachfragekurve:"
 
 #v1.12.11
 msgctxt "mplo_hidden"
 msgid "Hidden"
-msgstr "Oculto"
+msgstr "Versteckt"
 
 #v1.12.11
 msgctxt "mplo_icons_only"
 msgid "Icons only"
-msgstr "Solo iconos"
+msgstr "Nur Symbole"
 
 #v1.12.11
 msgctxt "mplo_labels_and_icons"
 msgid "Labels and icons"
-msgstr "Texto e iconos"
+msgstr "Beschriftungen und Symbole"
 
 #v1.12.11
 msgctxt "mplo_map_vis"
 msgid "Map display:"
-msgstr "Mostrar en mapa:"
+msgstr "Kartendarstellung:"
 
 #:
 msgctxt "msaa_mode"
@@ -4954,12 +4954,12 @@ msgstr "Mehrspieler"
 #v1.10.16
 msgctxt "mvo_toggle_map_style_mods"
 msgid "Map style mods:"
-msgstr "Mods de estilo:"
+msgstr "Kartenstil-Mods:"
 
 #v1.10.16
 msgctxt "mvo_track_editor_always_on_top"
 msgid "Track editor always on top"
-msgstr "Editor siempre encima"
+msgstr "Gleis-Editor immer im Vordergrund"
 
 #v1.4.15
 msgctxt "mvo_user_labels"
@@ -4999,7 +4999,7 @@ msgstr "Kartenbeschriftungen"
 #v1.4.15
 msgctxt "mvo_user_platform_names"
 msgid "Platform names"
-msgstr "Platformnamen"
+msgstr "Stationsgleisnamen"
 
 #v1.2.22
 msgctxt "mvo_user_signals"
@@ -5024,12 +5024,12 @@ msgstr "Stationsnamen"
 #v1.10.16
 msgctxt "mvo_user_track_depth"
 msgid "Map over track layers"
-msgstr "Mapa sobre las vías"
+msgstr "Karte über Gleisebenen"
 
 #v1.10.16
 msgctxt "mvo_user_track_depth_bridge"
 msgid "Map bridges over track layers"
-msgstr "Puentes del mapa sobre vías"
+msgstr "Kartenbrücken über Gleisebenen"
 
 #v1.1.37
 msgctxt "mvo_user_train_counters"
@@ -5139,27 +5139,27 @@ msgstr "Buchhaltung exportieren"
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s"
 msgid "Accounting time shift:"
-msgstr "Tiempo contable:"
+msgstr "Zeitversatz der Abrechnungszeit:"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change"
 msgid "Change accounting day shift time"
-msgstr "Cambiar inicio de tiempo contable"
+msgstr "Beginn der Abrechnungszeit ändern"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change_desc"
 msgid "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
-msgstr "La contabilidad del día actual se perderá o será incorrecta. Hay que esperar 24h hasta que se corrija la contabilidad. Es posible que se pierda alguna contabilidad. La contabilidad histórica no será corregida. Esta opción solo se aplica desde el momento en que se activa. Estás seguro?"
+msgstr "Abrechnungen des aktuellen Tages gehen verloren / sind falsch. Nach 24 Stunden werden die Abrechnungen wieder passen. Einige historische Abrechnungen können verloren gehen. Keine historischen Abrechungen werden verschoben. Diese Einstellung gilt erst ab dem Zeitpunkt, an dem sie geändert wird. Bist du sicher?"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_change_yes"
 msgid "Change time"
-msgstr "Cambiar tiempo"
+msgstr "Ändere Zeit"
 
 #v1.11.14
 msgctxt "option_company_acc_utc0_offset_s_desc"
 msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
-msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
+msgstr "Format: (-)hh:mm:ss\nDer neue Tag in der Abrechnung beginnt zu dieser verschobenen Zeit relativ zu UTC0"
 
 #v1.12.11
 msgctxt "option_company_demand"
@@ -5169,7 +5169,7 @@ msgstr "Globaler Nachfrage-Faktor:"
 #v1.12.11
 msgctxt "option_company_demand_editor"
 msgid "Demand curve editor"
-msgstr "Editar curvas de demanda"
+msgstr "Nachfragekurven-Editor"
 
 #v1.7.15
 msgctxt "option_company_geo_export"
@@ -5179,7 +5179,7 @@ msgstr "Exportieren von GeoJSON"
 #v1.12.11
 msgctxt "option_company_mod_poi_layer_editor"
 msgid "Mod POI layer options"
-msgstr "Opciones mods de PDI"
+msgstr "POI-Ebenen-Optionen ändern"
 
 #v1.1.31
 msgctxt "option_company_name"
@@ -5189,42 +5189,42 @@ msgstr "Name der Firma:"
 #v1.5.31
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "Paralleler abstand von neuen Gleisen:"
+msgstr "Par. Versatz neuer Gleise:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias"
 msgid "Pax pathfind bias:"
-msgstr "Bias de pax pathfind:"
+msgstr "Pfadfindungsverzerrung:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias_less"
 msgid "Better paths"
-msgstr "Mejor recorrido"
+msgstr "Bessere Pfade"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias_more"
 msgid "Faster sim"
-msgstr "Mas rendimiento"
+msgstr "Schnellere Simulation"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_pick"
 msgid "Pax spawn station:"
-msgstr "Estación origen pax:"
+msgstr "Herkunftsbahnhof:"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_random"
 msgid "Random"
-msgstr "Aleatoria"
+msgstr "Zufällig"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_shortest_walk"
 msgid "Shortest walk"
-msgstr "Menor caminada"
+msgstr "Kürzester Gang"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
 msgid "Shortest walk, best path"
-msgstr "Menor caminada, mejor ruta"
+msgstr "Kürzester Gang, bester Pfad"
 
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
@@ -5239,27 +5239,27 @@ msgstr "Wechsel zu unbeschränktem Kuppeln"
 #v1.11.14
 msgctxt "option_company_time_zones"
 msgid "Map time zones:"
-msgstr "Zonas horarias:"
+msgstr "Kartenzeitzonen:"
 
 #v1.11.14
 msgctxt "option_company_time_zones_approximate"
 msgid "Approximate"
-msgstr "Aproximadas"
+msgstr "Annäherung"
 
 #v1.11.14
 msgctxt "option_company_time_zones_change"
 msgid "Change map time zones mode"
-msgstr "Cambiar modo de zona horaria"
+msgstr "Ändern des Zeitzonenmodus der Karte"
 
 #v1.11.14
 msgctxt "option_company_time_zones_simplified"
 msgid "Simplified"
-msgstr "Simplificadas"
+msgstr "Simplifiziert"
 
 #v1.11.14
 msgctxt "option_company_time_zones_zero"
 msgid "Always 0"
-msgstr "Siempre 0"
+msgstr "Immer 0"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -5269,7 +5269,7 @@ msgstr "Unbegrenztes Geld"
 #v1.7.15
 msgctxt "option_no_couplers"
 msgid "Unrestricted coupling"
-msgstr "Unbeschränktem Kuppeln"
+msgstr "Unbeschränktes Kuppeln"
 
 #v1.1.31
 msgctxt "options"
@@ -5279,12 +5279,12 @@ msgstr "Optionen"
 #v1.10.16
 msgctxt "options_alerts"
 msgid "Alerts"
-msgstr "Alertas"
+msgstr "Warnungen"
 
 #v1.10.16
 msgctxt "options_autosave"
 msgid "Autosave"
-msgstr "Autoguardar"
+msgstr "Autospeicherung"
 
 #v1.1.31
 msgctxt "options_graphics"
@@ -5294,7 +5294,7 @@ msgstr "Grafik"
 #v1.10.16
 msgctxt "options_interface"
 msgid "Interface"
-msgstr "Interfaz"
+msgstr "Interface"
 
 #v1.2.22
 msgctxt "options_keybinds"
@@ -5304,7 +5304,7 @@ msgstr "Tastenbelegung"
 #v1.10.16
 msgctxt "options_map"
 msgid "Map"
-msgstr "Mapa"
+msgstr "Karte"
 
 #:
 msgctxt "options_mods_upload"
@@ -5314,7 +5314,7 @@ msgstr "Uploader"
 #v1.11.14
 msgctxt "options_performance"
 msgid "Performance"
-msgstr "Rendimiento"
+msgstr "Leistung"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
@@ -5334,7 +5334,7 @@ msgstr "Die Zeit reicht nicht aus, um Pfade zwischen diesem Auftrag und dem näc
 #v1.5.41
 msgctxt "order_error_two_arrival_by"
 msgid "Arrive No Later orders cannot appear one after the other"
-msgstr "Nicht später eintreffen Aufträge können nicht nacheinander erscheinen"
+msgstr "Nicht-später-eintreffen Aufträge können nicht nacheinander erscheinen"
 
 #v1.5.31
 msgctxt "order_invalid_line"
@@ -5349,7 +5349,7 @@ msgstr "Quartal"
 #v1.10.16
 msgctxt "osm_admin_level_11"
 msgid "Neighborhood"
-msgstr "Vecindario"
+msgstr "Nachbarschaft"
 
 #:
 msgctxt "osm_admin_level_2"
@@ -5389,7 +5389,7 @@ msgstr "Stadt"
 #:
 msgctxt "osm_admin_level_9"
 msgid "Ward"
-msgstr "Bezierk"
+msgstr "Bezirk"
 
 #v1.1.31
 msgctxt "overpass_n_0"
@@ -5469,7 +5469,7 @@ msgstr " Auf die Abfahrt von {0} [{1}]"
 #v1.5.31
 msgctxt "path_not_found_trip"
 msgid "Path not found between {0} and {1}"
-msgstr "Kein weg zwischen {0} und {1} Gefunden"
+msgstr "Kein Weg zwischen {0} und {1} gefunden"
 
 #v1.1.58
 msgctxt "path_pax_train_warn"
@@ -5479,7 +5479,7 @@ msgstr "Der Pfad beginnt am nächsten Halt des Fahrgastes"
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr "Veraltete Daten erkannt. Diese Passage wird ignorieren"
+msgstr "Veraltete Daten erkannt. Diese Passage wird ignoriert"
 
 #v1.5.31
 msgctxt "pax_new_time"
@@ -5494,17 +5494,17 @@ msgstr "Passagiere"
 #v1.12.11
 msgctxt "pax_total_demand"
 msgid "Total: {0}"
-msgstr "Total: {0}"
+msgstr "Gesamt: {0}"
 
 #v1.12.11
 msgctxt "pax_total_demand_as_destination"
 msgid "As destination: {0}"
-msgstr "Como destino: {0}"
+msgstr "Als Reiseziel: {0}"
 
 #v1.12.11
 msgctxt "pax_total_demand_as_origin"
 msgid "As origin: {0}"
-msgstr "Como origen: {0}"
+msgstr "Als Herkunft: {0}"
 
 #v1.1.31
 msgctxt "paxlist_groupby_dest"
@@ -5559,37 +5559,37 @@ msgstr "Warten auf Fahrgäste..."
 #v1.11.14
 msgctxt "perf_bg_fps"
 msgid "Background UI FPS:"
-msgstr "FPS UI de fondo:"
+msgstr "Hintergrund UI FPS:"
 
 #v1.11.14
 msgctxt "perf_fg_fps"
 msgid "Foreground UI FPS:"
-msgstr "FPS UI activo:"
+msgstr "Vordergrund UI FPS:"
 
 #v1.11.14
 msgctxt "perf_fps_limited"
 msgid "Manual limit"
-msgstr "Límite manual"
+msgstr "Manuelle Begrenzung"
 
 #v1.11.14
 msgctxt "perf_fps_unlimited"
 msgid "Unlimited"
-msgstr "Ilimitado"
+msgstr "Unlimitiert"
 
 #v1.11.14
 msgctxt "perf_fps_vsync"
 msgid "Limited by VSync"
-msgstr "Limitado por VSync"
+msgstr "Limitiert durch VSync"
 
 #v1.11.14
 msgctxt "perf_linenet_threads"
 msgid "Timetable CPU threads:"
-msgstr "Threads CPU horarios:"
+msgstr "Fahrplan CPU-Threads:"
 
 #v1.11.14
 msgctxt "perf_sim_threads"
 msgid "Sim CPU threads:"
-msgstr "Threads CPU simulación:"
+msgstr "Simulations CPU-Threads:"
 
 #v1.5.31
 msgctxt "pick"
@@ -5639,7 +5639,7 @@ msgstr "Tags"
 #v1.2.22
 msgctxt "plat_auto_direction"
 msgid "Auto append direction signals"
-msgstr "Automatische Hinzufügung einzelner Richtungssignale"
+msgstr "Automatische Hinzufügung von Richtungssignalen"
 
 #v1.4.15
 msgctxt "plat_buildings_base"
@@ -5659,27 +5659,27 @@ msgstr "Gebogene Gleise und Gebäude"
 #v1.1.31
 msgctxt "platform_n"
 msgid "Platform "
-msgstr "Platform "
+msgstr "Stationsgleis "
 
 #v1.1.58
 msgctxt "platforms"
 msgid "Platforms"
-msgstr "Platformen"
+msgstr "Stationsgleise"
 
 #v1.4.15
 msgctxt "plats_n_0"
 msgid "0 platforms"
-msgstr "0 Platformen"
+msgstr "0 Stationsgleise"
 
 #v1.4.15
 msgctxt "plats_n_1"
 msgid "1 platform"
-msgstr "1 Platform"
+msgstr "1 Stationsgleis"
 
 #v1.4.15
 msgctxt "plats_n_many"
 msgid "%d platforms"
-msgstr "%d Platformen"
+msgstr "%d Stationsgleise"
 
 #v1.5.41
 msgctxt "plats_show_conflicts"
@@ -5689,7 +5689,7 @@ msgstr "Überschneidende Haltestellen hervorheben"
 #v1.5.41
 msgctxt "plats_stacked_lines"
 msgid "Single column per platform"
-msgstr "Eine Spalte pro Platform"
+msgstr "Eine Spalte pro Stationsgleis"
 
 #v1.3.13
 msgctxt "plots_button_tp"
@@ -5699,62 +5699,62 @@ msgstr "Öffne das Diagrammfenster"
 #v1.12.11
 msgctxt "poi_instance_editor"
 msgid "Point of interest properties"
-msgstr "Propiedades punto de interés"
+msgstr "Eigenschaften von Interessenspunkten"
 
 #v1.12.11
 msgctxt "poi_instance_editor_new"
 msgid "New point of interest properties"
-msgstr "Propiedades de nuevo punto de interés"
+msgstr "Eigenschaften von neuen Interessenspunkten"
 
 #v1.10.16
 msgctxt "poi_settlement_0"
 msgid "Capital"
-msgstr "Capital"
+msgstr "Hauptstadt"
 
 #v1.10.16
 msgctxt "poi_settlement_1"
 msgid "City"
-msgstr "Ciudad"
+msgstr "Stadt"
 
 #v1.10.16
 msgctxt "poi_settlement_2"
 msgid "Town"
-msgstr "Pueblo"
+msgstr "Stadt"
 
 #v1.10.16
 msgctxt "poi_settlement_3"
 msgid "Suburb"
-msgstr "Suburbio"
+msgstr "Vorort"
 
 #v1.10.16
 msgctxt "poi_settlement_4"
 msgid "Quarter"
-msgstr "Barrio"
+msgstr "Stadtviertel"
 
 #v1.10.16
 msgctxt "poi_settlement_5"
 msgid "Neighbourhood"
-msgstr "Vecindario"
+msgstr "Nachbarschaft"
 
 #v1.10.16
 msgctxt "poi_settlement_6"
 msgid "Village"
-msgstr "Aldea"
+msgstr "Dorf"
 
 #v1.10.16
 msgctxt "poi_settlement_7"
 msgid "Hamlet"
-msgstr "Aldea"
+msgstr "Weiler"
 
 #v1.10.16
 msgctxt "poi_settlement_8"
 msgid "Dwelling"
-msgstr "Vivienda"
+msgstr "Behausung"
 
 #v1.10.16
 msgctxt "poi_settlement_9"
 msgid "Farm"
-msgstr "Granja"
+msgstr "Bauernhof"
 
 #v1.1.31
 msgctxt "pop_reach"
@@ -5889,7 +5889,7 @@ msgstr "Firma und Buchhaltung"
 #v1.7.15
 msgctxt "right_bar_like"
 msgid "Like this shared save"
-msgstr "Diesen freigegebenen Speicherstand mit Gefällt-mir markieren"
+msgstr "Diesen freigegebenen Speicherstand mit Gefällt mir markieren"
 
 #v1.1.37
 msgctxt "right_bar_main"
@@ -5939,17 +5939,17 @@ msgstr "Verbleibende Etappendistanz"
 #v1.5.31
 msgctxt "rtstat_leg_s"
 msgid "Time to scheduled arrival"
-msgstr "Zeit zum geplanten ankommen"
+msgstr "Zeit bis zu geplanter Ankunft"
 
 #v1.1.72
 msgctxt "rtstat_pax_avg_leg_time"
 msgid "Avg. leg time of contained pax"
-msgstr "Durchscnhittliche Etappenzeit der enthaltenden Fahrgäste"
+msgstr "Durchschn. Etappenzeit enthaltener Fahrgäste"
 
 #v1.1.72
 msgctxt "rtstat_pax_avg_time"
 msgid "Avg. total time of contained pax"
-msgstr "Durchschnittliche Gesamtzeit der enthaltenden Fahrgäste"
+msgstr "Durchschn. Gesamtzeit enthaltener Fahrgäste"
 
 #v1.1.72
 msgctxt "rtstat_pax_capacity"
@@ -6154,7 +6154,7 @@ msgstr "Verkaufe Alle"
 #v1.11.14
 msgctxt "setting_game_speed"
 msgid "Speed setting: {}x"
-msgstr "Velocidad: {}x"
+msgstr "Geschwindigkeitseinstellung: {}x"
 
 #v1.1.31
 msgctxt "settings"
@@ -6239,7 +6239,7 @@ msgstr "Öffne den Spiellink in einem Webbrowser"
 #v1.7.15
 msgctxt "share_game_own_likes"
 msgid "Likes:"
-msgstr "Gefällt-mir:"
+msgstr "Gefällt mir:"
 
 #v1.7.15
 msgctxt "share_game_replace"
@@ -6309,17 +6309,17 @@ msgstr "Gespeicherte Clips in der Zwischenablage anzeigen"
 #v1.12.11
 msgctxt "sign_instance_editor"
 msgid "Sign properties"
-msgstr "Propiedades signo"
+msgstr "Schildeigenschaften"
 
 #v1.12.11
 msgctxt "sign_instance_editor_new"
 msgid "New sign properties"
-msgstr "Propiedades nuevo signo"
+msgstr "Eigenschaften neuer Schilder"
 
 #v1.3.13
 msgctxt "signal_alert_opt_custom"
 msgid "Custom wait time"
-msgstr "Benutzerdefiniertewartedauer"
+msgstr "Benutzerdefinierte Wartedauer"
 
 #v1.3.13
 msgctxt "signal_alert_opt_default"
@@ -6359,7 +6359,7 @@ msgstr "Richtung:"
 #v1.4.15
 msgctxt "signal_edit_invalid_track"
 msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
-msgstr "Dieses Signal funktioniert noch, aber ist auf dieser art Gleis seit Version 1.4. nicht mehr erlaubt. Einige Zugmanöver können auf diesem Gleis deaktiviert sein. Bewege es zu einem anderem Gleis."
+msgstr "Dieses Signal funktioniert noch, aber ist auf dieser Art Gleis seit Version 1.4. nicht mehr erlaubt. Einige Zugmanöver können auf diesem Gleis deaktiviert sein. Bewege es zu einem anderem Gleis."
 
 #v1.4.15
 msgctxt "signal_edit_plat_stop_obsolete"
@@ -6384,7 +6384,7 @@ msgstr "Neues Signal"
 #v1.3.13
 msgctxt "signal_filter_applies"
 msgid "Applies to all trains"
-msgstr "Zählt für alle züge"
+msgstr "Zählt für alle Züge"
 
 #v1.3.13
 msgctxt "signal_filter_except"
@@ -6399,7 +6399,7 @@ msgstr "Ignoriert von allen Zügen"
 #v1.3.13
 msgctxt "signal_filter_label"
 msgid "By default:"
-msgstr "Standartmäßig:"
+msgstr "Standardmäßig:"
 
 #v1.3.13
 msgctxt "signal_filter_none"
@@ -6434,7 +6434,7 @@ msgstr "Einweg"
 #v1.2.22
 msgctxt "signal_kind_name_platform_stop"
 msgid "Platform train stop point"
-msgstr "Haltepunkt am Bahnsteig"
+msgstr "Haltepunkt am Stationsgleis"
 
 #v1.2.22
 msgctxt "signal_kind_path"
@@ -6459,7 +6459,7 @@ msgstr "Immer"
 #v1.2.22
 msgctxt "signal_limits_block_same"
 msgid "Only for same direction"
-msgstr "Nur in gleicher richtung"
+msgstr "Nur in gleicher Richtung"
 
 #v1.2.22
 msgctxt "signal_side"
@@ -6509,7 +6509,7 @@ msgstr "Ignoriert"
 #v1.8.24
 msgctxt "signal_warn_ignored_plat_desc"
 msgid "One way signals at platform dead ends are ignored"
-msgstr "Einwegsignale an Bahnsteigsackgassen werden Ignoriert"
+msgstr "Einwegsignale an Bahnsteigssackgassen werden ignoriert"
 
 #v1.8.24
 msgctxt "signal_warn_max_length_desc"
@@ -6524,7 +6524,7 @@ msgstr "Zu nah"
 #v1.8.24
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "Diese Signalposition auf dem Gleis ist zu nah zu einem anderen Gleis. Bewege es weg von übereinanderliegenden Gleisen."
+msgstr "Diese Signalposition auf dem Gleis ist zu nah an einem anderen Gleis. Bewege es weg von übereinanderliegenden Gleisen."
 
 #v1.1.31
 msgctxt "single_player"
@@ -6549,7 +6549,7 @@ msgstr "Veralteter Lauf "
 #v1.5.31
 msgctxt "stale_run_tooltip"
 msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "Die Aufträge für diesen Zug haben sich geändert. Am ende von dem aktuellem Auftrag wird der Zug mit den neuen Aufträgen wiedererscheinen.\nFahrgäste werden Automatisch zu ihrem nächstem Halt gebracht."
+msgstr "Die Aufträge für diesen Zug haben sich geändert. Am Ende des aktuellen Auftrages wird er mit den neuen Aufträgen wiedererscheinen.\nFahrgäste werden automatisch zu ihrem nächstem Halt gebracht."
 
 #v1.1.31
 msgctxt "start_game"
@@ -6559,17 +6559,17 @@ msgstr "Spiel starten"
 #v1.12.11
 msgctxt "station_demand_aggregate"
 msgid "Aggregate"
-msgstr "Agregar"
+msgstr "Angesammelt"
 
 #v1.12.11
 msgctxt "station_demand_aggregated_started_at"
 msgid "Started at {}"
-msgstr "Empezando en {}"
+msgstr "Gestartet am {}"
 
 #v1.12.11
 msgctxt "station_demand_realtime"
 msgid "Realtime"
-msgstr "Tiempo real"
+msgstr "Echtzeit"
 
 #v1.2.22
 msgctxt "station_editor"
@@ -6579,7 +6579,7 @@ msgstr "Stationseigenschaften"
 #v1.12.11
 msgctxt "station_infowin_demand"
 msgid "Ridership"
-msgstr "Ocupación"
+msgstr "Fahrgastzahlen"
 
 #v1.5.31
 msgctxt "station_label_mode"
@@ -6629,12 +6629,12 @@ msgstr "Automatischen Namen verwenden"
 #v1.4.15
 msgctxt "station_platform_auto_name"
 msgid "Platform auto name"
-msgstr "Automatischen namen von Platformen verwenden"
+msgstr "Automatische Namen für Platformen verwenden"
 
 #v1.6.13
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
-msgstr "Platform zu normalem Gleis zurückstufen"
+msgstr "Stationsgleis zu normalem Gleis zurückstufen"
 
 #v1.9.17
 msgctxt "station_platform_promote"
@@ -6644,22 +6644,22 @@ msgstr "Gleis zu Stationsgleis befördern"
 #v1.10.16
 msgctxt "station_platform_set_name_all"
 msgid "All"
-msgstr "Todas"
+msgstr "Alle"
 
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
-msgstr "Platformname:"
+msgstr "Gleisname:"
 
 #v1.12.11
 msgctxt "station_rt_demand_dest"
 msgid "As destination"
-msgstr "Como destino"
+msgstr "Als Ziel"
 
 #v1.12.11
 msgctxt "station_rt_demand_origin"
 msgid "As origin"
-msgstr "Como origen"
+msgstr "Als Herkunft"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -6724,12 +6724,12 @@ msgstr "Abfahrt Haltestelle {}"
 #v1.8.24
 msgctxt "stop_times_tp_leg"
 msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
-msgstr "Haltepunkt {0} ▶ {1} Etappenzeit"
+msgstr "Haltepunkt {0} \xE2\x96\xB6 {1} Etappenzeit"
 
 #v1.7.15
 msgctxt "stop_times_tp_wait"
 msgid "Stop {} wait time"
-msgstr "Halt and Haltestelle {}"
+msgstr "Wartezeit an Haltestelle {}"
 
 #v1.1.31
 msgctxt "stops_n_0"
@@ -6744,7 +6744,7 @@ msgstr "1 Haltestelle"
 #:
 msgctxt "stops_n_many"
 msgid "%d stops"
-msgstr "%d Haltepuntke"
+msgstr "%d Haltepunkte"
 
 #:
 msgctxt "strangers"
@@ -6829,7 +6829,7 @@ msgstr "Pendler"
 #v1.1.58
 msgctxt "tag_compartments"
 msgid "Compartments"
-msgstr "Abteilungswagen"
+msgstr "Abteilwagen"
 
 #v1.7.15
 msgctxt "tag_couchette"
@@ -6929,7 +6929,7 @@ msgstr "Küche"
 #v1.1.58
 msgctxt "tag_light_rail"
 msgid "Light rail"
-msgstr "Leichtbahn"
+msgstr "Light rail"
 
 #v1.1.58
 msgctxt "tag_linear_induction"
@@ -6979,7 +6979,7 @@ msgstr "Triebzug"
 #v1.1.58
 msgctxt "tag_narrow"
 msgid "Narrow"
-msgstr "Schmal"
+msgstr "Schmalspur"
 
 #v1.3.13
 msgctxt "tag_new"
@@ -7119,7 +7119,7 @@ msgstr "Spurweite"
 #v1.7.15
 msgctxt "tags_interior"
 msgid "Interior"
-msgstr "innenbereich"
+msgstr "Innenbereich"
 
 #v1.1.58
 msgctxt "tags_misc"
@@ -7174,7 +7174,7 @@ msgstr "Zu Lang"
 #v1.8.24
 msgctxt "teo.append_continous"
 msgid "Continously append track segments until pressing Esc or merging/linking the track"
-msgstr "Kontinuierliches Anhängen von Gleissegmenten bis zum drücken von Esc oder zusammenführen/verknüpfen von Gleisen"
+msgstr "Kontinuierliches Anhängen von Gleissegmenten bis zum Drücken von Esc oder Zusammenführen/Verknüpfen von Gleisen"
 
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
@@ -7234,7 +7234,7 @@ msgstr "Woche"
 #v1.10.16
 msgctxt "timing_lines_n"
 msgid "Timing line legs, {} to go"
-msgstr "Cronometrando líneas, {} pendientes"
+msgstr "Abstimmung von Linienabschnitten, {} verbleibend"
 
 #v1.1.31
 msgctxt "title"
@@ -7279,7 +7279,7 @@ msgstr "Ebene:"
 #v1.2.29
 msgctxt "track_info_max_speed"
 msgid "Max speed:"
-msgstr "Maximale Geschwindigkeit:"
+msgstr "Max. Geschwindigkeit:"
 
 #v1.2.29
 msgctxt "track_info_multi"
@@ -7334,17 +7334,17 @@ msgstr "Preis"
 #v1.2.29
 msgctxt "track_sort_speed"
 msgid "Max. speed"
-msgstr "Maximale Geschwindigkeit"
+msgstr "Max. Geschwindigkeit"
 
 #v1.10.16
 msgctxt "trackeditor_clickable_tracks"
 msgid "Clickable tracks"
-msgstr "Vías clickables"
+msgstr "Anklickbare Gleise"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
-msgstr "Kontrollpunkte bei niedrigem Zoom ausblenden"
+msgstr "Kontrollpunkte bei wenig Zoom ausblenden"
 
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
@@ -7504,7 +7504,7 @@ msgstr "Standard Folierungsfarbe:"
 #v1.7.15
 msgctxt "train_decal_edit"
 msgid "Change all decals:"
-msgstr "Ändere alle Folierung:"
+msgstr "Ändere alle Folierungen:"
 
 #:
 msgctxt "train_decal_pick_edit"
@@ -7539,7 +7539,7 @@ msgstr "Gesperrt von der Modifikation"
 #v1.5.31
 msgctxt "train_editor_basics"
 msgid "Basics"
-msgstr "Grundlegenes"
+msgstr "Grundlagen"
 
 #v1.5.31
 msgctxt "train_editor_group"
@@ -7774,17 +7774,17 @@ msgstr "$ {} pro Tag"
 #:
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
-msgstr "Masse / Leer:"
+msgstr "Masse / leer:"
 
 #v1.8.24
 msgctxt "train_info_max_accel"
 msgid "Max acceleration:"
-msgstr "Maximale Beschleunigung:"
+msgstr "Max. Beschleunigung:"
 
 #v1.8.24
 msgctxt "train_info_max_accel_v"
 msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
-msgstr "{0:.2f} m/s², Bremse {1:.2f} m/s² bis {2:.2f} m/s²"
+msgstr "{0:.2f} ms², Bremse {1:.2f} ms² bis {2:.2f} ms²"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
@@ -7794,17 +7794,17 @@ msgstr "Maximale Fahrgäste:"
 #:
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "Maximale Geschwindigkeit:"
+msgstr "Max. Geschwindigkeit:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
 msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
-msgstr "Pfadfind-Sonde vom Zug zur Mausposition\nKlicken für feste Mausposition"
+msgstr "Pfadfindung vom Zug zur Mausposition\nKlicken für feste Mausposition"
 
 #v1.6.13
 msgctxt "train_info_path_probe_dest"
 msgid "Pathfind probe from train to its current destination"
-msgstr "Pfadfind-Sonde vom Zug zu seinem aktuellem Ziel"
+msgstr "Pfadfindung vom Zug zu seinem aktuellem Ziel"
 
 #v1.1.31
 msgctxt "train_info_pax"
@@ -7819,7 +7819,7 @@ msgstr "Karte zur Position des Zuges scrollen"
 #v1.1.58
 msgctxt "train_info_power"
 msgid "Power:"
-msgstr "Leisung:"
+msgstr "Leistung:"
 
 #v1.1.72
 msgctxt "train_info_price"
@@ -7879,7 +7879,7 @@ msgstr "Keine oder ungültige Anweisung!"
 #:
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr "Es führt kein Pfad zum ausgewählten Ziel!"
+msgstr "Es führt kein Pfad zum Ziel!"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
@@ -7899,7 +7899,7 @@ msgstr "Speichern in:"
 #v1.1.37
 msgctxt "train_info_total_power"
 msgid "Total power:"
-msgstr Gesamtleisung"
+msgstr Gesamtleistung"
 
 #v1.8.24
 msgctxt "train_info_total_power_v"
@@ -7914,7 +7914,7 @@ msgstr "In Gruppe eingreifen"
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
-msgstr "Dieser Eingriff wird den Zug zurücksetzen, damit er seinem aktuellem Auftrag folgen kann. Er wird an seinem nächstem Halt erscheinen und die Fahrgäste werden zu ihrem nächsten halt befördert. Der Preis beträgt ${}."
+msgstr "Dieser Eingriff wird den Zug zurücksetzen, damit er seinem aktuellem Auftrag folgen kann. Er wird an seinem nächstem Halt erscheinen und die Fahrgäste werden zu ihrem nächsten Halt befördert. Der Preis beträgt ${}."
 
 #:
 msgctxt "train_intervention_dialog_title"
@@ -7939,7 +7939,7 @@ msgstr "Nur veraltet"
 #v1.8.24
 msgctxt "train_list_filter_alert_only_waiting_spawn"
 msgid "Only waiting to spawn"
-msgstr "Nur warten auf erscheinen"
+msgstr "Nur warten auf Erscheinen"
 
 #v1.7.15
 msgctxt "train_list_filter_alert_only_warning"
@@ -8039,12 +8039,12 @@ msgstr "Name:"
 #v1.5.31
 msgctxt "train_orders_auto_copy"
 msgid "Auto copy from:"
-msgstr "Automatisches kopieren von:"
+msgstr "Automatisches Kopieren von:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode"
 msgid "Shift:"
-msgstr "Verscheibung:"
+msgstr "Verschiebung:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
@@ -8084,12 +8084,12 @@ msgstr "Aufträge:"
 #v1.5.31
 msgctxt "train_orders_mode_auto_copy"
 msgid "Auto copy manual orders"
-msgstr "Manuelle Aufträge automatisch Kopieren"
+msgstr "Manuelle Aufträge autom.kopieren"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_line"
 msgid "Auto run a line"
-msgstr "Eine Linie automatisch laufen lassen"
+msgstr "Eine Linie automatisch bedienen"
 
 #v1.6.13
 msgctxt "train_orders_mode_ignore"
@@ -8109,7 +8109,7 @@ msgstr "Stillgelegt"
 #v1.5.31
 msgctxt "train_orders_run_short"
 msgid "Run line:"
-msgstr "Linie laufen lassen:"
+msgstr "Linie:"
 
 #v1.7.15
 msgctxt "train_price"
@@ -8199,7 +8199,7 @@ msgstr "Verbleibende Etappe (m)"
 #v1.11.14
 msgctxt "train_rt_pax"
 msgid "Pax"
-msgstr "Pax"
+msgstr "Fahrgäste"
 
 #v1.8.24
 msgctxt "train_rt_speed"
@@ -8259,7 +8259,7 @@ msgstr "Format: (-)hh:mm:ss\nVerschiebe den Start der automatischen Kopierer um 
 #v1.7.15
 msgctxt "traineditor_buy_custom_mode"
 msgid "Purchase custom train"
-msgstr "Benutzerdefiniert Zug kaufen"
+msgstr "Benutzerdefinierten Zug kaufen"
 
 #v1.7.15
 msgctxt "traineditor_buy_tmu_mode"
@@ -8271,10 +8271,10 @@ msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
 msgstr "Auswahl leeren"
 
-#:
-msgctxt "traineditor_delete_all_selected"
-msgid "Delete selected trains"
-msgstr "Ausgewählte Züge löschen"
+#v1.1.37
+msgctxt "traineditor_move_camera"
+msgid "Focus camera when selecting a train"
+msgstr "Fokussiere die Kamera wenn ein Zug ausgewählt ist."
 
 #v1.5.31
 msgctxt "traineditor_order_append"
@@ -8324,12 +8324,12 @@ msgstr "Ende:"
 #v1.5.31
 msgctxt "traineditor_order_exit_last_stop"
 msgid "<Last line stop>"
-msgstr "<Letze Haltestelle>"
+msgstr "<Letzte Haltestelle>"
 
 #v1.5.31
 msgctxt "traineditor_order_loops"
 msgid "Loop until next order"
-msgstr "Wiederholen bis zum nächsten Auftrag"
+msgstr "Wiederhlg. bis neuer Anweisung"
 
 #v1.5.31
 msgctxt "traineditor_order_select_all"
@@ -8389,12 +8389,12 @@ msgstr "Nicht später ankommen als"
 #v1.5.31
 msgctxt "traineditor_order_start_event_departure"
 msgid "Depart exactly at"
-msgstr "Abfahren um genaus"
+msgstr "Abfahren um genau"
 
 #v1.5.41
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr "Setze die Zeit zu dem frühesten Punkt, welcher dem Zug ermöglicht den vorherigen Lauf, ohne extra Wartezeit zu beenden\nIgnoriert ausstehende Änderungen von Wochentag und Startzeit\nBei mehrtägigen Aufträgen wird nur der erste Tag berücksichtigt"
+msgstr "Setze die Zeit zu dem frühesten Punkt, welcher dem Zug ermöglicht den vorherigen Lauf ohne extra Wartezeit zu beenden\nIgnoriert ausstehende Änderungen von Wochentag und Startzeit\nBei mehrtägigen Aufträgen wird nur der erste Tag berücksichtigt"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
@@ -8409,7 +8409,7 @@ msgstr "Um:"
 #v1.11.14
 msgctxt "traineditor_order_start_time_day_on"
 msgid "On:"
-msgstr "Um:"
+msgstr "Zu:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
@@ -8424,12 +8424,12 @@ msgstr "Mit benutzerdefiniertem Zug ersetzen"
 #v1.7.15
 msgctxt "traineditor_replace_tmu_mode"
 msgid "Replacing with preconfigured train"
-msgstr "Mit vorkonfigurierten Zug ersetzen"
+msgstr "Mit vorkonfiguriertem Zug ersetzen"
 
 #v1.11.14
 msgctxt "traineditor_restrict_trains_map"
 msgid "Restrict listing to visible trains on map (approximately)"
-msgstr "Restringir listado a los trenes visibles (aproximadamente)"
+msgstr "Beschränke die Auflistung auf sichtbare Züge auf der Karte (Annäherung)"
 
 #:
 msgctxt "traineditor_select_all"
@@ -8469,17 +8469,17 @@ msgstr "Zeitzonen:"
 #v1.11.14
 msgctxt "traineditor_tz_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "Benutzerdefiniert"
 
 #v1.11.14
 msgctxt "traineditor_tz_custom_input"
 msgid "Custom time zone:"
-msgstr "Zona horaria custom:"
+msgstr "Benutzerdefinierte Zeitzone:"
 
 #v1.11.14
 msgctxt "traineditor_tz_custom_input_desc"
 msgid "Format: (-)hh:mm:ss"
-msgstr "Formato: (-)hh:mm:ss"
+msgstr "Format: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
@@ -8524,7 +8524,7 @@ msgstr "%d Modelle"
 #v1.1.58
 msgctxt "transfers_to"
 msgid "Transfers to {}"
-msgstr "Transfers nach {}"
+msgstr "Transferiert nach {}"
 
 #:
 msgctxt "ugc_error_conn"
@@ -8544,7 +8544,7 @@ msgstr "Fehlende Berechtigungen mit dem aktuellen Benutzerkonto in Steam"
 #:
 msgctxt "ugc_error_timeout"
 msgid "Timeout while connecting with Steam"
-msgstr "Zeitüberschreitung beim herstellen einer Verbindung mit Steam"
+msgstr "Zeitüberschreitung beim Herstellen einer Verbindung mit Steam"
 
 #:
 msgctxt "ugc_some_rule_req"
@@ -8654,7 +8654,7 @@ msgstr "VSync:"
 #v1.12.11
 msgctxt "waiting_at_station"
 msgid "Waiting at station"
-msgstr "Esperando en estación"
+msgstr "Warten am Bahnhof"
 
 #v1.5.31
 msgctxt "waiting_expired"
@@ -8664,7 +8664,7 @@ msgstr "Abgelaufen"
 #v1.10.16
 msgctxt "warn_alpha_renderer1"
 msgid "Experimental renderer! Only use if DirectX 11 crashes often."
-msgstr "Experimental! Utilizar solo en caso de problemas con DirectX 11."
+msgstr "Experimenteller Renderer! Nur verwenden, wenn DirectX 11 häufig abstürzt"
 
 #v1.2.29
 msgctxt "warn_mod_in_use"
