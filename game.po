@@ -1044,7 +1044,7 @@ msgstr "Breite:"
 #v1.4.15
 msgctxt "buildings_total"
 msgid "Buildings total"
-msgstr "Anzahl an Gebäuden"
+msgstr "Fläche der Gebäude"
 
 #v1.9.17
 msgctxt "built_bill"
@@ -1324,7 +1324,7 @@ msgstr "Tauschen"
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Definierte max. Geschw.:"
+msgstr "Max. Geschwindigkeit:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
@@ -1339,7 +1339,7 @@ msgstr "Versatz:"
 #v1.5.31
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Paralleler Vesatz:"
+msgstr "Paralleler Versatz:"
 
 #v1.9.17
 msgctxt "constraint_offset2_add"
@@ -1384,7 +1384,7 @@ msgstr "Einschränkung entfernen"
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Parallele Einschränkungen:"
+msgstr "Parallele Einschränkung:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
@@ -3174,7 +3174,7 @@ msgstr "Gleise: neues Signal"
 #v1.10.16
 msgctxt "kb_track_pick_parent"
 msgid "Tracks: pick par. parent"
-msgstr "Gleise: Übergeordnetes Gleis wählen"
+msgstr "Übergeordnetes Gleis wählen"
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
@@ -5394,17 +5394,17 @@ msgstr "Bezirk"
 #v1.1.31
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
-msgstr "0 Viadukte"
+msgstr "0 Überführungen"
 
 #:
 msgctxt "overpass_n_1"
 msgid "1 overpass"
-msgstr "1 Viadukt"
+msgstr "1 Überführung"
 
 #:
 msgctxt "overpass_n_many"
 msgid "%d overpasses"
-msgstr "%d Viadukte"
+msgstr "%d Überführungen"
 
 #:
 msgctxt "overwrite"
@@ -5854,7 +5854,7 @@ msgstr "Beachte: Der Kreisradius der im Gleiseditor angezeigt wird ist nur eine 
 #v1.9.17
 msgctxt "reset_boundary_tan"
 msgid "Reset boundary to middle point"
-msgstr "Gleisgrenze auf Mittelpunkt zurücksetzen"
+msgstr "Gleisgrenze auf Mittelpkt zurücksetzen"
 
 #v1.9.17
 msgctxt "reset_tangent"
@@ -6629,12 +6629,12 @@ msgstr "Automatischen Namen verwenden"
 #v1.4.15
 msgctxt "station_platform_auto_name"
 msgid "Platform auto name"
-msgstr "Automatische Namen für Platformen verwenden"
+msgstr "Autom. Namen für Stationsgleise"
 
 #v1.6.13
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
-msgstr "Stationsgleis zu normalem Gleis zurückstufen"
+msgstr "Zu normalem Gleis zurückstufen"
 
 #v1.9.17
 msgctxt "station_platform_promote"
@@ -7354,17 +7354,17 @@ msgstr "Tasten im Editor gedrückt halten"
 #v1.9.17
 msgctxt "trackmode_point"
 msgid "Point mode"
-msgstr "Punkt Modus"
+msgstr "Punktmodus"
 
 #v1.9.17
 msgctxt "trackmode_tangent"
 msgid "Tangent mode"
-msgstr "Tangenten Modus"
+msgstr "Tangentenmodus"
 
 #v1.4.15
 msgctxt "tracks_total"
 msgid "Tracks total"
-msgstr "Anzahl der Gleise"
+msgstr "Länge der Gleise"
 
 #v1.3.13
 msgctxt "train_alert_banner"
@@ -7874,7 +7874,7 @@ msgstr "Linie ist geschlossen"
 #v1.1.31
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
-msgstr "Keine oder ungültige Anweisung!"
+msgstr "Keine/ ungültige Anweisung!"
 
 #:
 msgctxt "train_info_status_no_path_to_destination"
@@ -8194,7 +8194,7 @@ msgstr "Vrsl. Verspätung (s)"
 #v1.8.24
 msgctxt "train_rt_leg"
 msgid "Remaining leg (m)"
-msgstr "Verbleibender Weg (m)"
+msgstr "Weg zu Station (m)"
 
 #v1.11.14
 msgctxt "train_rt_pax"
@@ -8204,7 +8204,7 @@ msgstr "Fahrgäste"
 #v1.8.24
 msgctxt "train_rt_speed"
 msgid "Speed (km/h)"
-msgstr "Geschwindigkeit (km/h)"
+msgstr "Geschw. (km/h)"
 
 #v1.5.31
 msgctxt "train_run"
