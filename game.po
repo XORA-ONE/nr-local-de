@@ -54,7 +54,7 @@ msgstr "Neuer Fahrplan"
 #v1.14.24
 msgctxt "new_shift_placeholder"
 msgid "< Create new shift >"
-msgstr "< Neuen Auftrag erstellen >"
+msgstr "< Neue Schicht erstellen >"
 
 #v1.14.24
 msgctxt "no_sched_header"
@@ -69,7 +69,7 @@ msgstr "<Kein Fahrplan>"
 #v1.14.24
 msgctxt "order_error_line_invalid_ref_train"
 msgid "Line has empty or invalid reference train\nAssign a train to a shift running this order, or as autorun, to generate line timings"
-msgstr "Zeile hat leeren oder ungültigen Referenzzug\nWeise einen Zug einer Schicht zu, der in diesem Auftrag oder als Automatische Linie fährt, um Linienzeiten zu erstellen"
+msgstr "Linie hat leeren oder ungültigen Referenzzug\nWeise einen Zug einer Schicht zu, der diesen Auftrag bedient, oder als automatische Linie fährt, um Linienzeiten zu erstellen"
 
 #v1.14.24
 msgctxt "order_group_idx"
@@ -109,7 +109,7 @@ msgstr "Fahrpläne"
 #v1.14.24
 msgctxt "plats_grouped"
 msgid "Assume contiguous track segments are a single platform"
-msgstr "Annehmen, dass mehrere Gleissegmente ein Bahnsteig sind"
+msgstr "Annehmen, dass zusammenhängende Gleissegmente ein Bahnsteig sind"
 
 #v1.14.24
 msgctxt "plats_show_pass_bys"
@@ -204,7 +204,7 @@ msgstr "Aufträge"
 #v1.14.24
 msgctxt "sched_editor_tab_timetable"
 msgid "Timetable"
-msgstr "Fahrpläne"
+msgstr "Fahrplan"
 
 #v1.14.24
 msgctxt "sched_group_interval_n_shifts"
@@ -214,7 +214,7 @@ msgstr "{0}, {1} Schichten"
 #v1.14.24
 msgctxt "sched_list_auto_scheds"
 msgid "Show auto line schedules"
-msgstr "Zeige automatische Fahrpläne"
+msgstr "Zeige automatische Fahrpläne an"
 
 #v1.14.24
 msgctxt "sched_list_filter_alert_short"
@@ -289,7 +289,7 @@ msgstr "Einfügen"
 #v1.14.24
 msgctxt "schededitor_order_list_create"
 msgid "Create new order list\nShift click to clone current order list"
-msgstr "Erstelle neue Aufgabenliste\nDrücke die Umschalttaste (Shift) um die aktuelle Aufgabenliste zu klonen"
+msgstr "Erstelle neue Aufgabenliste\nDrücke [Shift] um die aktuelle Aufgabenliste zu klonen"
 
 #v1.14.24
 msgctxt "schededitor_order_list_delete"
@@ -324,7 +324,7 @@ msgstr "Geschlossen"
 #v1.14.24
 msgctxt "schededitor_service_level_full"
 msgid "Set by lines"
-msgstr "Von der Linie gesetzt"
+msgstr "Durch die Linien gesetzt"
 
 #v1.14.24
 msgctxt "schededitor_shift_edit_no_sel"
@@ -359,7 +359,7 @@ msgstr "Versatz:"
 #v1.14.24
 msgctxt "schededitor_shift_list_insert_time"
 msgid "Format: hh:mm:ss\nTime to add to the start the selected order list."
-msgstr "Format: hh:mm:ss\nZeit, die am Anfang der Auftragsliste hinzugefügt werden soll."
+msgstr "Format: hh:mm:ss\nZeit, die zum Anfang der Auftragsliste addiert werden soll."
 
 #v1.14.24
 msgctxt "schededitor_shift_order_edit_orig"
@@ -444,7 +444,7 @@ msgstr "Klicken um im Fahrplaneditor zu öffnen"
 #v1.14.24
 msgctxt "station_tt_stop_ignored"
 msgid "Ignored by pax"
-msgstr "Ignorierd von Fahrgästen"
+msgstr "Von Fahrgästen ignoriert"
 
 #v1.14.24
 msgctxt "station_tt_stop_info"
@@ -479,7 +479,7 @@ msgstr "Fahrplan ist geschlossen"
 #v1.14.24
 msgctxt "train_list_filter_autorun"
 msgid "Only with line autorun"
-msgstr "Nur mit Automatisch laufenden Linien"
+msgstr "Nur mit automatisch laufenden Linien"
 
 #v1.14.24
 msgctxt "train_list_filter_autorun_short"
@@ -494,7 +494,7 @@ msgstr "Nach Fahrplan gruppieren"
 #v1.14.24
 msgctxt "train_list_filter_by_schedulee_tags"
 msgid "Group by schedule tags"
-msgstr "Nach fahrplantags gruppieren"
+msgstr "Nach Fahrplantags gruppieren"
 
 #v1.14.24
 msgctxt "train_orders_keep_group"
@@ -509,12 +509,12 @@ msgstr "Die Züge werden den vorhandenen, nicht zugewiesenen Schichten zugeordne
 #v1.14.24
 msgctxt "train_orders_mode_link_line_editor"
 msgid "Open line in line editor"
-msgstr "Linie in Linieneditor öffnen"
+msgstr "Linie im Linieneditor öffnen"
 
 #v1.14.24
 msgctxt "train_orders_mode_link_sched_editor"
 msgid "Open shift in schedule editor"
-msgstr "Schicht in Fahrplaneditor öffnen"
+msgstr "Schicht im Fahrplaneditor öffnen"
 
 #v1.14.24
 msgctxt "train_orders_offset_group"
@@ -554,7 +554,7 @@ msgstr "Schicht:"
 #v1.14.24
 msgctxt "traineditor_order_append_stack_action"
 msgid "Append stacked order"
-msgstr "Neuen gestapelten Aufrag erstellen"
+msgstr "Neuen gestapelten Auftrag erstellen"
 
 #v1.14.24
 msgctxt "traineditor_order_append_stack_action_warn"
@@ -569,7 +569,7 @@ msgstr "Einen oder mehrere Aufträge auswählen"
 #v1.14.24
 msgctxt "traineditor_order_timing"
 msgid "Timing:"
-msgstr "Zeitsteuerung (oder einfach Timing lassen. idk):"
+msgstr "Timing:"
 
 #v1.14.24
 msgctxt "traineditor_order_timing_enter"
@@ -584,27 +584,27 @@ msgstr "<Gleich mit Eingangsstopp>"
 #v1.14.24
 msgctxt "editor_warn_need_train_acc"
 msgid "Buy and select a train, order a train to auto run this line, or assign it to a shift running this line."
-msgstr "Kaufe und wähle einen Zug aus, weise ihn als Automatischen Zug der Linie hinzu, oder weise ihm eine Schit hinzu, die diese Linie enthält."
+msgstr "Kaufe und wähle einen Zug aus, weise ihn als automatischen Zug der Linie hinzu oder weise ihm eine Schicht zu, die diese Linie enthält."
 
 #v1.14.24
 msgctxt "error_too_old_save"
 msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.6 or newer legacy branches in Steam."
-msgstr "Die Spielversion, die diesen Spielstand erstellt hat ist zu alt und kann deshalb nicht geladen werden. Versuche die legacy-1.6 oder neuere versionen in den Steam Betas."
+msgstr "Die Spielversion, die diesen Spielstand erstellt hat ist zu alt und kann deshalb nicht geladen werden. Versuche die legacy-1.6 oder neuere Versionen in den Steam Betas."
 
 #v1.14.24
 msgctxt "lineeditor_default_timings_go_ref_train"
 msgid "View reference train in train editor"
-msgstr "Referenzzug in Zugeditor ansehen"
+msgstr "Referenzzug im Zugeditor ansehen"
 
 #v1.14.24
 msgctxt "plats_stacked_lines"
 msgid "Single column for all events of a given platform"
-msgstr "Eine Spalte für alle Ereignisse einer bestimmten Plattform"
+msgstr "Eine Spalte für alle Ereignisse eines Bahnsteigs"
 
 #v1.14.24
 msgctxt "rebuild_demand_stalled_tp"
 msgid "Tile demand rebuild is pending due to an editing action\nClick icon, press F1 or unpause the simulation to start the rebuild"
-msgstr "Aktualisierung der Kachelnachfragen steht aufgrund einer Bearbeitungsaktion noch aus\nDrücke das Symobl, drücke F1 oder starte die Simulation, um den Neuaufbau zu starten."
+msgstr "Aktualisierung der Kachelnachfragen steht aufgrund einer Bearbeitungsaktion noch aus\nDrücke das Symbol, drücke F1 oder starte die Simulation, um den Neuaufbau zu starten."
 
 #v1.14.24
 msgctxt "rebuild_timetable_stalled_tp"
@@ -659,7 +659,7 @@ msgstr "Geplant"
 #v1.14.24
 msgctxt "train_orders_mode_manual"
 msgid "Run a schedule shift"
-msgstr "Einene Schicht der Fahrplans fahren"
+msgstr "Eine Schicht des Fahrplans fahren"
 
 #v1.14.24
 msgctxt "traineditor_order_append_action"
